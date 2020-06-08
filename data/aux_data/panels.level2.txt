@@ -1,0 +1,4710 @@
+hgnc_id	Level2
+HGNC:583	Cancer Programme
+HGNC:795	Cancer Programme
+HGNC:950	Cancer Programme
+HGNC:1076	Cancer Programme
+HGNC:1100	Cancer Programme
+HGNC:1101	Cancer Programme
+HGNC:20473	Cancer Programme
+HGNC:16783	Cancer Programme
+HGNC:1748	Cancer Programme
+HGNC:1773	Cancer Programme
+HGNC:1785	Cancer Programme
+HGNC:1787	Cancer Programme
+HGNC:17098	Cancer Programme
+HGNC:11529	Cancer Programme
+HGNC:3700	Cancer Programme
+HGNC:27310	Cancer Programme
+HGNC:6342	Cancer Programme
+HGNC:6913	Cancer Programme
+HGNC:7010	Cancer Programme
+HGNC:7029	Cancer Programme
+HGNC:7127	Cancer Programme
+HGNC:7325	Cancer Programme
+HGNC:7329	Cancer Programme
+HGNC:7527	Cancer Programme
+HGNC:7765	Cancer Programme
+HGNC:7773	Cancer Programme
+HGNC:8028	Cancer Programme
+HGNC:26144	Cancer Programme
+HGNC:9122	Cancer Programme
+HGNC:9175	Cancer Programme
+HGNC:9177	Cancer Programme
+HGNC:9585	Cancer Programme
+HGNC:9588	Cancer Programme
+HGNC:9820	Cancer Programme
+HGNC:9823	Cancer Programme
+HGNC:9884	Cancer Programme
+HGNC:9967	Cancer Programme
+HGNC:10680	Cancer Programme
+HGNC:26034	Cancer Programme
+HGNC:10681	Cancer Programme
+HGNC:10682	Cancer Programme
+HGNC:10683	Cancer Programme
+HGNC:6770	Cancer Programme
+HGNC:11100	Cancer Programme
+HGNC:11103	Cancer Programme
+HGNC:11389	Cancer Programme
+HGNC:16466	Cancer Programme
+HGNC:26038	Cancer Programme
+HGNC:11998	Cancer Programme
+HGNC:12362	Cancer Programme
+HGNC:12363	Cancer Programme
+HGNC:12687	Cancer Programme
+HGNC:12796	Cancer Programme
+HGNC:358	Tumour syndromes
+HGNC:583	Tumour syndromes
+HGNC:795	Tumour syndromes
+HGNC:950	Tumour syndromes
+HGNC:1076	Tumour syndromes
+HGNC:1100	Tumour syndromes
+HGNC:1101	Tumour syndromes
+HGNC:20473	Tumour syndromes
+HGNC:16783	Tumour syndromes
+HGNC:1748	Tumour syndromes
+HGNC:1773	Tumour syndromes
+HGNC:1785	Tumour syndromes
+HGNC:1787	Tumour syndromes
+HGNC:17098	Tumour syndromes
+HGNC:11529	Tumour syndromes
+HGNC:3512	Tumour syndromes
+HGNC:3513	Tumour syndromes
+HGNC:3700	Tumour syndromes
+HGNC:27310	Tumour syndromes
+HGNC:6342	Tumour syndromes
+HGNC:6913	Tumour syndromes
+HGNC:7010	Tumour syndromes
+HGNC:7029	Tumour syndromes
+HGNC:7127	Tumour syndromes
+HGNC:7325	Tumour syndromes
+HGNC:7329	Tumour syndromes
+HGNC:7527	Tumour syndromes
+HGNC:7765	Tumour syndromes
+HGNC:7773	Tumour syndromes
+HGNC:8028	Tumour syndromes
+HGNC:26144	Tumour syndromes
+HGNC:9122	Tumour syndromes
+HGNC:9175	Tumour syndromes
+HGNC:9177	Tumour syndromes
+HGNC:9585	Tumour syndromes
+HGNC:9588	Tumour syndromes
+HGNC:9820	Tumour syndromes
+HGNC:9823	Tumour syndromes
+HGNC:9884	Tumour syndromes
+HGNC:9967	Tumour syndromes
+HGNC:10680	Tumour syndromes
+HGNC:26034	Tumour syndromes
+HGNC:10681	Tumour syndromes
+HGNC:10682	Tumour syndromes
+HGNC:10683	Tumour syndromes
+HGNC:6770	Tumour syndromes
+HGNC:11100	Tumour syndromes
+HGNC:11103	Tumour syndromes
+HGNC:11389	Tumour syndromes
+HGNC:16466	Tumour syndromes
+HGNC:26038	Tumour syndromes
+HGNC:11998	Tumour syndromes
+HGNC:12362	Tumour syndromes
+HGNC:12363	Tumour syndromes
+HGNC:12687	Tumour syndromes
+HGNC:12796	Tumour syndromes
+	Tumour syndromes
+HGNC:14376	Skeletal disorders
+HGNC:452	Skeletal disorders
+HGNC:461	Skeletal disorders
+HGNC:26300	Skeletal disorders
+HGNC:105	Skeletal disorders
+HGNC:2194	Skeletal disorders
+HGNC:2916	Skeletal disorders
+HGNC:3344	Skeletal disorders
+HGNC:23015	Skeletal disorders
+HGNC:22140	Skeletal disorders
+HGNC:24797	Skeletal disorders
+HGNC:4519	Skeletal disorders
+HGNC:6161	Skeletal disorders
+HGNC:6365	Skeletal disorders
+HGNC:6483	Skeletal disorders
+HGNC:6490	Skeletal disorders
+HGNC:6716	Skeletal disorders
+HGNC:7167	Skeletal disorders
+HGNC:25896	Skeletal disorders
+HGNC:8850	Skeletal disorders
+HGNC:8859	Skeletal disorders
+HGNC:13764	Skeletal disorders
+HGNC:29478	Skeletal disorders
+HGNC:23088	Skeletal disorders
+HGNC:23089	Skeletal disorders
+HGNC:10978	Skeletal disorders
+HGNC:11386	Skeletal disorders
+HGNC:26790	Skeletal disorders
+HGNC:443	Neurology and neurodevelopmental disorders
+HGNC:483	Neurology and neurodevelopmental disorders
+HGNC:644	Neurology and neurodevelopmental disorders
+HGNC:2711	Neurology and neurodevelopmental disorders
+HGNC:16873	Neurology and neurodevelopmental disorders
+HGNC:4010	Neurology and neurodevelopmental disorders
+HGNC:5031	Neurology and neurodevelopmental disorders
+HGNC:17142	Neurology and neurodevelopmental disorders
+HGNC:8881	Neurology and neurodevelopmental disorders
+HGNC:445	Neurology and neurodevelopmental disorders
+HGNC:8157	Neurology and neurodevelopmental disorders
+HGNC:30224	Neurology and neurodevelopmental disorders
+HGNC:16187	Neurology and neurodevelopmental disorders
+HGNC:11179	Neurology and neurodevelopmental disorders
+HGNC:11571	Neurology and neurodevelopmental disorders
+HGNC:11584	Neurology and neurodevelopmental disorders
+HGNC:12509	Neurology and neurodevelopmental disorders
+HGNC:12649	Neurology and neurodevelopmental disorders
+HGNC:12666	Neurology and neurodevelopmental disorders
+HGNC:28337	Neurology and neurodevelopmental disorders
+HGNC:15911	Neurology and neurodevelopmental disorders
+HGNC:409	Ophthalmological disorders
+HGNC:20893	Ophthalmological disorders
+HGNC:1071	Ophthalmological disorders
+HGNC:2202	Ophthalmological disorders
+HGNC:3800	Ophthalmological disorders
+HGNC:3808	Ophthalmological disorders
+HGNC:19185	Ophthalmological disorders
+HGNC:23399	Ophthalmological disorders
+HGNC:25396	Ophthalmological disorders
+HGNC:18708	Ophthalmological disorders
+HGNC:4837	Ophthalmological disorders
+HGNC:7133	Ophthalmological disorders
+HGNC:6758	Ophthalmological disorders
+HGNC:18121	Ophthalmological disorders
+HGNC:8522	Ophthalmological disorders
+HGNC:8616	Ophthalmological disorders
+HGNC:8620	Ophthalmological disorders
+HGNC:9005	Ophthalmological disorders
+HGNC:39433	Ophthalmological disorders
+HGNC:14244	Ophthalmological disorders
+HGNC:17063	Ophthalmological disorders
+HGNC:17168	Ophthalmological disorders
+HGNC:9865	Ophthalmological disorders
+HGNC:18662	Ophthalmological disorders
+HGNC:10848	Ophthalmological disorders
+HGNC:10892	Ophthalmological disorders
+HGNC:11119	Ophthalmological disorders
+HGNC:20318	Ophthalmological disorders
+HGNC:11195	Ophthalmological disorders
+HGNC:30650	Ophthalmological disorders
+HGNC:16133	Ophthalmological disorders
+HGNC:24529	Ophthalmological disorders
+HGNC:1975	Ophthalmological disorders
+HGNC:2770	Cardiovascular disorders
+HGNC:3036	Cardiovascular disorders
+HGNC:3049	Cardiovascular disorders
+HGNC:3052	Cardiovascular disorders
+HGNC:6207	Cardiovascular disorders
+HGNC:9024	Cardiovascular disorders
+HGNC:9080	Cardiovascular disorders
+HGNC:10484	Cardiovascular disorders
+HGNC:28472	Cardiovascular disorders
+HGNC:129	Neurology and neurodevelopmental disorders
+HGNC:13201	Neurology and neurodevelopmental disorders
+HGNC:13841	Neurology and neurodevelopmental disorders
+HGNC:21732	Neurology and neurodevelopmental disorders
+HGNC:24268	Neurology and neurodevelopmental disorders
+HGNC:18318	Neurology and neurodevelopmental disorders
+HGNC:28596	Neurology and neurodevelopmental disorders
+HGNC:15685	Neurology and neurodevelopmental disorders
+HGNC:1912	Neurology and neurodevelopmental disorders
+HGNC:1955	Neurology and neurodevelopmental disorders
+HGNC:1961	Neurology and neurodevelopmental disorders
+HGNC:1965	Neurology and neurodevelopmental disorders
+HGNC:1966	Neurology and neurodevelopmental disorders
+HGNC:1967	Neurology and neurodevelopmental disorders
+HGNC:24464	Neurology and neurodevelopmental disorders
+HGNC:8011	Neurology and neurodevelopmental disorders
+HGNC:2188	Neurology and neurodevelopmental disorders
+HGNC:2211	Neurology and neurodevelopmental disorders
+HGNC:2212	Neurology and neurodevelopmental disorders
+HGNC:2213	Neurology and neurodevelopmental disorders
+HGNC:2226	Neurology and neurodevelopmental disorders
+HGNC:2364	Neurology and neurodevelopmental disorders
+HGNC:2666	Neurology and neurodevelopmental disorders
+HGNC:2974	Neurology and neurodevelopmental disorders
+HGNC:26594	Neurology and neurodevelopmental disorders
+HGNC:3147	Neurology and neurodevelopmental disorders
+HGNC:3438	Neurology and neurodevelopmental disorders
+HGNC:3439	Neurology and neurodevelopmental disorders
+HGNC:17944	Neurology and neurodevelopmental disorders
+HGNC:22140	Neurology and neurodevelopmental disorders
+HGNC:3604	Neurology and neurodevelopmental disorders
+HGNC:3689	Neurology and neurodevelopmental disorders
+HGNC:3690	Neurology and neurodevelopmental disorders
+HGNC:18169	Neurology and neurodevelopmental disorders
+HGNC:17997	Neurology and neurodevelopmental disorders
+HGNC:3622	Neurology and neurodevelopmental disorders
+HGNC:3755	Neurology and neurodevelopmental disorders
+HGNC:4177	Neurology and neurodevelopmental disorders
+HGNC:4180	Neurology and neurodevelopmental disorders
+HGNC:29514	Neurology and neurodevelopmental disorders
+HGNC:4315	Neurology and neurodevelopmental disorders
+HGNC:22932	Neurology and neurodevelopmental disorders
+HGNC:5273	Neurology and neurodevelopmental disorders
+HGNC:6121	Neurology and neurodevelopmental disorders
+HGNC:37276	Neurology and neurodevelopmental disorders
+HGNC:17582	Neurology and neurodevelopmental disorders
+HGNC:26953	Neurology and neurodevelopmental disorders
+HGNC:30372	Neurology and neurodevelopmental disorders
+HGNC:16905	Neurology and neurodevelopmental disorders
+HGNC:15646	Neurology and neurodevelopmental disorders
+HGNC:6482	Neurology and neurodevelopmental disorders
+HGNC:6511	Neurology and neurodevelopmental disorders
+HGNC:18712	Neurology and neurodevelopmental disorders
+HGNC:6649	Neurology and neurodevelopmental disorders
+HGNC:7448	Neurology and neurodevelopmental disorders
+HGNC:7525	Neurology and neurodevelopmental disorders
+HGNC:7549	Neurology and neurodevelopmental disorders
+HGNC:7572	Neurology and neurodevelopmental disorders
+HGNC:7573	Neurology and neurodevelopmental disorders
+HGNC:7577	Neurology and neurodevelopmental disorders
+HGNC:7578	Neurology and neurodevelopmental disorders
+HGNC:33778	Neurology and neurodevelopmental disorders
+HGNC:19082	Neurology and neurodevelopmental disorders
+HGNC:7720	Neurology and neurodevelopmental disorders
+HGNC:8850	Neurology and neurodevelopmental disorders
+HGNC:8851	Neurology and neurodevelopmental disorders
+HGNC:8853	Neurology and neurodevelopmental disorders
+HGNC:8854	Neurology and neurodevelopmental disorders
+HGNC:8855	Neurology and neurodevelopmental disorders
+HGNC:8856	Neurology and neurodevelopmental disorders
+HGNC:8857	Neurology and neurodevelopmental disorders
+HGNC:9713	Neurology and neurodevelopmental disorders
+HGNC:9717	Neurology and neurodevelopmental disorders
+HGNC:22965	Neurology and neurodevelopmental disorders
+HGNC:8858	Neurology and neurodevelopmental disorders
+HGNC:9719	Neurology and neurodevelopmental disorders
+HGNC:8859	Neurology and neurodevelopmental disorders
+HGNC:8860	Neurology and neurodevelopmental disorders
+HGNC:8877	Neurology and neurodevelopmental disorders
+HGNC:26270	Neurology and neurodevelopmental disorders
+HGNC:9081	Neurology and neurodevelopmental disorders
+HGNC:9082	Neurology and neurodevelopmental disorders
+HGNC:19139	Neurology and neurodevelopmental disorders
+HGNC:25902	Neurology and neurodevelopmental disorders
+HGNC:26267	Neurology and neurodevelopmental disorders
+HGNC:9202	Neurology and neurodevelopmental disorders
+HGNC:19743	Neurology and neurodevelopmental disorders
+HGNC:9208	Neurology and neurodevelopmental disorders
+HGNC:9364	Neurology and neurodevelopmental disorders
+HGNC:9863	Neurology and neurodevelopmental disorders
+HGNC:496	Neurology and neurodevelopmental disorders
+HGNC:10483	Neurology and neurodevelopmental disorders
+HGNC:19869	Neurology and neurodevelopmental disorders
+HGNC:10591	Neurology and neurodevelopmental disorders
+HGNC:15999	Neurology and neurodevelopmental disorders
+HGNC:10896	Neurology and neurodevelopmental disorders
+HGNC:14025	Neurology and neurodevelopmental disorders
+HGNC:6769	Neurology and neurodevelopmental disorders
+HGNC:6770	Neurology and neurodevelopmental disorders
+HGNC:11768	Neurology and neurodevelopmental disorders
+HGNC:11769	Neurology and neurodevelopmental disorders
+HGNC:11772	Neurology and neurodevelopmental disorders
+HGNC:11773	Neurology and neurodevelopmental disorders
+HGNC:13530	Neurology and neurodevelopmental disorders
+HGNC:11946	Neurology and neurodevelopmental disorders
+HGNC:11948	Neurology and neurodevelopmental disorders
+HGNC:11950	Neurology and neurodevelopmental disorders
+HGNC:12011	Neurology and neurodevelopmental disorders
+HGNC:12012	Neurology and neurodevelopmental disorders
+HGNC:18083	Neurology and neurodevelopmental disorders
+HGNC:27561	Neurology and neurodevelopmental disorders
+HGNC:12469	Neurology and neurodevelopmental disorders
+HGNC:20347	Neurology and neurodevelopmental disorders
+HGNC:12712	Neurology and neurodevelopmental disorders
+HGNC:24931	Neurology and neurodevelopmental disorders
+HGNC:12877	Neurology and neurodevelopmental disorders
+HGNC:1318	Renal and urinary tract disorders
+HGNC:6953	Renal and urinary tract disorders
+HGNC:1037	Renal and urinary tract disorders
+HGNC:4883	Renal and urinary tract disorders
+HGNC:4888	Renal and urinary tract disorders
+HGNC:16980	Renal and urinary tract disorders
+HGNC:5394	Renal and urinary tract disorders
+HGNC:2852	Renal and urinary tract disorders
+HGNC:801	Hearing and ear disorders
+HGNC:29502	Hearing and ear disorders
+HGNC:8140	Hearing and ear disorders
+HGNC:8515	Hearing and ear disorders
+HGNC:14637	Dermatological disorders
+HGNC:430	Dermatological disorders
+HGNC:13743	Dermatological disorders
+HGNC:23752	Dermatological disorders
+HGNC:26820	Dermatological disorders
+HGNC:28018	Dermatological disorders
+HGNC:21246	Dermatological disorders
+HGNC:29958	Dermatological disorders
+HGNC:10998	Dermatological disorders
+HGNC:11344	Dermatological disorders
+HGNC:11425	Dermatological disorders
+HGNC:11459	Dermatological disorders
+HGNC:11777	Dermatological disorders
+	Dermatological disorders
+HGNC:23805	Growth disorders
+HGNC:17342	Growth disorders
+HGNC:1786	Growth disorders
+HGNC:20153	Growth disorders
+HGNC:2978	Growth disorders
+HGNC:3188	Growth disorders
+HGNC:3527	Growth disorders
+HGNC:4451	Growth disorders
+HGNC:4718	Growth disorders
+HGNC:3942	Growth disorders
+HGNC:7785	Growth disorders
+HGNC:7788	Growth disorders
+HGNC:14234	Growth disorders
+HGNC:2567	Growth disorders
+HGNC:9588	Growth disorders
+	Growth disorders
+HGNC:236	Neurology and neurodevelopmental disorders
+HGNC:800	Neurology and neurodevelopmental disorders
+HGNC:801	Neurology and neurodevelopmental disorders
+HGNC:870	Neurology and neurodevelopmental disorders
+HGNC:1388	Neurology and neurodevelopmental disorders
+HGNC:1404	Neurology and neurodevelopmental disorders
+HGNC:4326	Neurology and neurodevelopmental disorders
+HGNC:4329	Neurology and neurodevelopmental disorders
+HGNC:6218	Neurology and neurodevelopmental disorders
+HGNC:6296	Neurology and neurodevelopmental disorders
+HGNC:6297	Neurology and neurodevelopmental disorders
+HGNC:9153	Neurology and neurodevelopmental disorders
+HGNC:30500	Neurology and neurodevelopmental disorders
+HGNC:10585	Neurology and neurodevelopmental disorders
+HGNC:10596	Neurology and neurodevelopmental disorders
+HGNC:10941	Neurology and neurodevelopmental disorders
+HGNC:11005	Neurology and neurodevelopmental disorders
+HGNC:11051	Neurology and neurodevelopmental disorders
+HGNC:11257	Neurology and neurodevelopmental disorders
+HGNC:3033	Neurology and neurodevelopmental disorders
+HGNC:2482	Neurology and neurodevelopmental disorders
+HGNC:11588	Neurology and neurodevelopmental disorders
+	Neurology and neurodevelopmental disorders
+HGNC:10593	Cardiovascular disorders
+HGNC:2707	Renal and urinary tract disorders
+HGNC:145	Renal and urinary tract disorders
+HGNC:333	Renal and urinary tract disorders
+HGNC:336	Renal and urinary tract disorders
+HGNC:6211	Renal and urinary tract disorders
+HGNC:30988	Renal and urinary tract disorders
+HGNC:20626	Renal and urinary tract disorders
+HGNC:29043	Renal and urinary tract disorders
+HGNC:3519	Renal and urinary tract disorders
+HGNC:19185	Renal and urinary tract disorders
+HGNC:23399	Renal and urinary tract disorders
+HGNC:25396	Renal and urinary tract disorders
+HGNC:4172	Renal and urinary tract disorders
+HGNC:4319	Renal and urinary tract disorders
+HGNC:18708	Renal and urinary tract disorders
+HGNC:4796	Renal and urinary tract disorders
+HGNC:11630	Renal and urinary tract disorders
+HGNC:18374	Renal and urinary tract disorders
+HGNC:6144	Renal and urinary tract disorders
+HGNC:6469	Renal and urinary tract disorders
+HGNC:20889	Renal and urinary tract disorders
+HGNC:7907	Renal and urinary tract disorders
+HGNC:8616	Renal and urinary tract disorders
+HGNC:8632	Renal and urinary tract disorders
+HGNC:9958	Renal and urinary tract disorders
+HGNC:9967	Renal and urinary tract disorders
+HGNC:29168	Renal and urinary tract disorders
+HGNC:17296	Renal and urinary tract disorders
+HGNC:10524	Renal and urinary tract disorders
+HGNC:10891	Renal and urinary tract disorders
+HGNC:11595	Renal and urinary tract disorders
+HGNC:16264	Renal and urinary tract disorders
+HGNC:12712	Renal and urinary tract disorders
+	Renal and urinary tract disorders
+HGNC:13201	Ophthalmological disorders
+HGNC:21869	Ophthalmological disorders
+HGNC:327	Ophthalmological disorders
+HGNC:9722	Ophthalmological disorders
+HGNC:20207	Ophthalmological disorders
+HGNC:1040	Ophthalmological disorders
+HGNC:1041	Ophthalmological disorders
+HGNC:16171	Ophthalmological disorders
+HGNC:2186	Ophthalmological disorders
+HGNC:2195	Ophthalmological disorders
+HGNC:2200	Ophthalmological disorders
+HGNC:2388	Ophthalmological disorders
+HGNC:2389	Ophthalmological disorders
+HGNC:2394	Ophthalmological disorders
+HGNC:2396	Ophthalmological disorders
+HGNC:2397	Ophthalmological disorders
+HGNC:2398	Ophthalmological disorders
+HGNC:2400	Ophthalmological disorders
+HGNC:2410	Ophthalmological disorders
+HGNC:2411	Ophthalmological disorders
+HGNC:2417	Ophthalmological disorders
+HGNC:2605	Ophthalmological disorders
+HGNC:2649	Ophthalmological disorders
+HGNC:2860	Ophthalmological disorders
+HGNC:3188	Ophthalmological disorders
+HGNC:3386	Ophthalmological disorders
+HGNC:3434	Ophthalmological disorders
+HGNC:3435	Ophthalmological disorders
+HGNC:3438	Ophthalmological disorders
+HGNC:3439	Ophthalmological disorders
+HGNC:24587	Ophthalmological disorders
+HGNC:3999	Ophthalmological disorders
+HGNC:14673	Ophthalmological disorders
+HGNC:4118	Ophthalmological disorders
+HGNC:4135	Ophthalmological disorders
+HGNC:4204	Ophthalmological disorders
+HGNC:4277	Ophthalmological disorders
+HGNC:4281	Ophthalmological disorders
+HGNC:4416	Ophthalmological disorders
+HGNC:5017	Ophthalmological disorders
+HGNC:5227	Ophthalmological disorders
+HGNC:14348	Ophthalmological disorders
+HGNC:33882	Ophthalmological disorders
+HGNC:15532	Ophthalmological disorders
+HGNC:6522	Ophthalmological disorders
+HGNC:6610	Ophthalmological disorders
+HGNC:6776	Ophthalmological disorders
+HGNC:6826	Ophthalmological disorders
+HGNC:7103	Ophthalmological disorders
+HGNC:31555	Ophthalmological disorders
+HGNC:10545	Ophthalmological disorders
+HGNC:7579	Ophthalmological disorders
+HGNC:7678	Ophthalmological disorders
+HGNC:7773	Ophthalmological disorders
+HGNC:7820	Ophthalmological disorders
+HGNC:8108	Ophthalmological disorders
+HGNC:8142	Ophthalmological disorders
+HGNC:19317	Ophthalmological disorders
+HGNC:8850	Ophthalmological disorders
+HGNC:8851	Ophthalmological disorders
+HGNC:8853	Ophthalmological disorders
+HGNC:8854	Ophthalmological disorders
+HGNC:8855	Ophthalmological disorders
+HGNC:8856	Ophthalmological disorders
+HGNC:8857	Ophthalmological disorders
+HGNC:9713	Ophthalmological disorders
+HGNC:9717	Ophthalmological disorders
+HGNC:22965	Ophthalmological disorders
+HGNC:8858	Ophthalmological disorders
+HGNC:9719	Ophthalmological disorders
+HGNC:8859	Ophthalmological disorders
+HGNC:8860	Ophthalmological disorders
+HGNC:9006	Ophthalmological disorders
+HGNC:14966	Ophthalmological disorders
+HGNC:10547	Ophthalmological disorders
+HGNC:24624	Ophthalmological disorders
+HGNC:11005	Ophthalmological disorders
+HGNC:95	Ophthalmological disorders
+HGNC:25812	Ophthalmological disorders
+HGNC:30831	Ophthalmological disorders
+HGNC:11742	Ophthalmological disorders
+HGNC:12692	Ophthalmological disorders
+HGNC:12791	Ophthalmological disorders
+HGNC:1442	Cardiovascular disorders
+HGNC:1445	Cardiovascular disorders
+HGNC:1513	Cardiovascular disorders
+HGNC:12261	Cardiovascular disorders
+HGNC:4512	Neurology and neurodevelopmental disorders
+HGNC:469	Neurology and neurodevelopmental disorders
+HGNC:1394	Neurology and neurodevelopmental disorders
+HGNC:1497	Neurology and neurodevelopmental disorders
+HGNC:8740	Neurology and neurodevelopmental disorders
+HGNC:16999	Neurology and neurodevelopmental disorders
+HGNC:25613	Neurology and neurodevelopmental disorders
+HGNC:2890	Neurology and neurodevelopmental disorders
+HGNC:6180	Neurology and neurodevelopmental disorders
+HGNC:6235	Neurology and neurodevelopmental disorders
+HGNC:13664	Neurology and neurodevelopmental disorders
+HGNC:8148	Neurology and neurodevelopmental disorders
+HGNC:23734	Neurology and neurodevelopmental disorders
+HGNC:21406	Neurology and neurodevelopmental disorders
+HGNC:9957	Neurology and neurodevelopmental disorders
+HGNC:13433	Neurology and neurodevelopmental disorders
+HGNC:30605	Neurology and neurodevelopmental disorders
+HGNC:14977	Neurology and neurodevelopmental disorders
+HGNC:11276	Neurology and neurodevelopmental disorders
+HGNC:11824	Neurology and neurodevelopmental disorders
+HGNC:15954	Neurology and neurodevelopmental disorders
+HGNC:28422	Neurology and neurodevelopmental disorders
+HGNC:15506	Neurology and neurodevelopmental disorders
+HGNC:20766	Neurology and neurodevelopmental disorders
+HGNC:30829	Neurology and neurodevelopmental disorders
+HGNC:20772	Neurology and neurodevelopmental disorders
+HGNC:12698	Neurology and neurodevelopmental disorders
+HGNC:12718	Neurology and neurodevelopmental disorders
+HGNC:26600	Neurology and neurodevelopmental disorders
+HGNC:2861	Metabolic disorders
+HGNC:3791	Metabolic disorders
+HGNC:7436	Metabolic disorders
+HGNC:30521	Metabolic disorders
+HGNC:130	Neurology and neurodevelopmental disorders
+HGNC:175	Neurology and neurodevelopmental disorders
+HGNC:1839	Neurology and neurodevelopmental disorders
+HGNC:882	Neurology and neurodevelopmental disorders
+HGNC:21708	Neurology and neurodevelopmental disorders
+HGNC:29298	Neurology and neurodevelopmental disorders
+HGNC:2201	Neurology and neurodevelopmental disorders
+HGNC:3327	Neurology and neurodevelopmental disorders
+HGNC:3349	Neurology and neurodevelopmental disorders
+HGNC:20105	Neurology and neurodevelopmental disorders
+HGNC:4685	Neurology and neurodevelopmental disorders
+HGNC:4827	Neurology and neurodevelopmental disorders
+HGNC:6188	Neurology and neurodevelopmental disorders
+HGNC:1573	Neurology and neurodevelopmental disorders
+HGNC:7765	Neurology and neurodevelopmental disorders
+HGNC:7883	Neurology and neurodevelopmental disorders
+HGNC:16068	Neurology and neurodevelopmental disorders
+HGNC:8761	Neurology and neurodevelopmental disorders
+HGNC:9008	Neurology and neurodevelopmental disorders
+HGNC:9009	Neurology and neurodevelopmental disorders
+HGNC:9871	Neurology and neurodevelopmental disorders
+HGNC:15925	Neurology and neurodevelopmental disorders
+HGNC:13444	Neurology and neurodevelopmental disorders
+HGNC:17754	Neurology and neurodevelopmental disorders
+HGNC:427	Cancer Programme
+HGNC:1058	Cancer Programme
+HGNC:1097	Cancer Programme
+HGNC:1541	Cancer Programme
+HGNC:1786	Cancer Programme
+HGNC:2718	Cancer Programme
+HGNC:3433	Cancer Programme
+HGNC:3434	Cancer Programme
+HGNC:3435	Cancer Programme
+HGNC:3436	Cancer Programme
+HGNC:3437	Cancer Programme
+HGNC:3582	Cancer Programme
+HGNC:3584	Cancer Programme
+HGNC:3585	Cancer Programme
+HGNC:3586	Cancer Programme
+HGNC:3587	Cancer Programme
+HGNC:3588	Cancer Programme
+HGNC:25568	Cancer Programme
+HGNC:20748	Cancer Programme
+HGNC:6407	Cancer Programme
+HGNC:6840	Cancer Programme
+HGNC:6842	Cancer Programme
+HGNC:7652	Cancer Programme
+HGNC:14377	Cancer Programme
+HGNC:14378	Cancer Programme
+HGNC:7989	Cancer Programme
+HGNC:8619	Cancer Programme
+HGNC:9143	Cancer Programme
+HGNC:9388	Cancer Programme
+HGNC:9644	Cancer Programme
+HGNC:9829	Cancer Programme
+HGNC:9949	Cancer Programme
+HGNC:15454	Cancer Programme
+HGNC:11187	Cancer Programme
+HGNC:11730	Cancer Programme
+HGNC:12791	Cancer Programme
+HGNC:12814	Cancer Programme
+HGNC:12816	Cancer Programme
+HGNC:327	Skeletal disorders
+HGNC:719	Skeletal disorders
+HGNC:3133	Skeletal disorders
+HGNC:4416	Skeletal disorders
+HGNC:8860	Skeletal disorders
+HGNC:12362	Neurology and neurodevelopmental disorders
+HGNC:12363	Neurology and neurodevelopmental disorders
+HGNC:132	Dysmorphic and congenital abnormality syndromes
+HGNC:144	Dysmorphic and congenital abnormality syndromes
+HGNC:26837	Dysmorphic and congenital abnormality syndromes
+HGNC:21316	Dysmorphic and congenital abnormality syndromes
+HGNC:29216	Dysmorphic and congenital abnormality syndromes
+HGNC:18318	Dysmorphic and congenital abnormality syndromes
+HGNC:20207	Dysmorphic and congenital abnormality syndromes
+HGNC:20893	Dysmorphic and congenital abnormality syndromes
+HGNC:24564	Dysmorphic and congenital abnormality syndromes
+HGNC:25801	Dysmorphic and congenital abnormality syndromes
+HGNC:29253	Dysmorphic and congenital abnormality syndromes
+HGNC:1748	Dysmorphic and congenital abnormality syndromes
+HGNC:1786	Dysmorphic and congenital abnormality syndromes
+HGNC:20626	Dysmorphic and congenital abnormality syndromes
+HGNC:1967	Dysmorphic and congenital abnormality syndromes
+HGNC:24464	Dysmorphic and congenital abnormality syndromes
+HGNC:2186	Dysmorphic and congenital abnormality syndromes
+HGNC:2187	Dysmorphic and congenital abnormality syndromes
+HGNC:2200	Dysmorphic and congenital abnormality syndromes
+HGNC:2217	Dysmorphic and congenital abnormality syndromes
+HGNC:2220	Dysmorphic and congenital abnormality syndromes
+HGNC:17213	Dysmorphic and congenital abnormality syndromes
+HGNC:13723	Dysmorphic and congenital abnormality syndromes
+HGNC:2515	Dysmorphic and congenital abnormality syndromes
+HGNC:2860	Dysmorphic and congenital abnormality syndromes
+HGNC:2867	Dysmorphic and congenital abnormality syndromes
+HGNC:2910	Dysmorphic and congenital abnormality syndromes
+HGNC:19189	Dysmorphic and congenital abnormality syndromes
+HGNC:3084	Dysmorphic and congenital abnormality syndromes
+HGNC:3087	Dysmorphic and congenital abnormality syndromes
+HGNC:2962	Dysmorphic and congenital abnormality syndromes
+HGNC:24595	Dysmorphic and congenital abnormality syndromes
+HGNC:3133	Dysmorphic and congenital abnormality syndromes
+HGNC:3179	Dysmorphic and congenital abnormality syndromes
+HGNC:3226	Dysmorphic and congenital abnormality syndromes
+HGNC:30858	Dysmorphic and congenital abnormality syndromes
+HGNC:3267	Dysmorphic and congenital abnormality syndromes
+HGNC:28526	Dysmorphic and congenital abnormality syndromes
+HGNC:29331	Dysmorphic and congenital abnormality syndromes
+HGNC:27230	Dysmorphic and congenital abnormality syndromes
+HGNC:3519	Dysmorphic and congenital abnormality syndromes
+HGNC:22140	Dysmorphic and congenital abnormality syndromes
+HGNC:3663	Dysmorphic and congenital abnormality syndromes
+HGNC:3688	Dysmorphic and congenital abnormality syndromes
+HGNC:3689	Dysmorphic and congenital abnormality syndromes
+HGNC:3754	Dysmorphic and congenital abnormality syndromes
+HGNC:3755	Dysmorphic and congenital abnormality syndromes
+HGNC:3801	Dysmorphic and congenital abnormality syndromes
+HGNC:19185	Dysmorphic and congenital abnormality syndromes
+HGNC:4274	Dysmorphic and congenital abnormality syndromes
+HGNC:4319	Dysmorphic and congenital abnormality syndromes
+HGNC:4451	Dysmorphic and congenital abnormality syndromes
+HGNC:25839	Dysmorphic and congenital abnormality syndromes
+HGNC:13315	Dysmorphic and congenital abnormality syndromes
+HGNC:26558	Dysmorphic and congenital abnormality syndromes
+HGNC:21219	Dysmorphic and congenital abnormality syndromes
+HGNC:29077	Dysmorphic and congenital abnormality syndromes
+HGNC:30391	Dysmorphic and congenital abnormality syndromes
+HGNC:29262	Dysmorphic and congenital abnormality syndromes
+HGNC:26019	Dysmorphic and congenital abnormality syndromes
+HGNC:6121	Dysmorphic and congenital abnormality syndromes
+HGNC:13013	Dysmorphic and congenital abnormality syndromes
+HGNC:6263	Dysmorphic and congenital abnormality syndromes
+HGNC:12637	Dysmorphic and congenital abnormality syndromes
+HGNC:19960	Dysmorphic and congenital abnormality syndromes
+HGNC:23419	Dysmorphic and congenital abnormality syndromes
+HGNC:30497	Dysmorphic and congenital abnormality syndromes
+HGNC:7133	Dysmorphic and congenital abnormality syndromes
+HGNC:6859	Dysmorphic and congenital abnormality syndromes
+HGNC:6891	Dysmorphic and congenital abnormality syndromes
+HGNC:6901	Dysmorphic and congenital abnormality syndromes
+HGNC:15455	Dysmorphic and congenital abnormality syndromes
+HGNC:7001	Dysmorphic and congenital abnormality syndromes
+HGNC:7095	Dysmorphic and congenital abnormality syndromes
+HGNC:7121	Dysmorphic and congenital abnormality syndromes
+HGNC:7391	Dysmorphic and congenital abnormality syndromes
+HGNC:33778	Dysmorphic and congenital abnormality syndromes
+HGNC:9706	Dysmorphic and congenital abnormality syndromes
+HGNC:7728	Dysmorphic and congenital abnormality syndromes
+HGNC:7744	Dysmorphic and congenital abnormality syndromes
+HGNC:28862	Dysmorphic and congenital abnormality syndromes
+HGNC:7881	Dysmorphic and congenital abnormality syndromes
+HGNC:2567	Dysmorphic and congenital abnormality syndromes
+HGNC:8617	Dysmorphic and congenital abnormality syndromes
+HGNC:20672	Dysmorphic and congenital abnormality syndromes
+HGNC:26270	Dysmorphic and congenital abnormality syndromes
+HGNC:8967	Dysmorphic and congenital abnormality syndromes
+HGNC:26031	Dysmorphic and congenital abnormality syndromes
+HGNC:20194	Dysmorphic and congenital abnormality syndromes
+HGNC:20422	Dysmorphic and congenital abnormality syndromes
+HGNC:17652	Dysmorphic and congenital abnormality syndromes
+HGNC:9585	Dysmorphic and congenital abnormality syndromes
+HGNC:9896	Dysmorphic and congenital abnormality syndromes
+HGNC:10257	Dysmorphic and congenital abnormality syndromes
+HGNC:10360	Dysmorphic and congenital abnormality syndromes
+HGNC:10414	Dysmorphic and congenital abnormality syndromes
+HGNC:15924	Dysmorphic and congenital abnormality syndromes
+HGNC:21637	Dysmorphic and congenital abnormality syndromes
+HGNC:19869	Dysmorphic and congenital abnormality syndromes
+HGNC:7323	Dysmorphic and congenital abnormality syndromes
+HGNC:10771	Dysmorphic and congenital abnormality syndromes
+HGNC:10848	Dysmorphic and congenital abnormality syndromes
+HGNC:10887	Dysmorphic and congenital abnormality syndromes
+HGNC:10889	Dysmorphic and congenital abnormality syndromes
+HGNC:10891	Dysmorphic and congenital abnormality syndromes
+HGNC:10896	Dysmorphic and congenital abnormality syndromes
+HGNC:10994	Dysmorphic and congenital abnormality syndromes
+HGNC:6769	Dysmorphic and congenital abnormality syndromes
+HGNC:6770	Dysmorphic and congenital abnormality syndromes
+HGNC:11111	Dysmorphic and congenital abnormality syndromes
+HGNC:2468	Dysmorphic and congenital abnormality syndromes
+HGNC:11123	Dysmorphic and congenital abnormality syndromes
+HGNC:11153	Dysmorphic and congenital abnormality syndromes
+HGNC:11183	Dysmorphic and congenital abnormality syndromes
+HGNC:11204	Dysmorphic and congenital abnormality syndromes
+HGNC:29022	Dysmorphic and congenital abnormality syndromes
+HGNC:16950	Dysmorphic and congenital abnormality syndromes
+HGNC:11600	Dysmorphic and congenital abnormality syndromes
+HGNC:11654	Dysmorphic and congenital abnormality syndromes
+HGNC:24519	Dysmorphic and congenital abnormality syndromes
+HGNC:29099	Dysmorphic and congenital abnormality syndromes
+HGNC:11742	Dysmorphic and congenital abnormality syndromes
+HGNC:20324	Dysmorphic and congenital abnormality syndromes
+HGNC:11769	Dysmorphic and congenital abnormality syndromes
+HGNC:11772	Dysmorphic and congenital abnormality syndromes
+HGNC:11773	Dysmorphic and congenital abnormality syndromes
+HGNC:18188	Dysmorphic and congenital abnormality syndromes
+HGNC:15979	Dysmorphic and congenital abnormality syndromes
+HGNC:30832	Dysmorphic and congenital abnormality syndromes
+HGNC:7523	Dysmorphic and congenital abnormality syndromes
+HGNC:20778	Dysmorphic and congenital abnormality syndromes
+HGNC:30551	Dysmorphic and congenital abnormality syndromes
+HGNC:12632	Dysmorphic and congenital abnormality syndromes
+HGNC:12784	Dysmorphic and congenital abnormality syndromes
+HGNC:15516	Dysmorphic and congenital abnormality syndromes
+HGNC:14881	Dysmorphic and congenital abnormality syndromes
+HGNC:12873	Dysmorphic and congenital abnormality syndromes
+HGNC:12874	Dysmorphic and congenital abnormality syndromes
+HGNC:29316	Dysmorphic and congenital abnormality syndromes
+	Dysmorphic and congenital abnormality syndromes
+HGNC:13666	Endocrine disorders
+HGNC:360	Endocrine disorders
+HGNC:1786	Endocrine disorders
+HGNC:2590	Endocrine disorders
+HGNC:6930	Endocrine disorders
+HGNC:1304	Endocrine disorders
+HGNC:7863	Endocrine disorders
+HGNC:7960	Endocrine disorders
+HGNC:7983	Endocrine disorders
+HGNC:1348	Endocrine disorders
+HGNC:10817	Endocrine disorders
+HGNC:11359	Endocrine disorders
+HGNC:11596	Endocrine disorders
+HGNC:18294	Metabolic disorders
+HGNC:32456	Metabolic disorders
+HGNC:19358	Metabolic disorders
+HGNC:23056	Metabolic disorders
+HGNC:23157	Metabolic disorders
+HGNC:23161	Metabolic disorders
+HGNC:15672	Metabolic disorders
+HGNC:868	Metabolic disorders
+HGNC:18481	Metabolic disorders
+HGNC:28596	Metabolic disorders
+HGNC:17978	Metabolic disorders
+HGNC:923	Metabolic disorders
+HGNC:20207	Metabolic disorders
+HGNC:924	Metabolic disorders
+HGNC:930	Metabolic disorders
+HGNC:28178	Metabolic disorders
+HGNC:24464	Metabolic disorders
+HGNC:1971	Metabolic disorders
+HGNC:6938	Metabolic disorders
+HGNC:17198	Metabolic disorders
+HGNC:6545	Metabolic disorders
+HGNC:18620	Metabolic disorders
+HGNC:14857	Metabolic disorders
+HGNC:18621	Metabolic disorders
+HGNC:18622	Metabolic disorders
+HGNC:18623	Metabolic disorders
+HGNC:23406	Metabolic disorders
+HGNC:2995	Metabolic disorders
+HGNC:3005	Metabolic disorders
+HGNC:3512	Metabolic disorders
+HGNC:3513	Metabolic disorders
+HGNC:17997	Metabolic disorders
+HGNC:3622	Metabolic disorders
+HGNC:4019	Metabolic disorders
+HGNC:4125	Metabolic disorders
+HGNC:4241	Metabolic disorders
+HGNC:22932	Metabolic disorders
+HGNC:23657	Metabolic disorders
+HGNC:37276	Metabolic disorders
+HGNC:6511	Metabolic disorders
+HGNC:6823	Metabolic disorders
+HGNC:7045	Metabolic disorders
+HGNC:24862	Metabolic disorders
+HGNC:7207	Metabolic disorders
+HGNC:7216	Metabolic disorders
+HGNC:17646	Metabolic disorders
+HGNC:17893	Metabolic disorders
+HGNC:23719	Metabolic disorders
+HGNC:8905	Metabolic disorders
+HGNC:8907	Metabolic disorders
+HGNC:8957	Metabolic disorders
+HGNC:8966	Metabolic disorders
+HGNC:8967	Metabolic disorders
+HGNC:23215	Metabolic disorders
+HGNC:14938	Metabolic disorders
+HGNC:26031	Metabolic disorders
+HGNC:9115	Metabolic disorders
+HGNC:19139	Metabolic disorders
+HGNC:25902	Metabolic disorders
+HGNC:9202	Metabolic disorders
+HGNC:19743	Metabolic disorders
+HGNC:30220	Metabolic disorders
+HGNC:10702	Metabolic disorders
+HGNC:11021	Metabolic disorders
+HGNC:20197	Metabolic disorders
+HGNC:20800	Metabolic disorders
+HGNC:20862	Metabolic disorders
+HGNC:25812	Metabolic disorders
+HGNC:11326	Metabolic disorders
+HGNC:10872	Metabolic disorders
+HGNC:30760	Metabolic disorders
+HGNC:13530	Metabolic disorders
+HGNC:30242	Metabolic disorders
+HGNC:15516	Metabolic disorders
+HGNC:15517	Metabolic disorders
+HGNC:59	Endocrine disorders
+HGNC:392	Endocrine disorders
+HGNC:5022	Endocrine disorders
+HGNC:4195	Endocrine disorders
+HGNC:4335	Endocrine disorders
+HGNC:4451	Endocrine disorders
+HGNC:4799	Endocrine disorders
+HGNC:11621	Endocrine disorders
+HGNC:5024	Endocrine disorders
+HGNC:6091	Endocrine disorders
+HGNC:6257	Endocrine disorders
+HGNC:12637	Endocrine disorders
+HGNC:7133	Endocrine disorders
+HGNC:9115	Endocrine disorders
+HGNC:10922	Endocrine disorders
+HGNC:13273	Endocrine disorders
+HGNC:32698	Endocrine disorders
+HGNC:3806	Endocrine disorders
+HGNC:28510	Endocrine disorders
+HGNC:4392	Endocrine disorders
+HGNC:4877	Endocrine disorders
+HGNC:5948	Endocrine disorders
+HGNC:6128	Endocrine disorders
+HGNC:21071	Endocrine disorders
+HGNC:6595	Endocrine disorders
+HGNC:21734	Endocrine disorders
+HGNC:11825	Endocrine disorders
+HGNC:8522	Endocrine disorders
+HGNC:8622	Endocrine disorders
+HGNC:9210	Endocrine disorders
+HGNC:9388	Endocrine disorders
+HGNC:9455	Endocrine disorders
+HGNC:30972	Endocrine disorders
+HGNC:10923	Endocrine disorders
+HGNC:8818	Endocrine disorders
+HGNC:14467	Endocrine disorders
+HGNC:11040	Endocrine disorders
+HGNC:11585	Endocrine disorders
+HGNC:11764	Endocrine disorders
+HGNC:11796	Endocrine disorders
+HGNC:11799	Endocrine disorders
+HGNC:12015	Endocrine disorders
+HGNC:12299	Endocrine disorders
+HGNC:12372	Endocrine disorders
+HGNC:12373	Endocrine disorders
+HGNC:1938	Neurology and neurodevelopmental disorders
+HGNC:2928	Neurology and neurodevelopmental disorders
+HGNC:23406	Neurology and neurodevelopmental disorders
+HGNC:3006	Neurology and neurodevelopmental disorders
+HGNC:33882	Neurology and neurodevelopmental disorders
+HGNC:6143	Neurology and neurodevelopmental disorders
+HGNC:6636	Neurology and neurodevelopmental disorders
+HGNC:1530	Neurology and neurodevelopmental disorders
+HGNC:17089	Neurology and neurodevelopmental disorders
+HGNC:2933	Neurology and neurodevelopmental disorders
+HGNC:329	Neurology and neurodevelopmental disorders
+HGNC:2190	Neurology and neurodevelopmental disorders
+HGNC:2995	Neurology and neurodevelopmental disorders
+HGNC:4241	Neurology and neurodevelopmental disorders
+HGNC:6696	Neurology and neurodevelopmental disorders
+HGNC:9069	Neurology and neurodevelopmental disorders
+HGNC:10936	Neurology and neurodevelopmental disorders
+HGNC:1052	Neurology and neurodevelopmental disorders
+HGNC:1397	Neurology and neurodevelopmental disorders
+HGNC:1875	Neurology and neurodevelopmental disorders
+HGNC:29331	Neurology and neurodevelopmental disorders
+HGNC:18625	Neurology and neurodevelopmental disorders
+HGNC:14348	Neurology and neurodevelopmental disorders
+HGNC:37227	Neurology and neurodevelopmental disorders
+HGNC:17797	Neurology and neurodevelopmental disorders
+HGNC:29634	Neurology and neurodevelopmental disorders
+HGNC:18150	Neurology and neurodevelopmental disorders
+HGNC:25896	Neurology and neurodevelopmental disorders
+HGNC:10990	Neurology and neurodevelopmental disorders
+HGNC:16901	Neurology and neurodevelopmental disorders
+HGNC:28423	Neurology and neurodevelopmental disorders
+HGNC:11386	Neurology and neurodevelopmental disorders
+HGNC:12403	Neurology and neurodevelopmental disorders
+HGNC:22082	Neurology and neurodevelopmental disorders
+HGNC:17110	Ophthalmological disorders
+HGNC:29861	Ophthalmological disorders
+HGNC:6938	Ophthalmological disorders
+HGNC:2216	Ophthalmological disorders
+HGNC:2705	Ophthalmological disorders
+HGNC:4274	Ophthalmological disorders
+HGNC:4620	Ophthalmological disorders
+HGNC:6309	Ophthalmological disorders
+HGNC:6414	Ophthalmological disorders
+HGNC:6440	Ophthalmological disorders
+HGNC:6715	Ophthalmological disorders
+HGNC:15804	Ophthalmological disorders
+HGNC:8979	Ophthalmological disorders
+HGNC:23785	Ophthalmological disorders
+HGNC:9349	Ophthalmological disorders
+HGNC:23094	Ophthalmological disorders
+HGNC:16438	Ophthalmological disorders
+HGNC:11530	Ophthalmological disorders
+HGNC:11771	Ophthalmological disorders
+HGNC:30791	Ophthalmological disorders
+HGNC:12723	Ophthalmological disorders
+HGNC:11642	Ophthalmological disorders
+HGNC:23216	Ophthalmological disorders
+HGNC:438	Skeletal disorders
+HGNC:450	Skeletal disorders
+HGNC:714	Skeletal disorders
+HGNC:18318	Skeletal disorders
+HGNC:1097	Skeletal disorders
+HGNC:1739	Skeletal disorders
+HGNC:17213	Skeletal disorders
+HGNC:2536	Skeletal disorders
+HGNC:20581	Skeletal disorders
+HGNC:3226	Skeletal disorders
+HGNC:3444	Skeletal disorders
+HGNC:3688	Skeletal disorders
+HGNC:3689	Skeletal disorders
+HGNC:3690	Skeletal disorders
+HGNC:3754	Skeletal disorders
+HGNC:4319	Skeletal disorders
+HGNC:4392	Skeletal disorders
+HGNC:29670	Skeletal disorders
+HGNC:30892	Skeletal disorders
+HGNC:5389	Skeletal disorders
+HGNC:5391	Skeletal disorders
+HGNC:13556	Skeletal disorders
+HGNC:5956	Skeletal disorders
+HGNC:5967	Skeletal disorders
+HGNC:6188	Skeletal disorders
+HGNC:13013	Skeletal disorders
+HGNC:7133	Skeletal disorders
+HGNC:6407	Skeletal disorders
+HGNC:3233	Skeletal disorders
+HGNC:7392	Skeletal disorders
+HGNC:8548	Skeletal disorders
+HGNC:8918	Skeletal disorders
+HGNC:9208	Skeletal disorders
+HGNC:9644	Skeletal disorders
+HGNC:14263	Skeletal disorders
+HGNC:9949	Skeletal disorders
+HGNC:10472	Skeletal disorders
+HGNC:10896	Skeletal disorders
+HGNC:20662	Skeletal disorders
+HGNC:6772	Skeletal disorders
+HGNC:11119	Skeletal disorders
+HGNC:29022	Skeletal disorders
+HGNC:11364	Skeletal disorders
+HGNC:11623	Skeletal disorders
+HGNC:11772	Skeletal disorders
+HGNC:11773	Skeletal disorders
+HGNC:11842	Skeletal disorders
+HGNC:12428	Skeletal disorders
+HGNC:29250	Skeletal disorders
+HGNC:14881	Skeletal disorders
+HGNC:12872	Skeletal disorders
+	Skeletal disorders
+HGNC:26724	Renal and urinary tract disorders
+HGNC:29182	Renal and urinary tract disorders
+HGNC:17966	Renal and urinary tract disorders
+HGNC:2202	Renal and urinary tract disorders
+HGNC:14889	Renal and urinary tract disorders
+HGNC:26551	Renal and urinary tract disorders
+HGNC:4138	Renal and urinary tract disorders
+HGNC:17870	Renal and urinary tract disorders
+HGNC:29536	Renal and urinary tract disorders
+HGNC:7905	Renal and urinary tract disorders
+HGNC:19104	Renal and urinary tract disorders
+HGNC:9008	Renal and urinary tract disorders
+HGNC:9009	Renal and urinary tract disorders
+HGNC:9016	Renal and urinary tract disorders
+HGNC:28396	Renal and urinary tract disorders
+HGNC:12362	Renal and urinary tract disorders
+HGNC:12363	Renal and urinary tract disorders
+HGNC:25660	Renal and urinary tract disorders
+HGNC:12559	Renal and urinary tract disorders
+HGNC:12687	Renal and urinary tract disorders
+HGNC:18340	Renal and urinary tract disorders
+HGNC:48	Haematological disorders
+HGNC:1839	Haematological disorders
+HGNC:1366	Haematological disorders
+HGNC:361	Haematological disorders
+HGNC:397	Haematological disorders
+HGNC:414	Haematological disorders
+HGNC:14604	Haematological disorders
+HGNC:492	Haematological disorders
+HGNC:1101	Haematological disorders
+HGNC:20473	Haematological disorders
+HGNC:26929	Haematological disorders
+HGNC:1689	Haematological disorders
+HGNC:1713	Haematological disorders
+HGNC:2439	Haematological disorders
+HGNC:26169	Haematological disorders
+HGNC:2548	Haematological disorders
+HGNC:2561	Haematological disorders
+HGNC:2861	Haematological disorders
+HGNC:2890	Haematological disorders
+HGNC:27030	Haematological disorders
+HGNC:3309	Haematological disorders
+HGNC:3377	Haematological disorders
+HGNC:3381	Haematological disorders
+HGNC:3436	Haematological disorders
+HGNC:26922	Haematological disorders
+HGNC:3582	Haematological disorders
+HGNC:3583	Haematological disorders
+HGNC:3584	Haematological disorders
+HGNC:3585	Haematological disorders
+HGNC:3586	Haematological disorders
+HGNC:3587	Haematological disorders
+HGNC:3588	Haematological disorders
+HGNC:25568	Haematological disorders
+HGNC:20748	Haematological disorders
+HGNC:24861	Haematological disorders
+HGNC:4057	Haematological disorders
+HGNC:4170	Haematological disorders
+HGNC:4171	Haematological disorders
+HGNC:4311	Haematological disorders
+HGNC:4237	Haematological disorders
+HGNC:20134	Haematological disorders
+HGNC:4624	Haematological disorders
+HGNC:16915	Haematological disorders
+HGNC:4823	Haematological disorders
+HGNC:4824	Haematological disorders
+HGNC:4827	Haematological disorders
+HGNC:4922	Haematological disorders
+HGNC:6392	Haematological disorders
+HGNC:6345	Haematological disorders
+HGNC:14450	Haematological disorders
+HGNC:7217	Haematological disorders
+HGNC:7468	Haematological disorders
+HGNC:7473	Haematological disorders
+HGNC:7652	Haematological disorders
+HGNC:17820	Haematological disorders
+HGNC:26144	Haematological disorders
+HGNC:8877	Haematological disorders
+HGNC:28993	Haematological disorders
+HGNC:9020	Haematological disorders
+HGNC:15508	Haematological disorders
+HGNC:10006	Haematological disorders
+HGNC:10031	Haematological disorders
+HGNC:10301	Haematological disorders
+HGNC:10345	Haematological disorders
+HGNC:10360	Haematological disorders
+HGNC:10383	Haematological disorders
+HGNC:10397	Haematological disorders
+HGNC:10402	Haematological disorders
+HGNC:10411	Haematological disorders
+HGNC:10414	Haematological disorders
+HGNC:10440	Haematological disorders
+HGNC:15888	Haematological disorders
+HGNC:1348	Haematological disorders
+HGNC:1349	Haematological disorders
+HGNC:19440	Haematological disorders
+HGNC:10702	Haematological disorders
+HGNC:10908	Haematological disorders
+HGNC:10938	Haematological disorders
+HGNC:26054	Haematological disorders
+HGNC:11005	Haematological disorders
+HGNC:11027	Haematological disorders
+HGNC:23845	Haematological disorders
+HGNC:11272	Haematological disorders
+HGNC:11274	Haematological disorders
+HGNC:11577	Haematological disorders
+HGNC:11653	Haematological disorders
+HGNC:11730	Haematological disorders
+HGNC:11740	Haematological disorders
+HGNC:16517	Haematological disorders
+HGNC:12009	Haematological disorders
+HGNC:25009	Haematological disorders
+HGNC:12592	Haematological disorders
+HGNC:14579	Haematological disorders
+HGNC:12731	Haematological disorders
+HGNC:12736	Haematological disorders
+HGNC:24249	Haematological disorders
+HGNC:1071	Hearing and ear disorders
+HGNC:1744	Hearing and ear disorders
+HGNC:24576	Hearing and ear disorders
+HGNC:20626	Hearing and ear disorders
+HGNC:2867	Hearing and ear disorders
+HGNC:3179	Hearing and ear disorders
+HGNC:30858	Hearing and ear disorders
+HGNC:18683	Hearing and ear disorders
+HGNC:3519	Hearing and ear disorders
+HGNC:3666	Hearing and ear disorders
+HGNC:3681	Hearing and ear disorders
+HGNC:3689	Hearing and ear disorders
+HGNC:3690	Hearing and ear disorders
+HGNC:19185	Hearing and ear disorders
+HGNC:25396	Hearing and ear disorders
+HGNC:4387	Hearing and ear disorders
+HGNC:18708	Hearing and ear disorders
+HGNC:4612	Hearing and ear disorders
+HGNC:5017	Hearing and ear disorders
+HGNC:5103	Hearing and ear disorders
+HGNC:5244	Hearing and ear disorders
+HGNC:12637	Hearing and ear disorders
+HGNC:7133	Hearing and ear disorders
+HGNC:2567	Hearing and ear disorders
+HGNC:8487	Hearing and ear disorders
+HGNC:8490	Hearing and ear disorders
+HGNC:17151	Hearing and ear disorders
+HGNC:8522	Hearing and ear disorders
+HGNC:9059	Hearing and ear disorders
+HGNC:17264	Hearing and ear disorders
+HGNC:20194	Hearing and ear disorders
+HGNC:20422	Hearing and ear disorders
+HGNC:10524	Hearing and ear disorders
+HGNC:15924	Hearing and ear disorders
+HGNC:10771	Hearing and ear disorders
+HGNC:10887	Hearing and ear disorders
+HGNC:8818	Hearing and ear disorders
+HGNC:11190	Hearing and ear disorders
+HGNC:11654	Hearing and ear disorders
+HGNC:11742	Hearing and ear disorders
+	Hearing and ear disorders
+HGNC:15832	Endocrine disorders
+HGNC:3255	Endocrine disorders
+HGNC:3267	Endocrine disorders
+HGNC:6106	Endocrine disorders
+HGNC:4173	Endocrine disorders
+HGNC:4174	Endocrine disorders
+HGNC:11630	Endocrine disorders
+HGNC:18550	Endocrine disorders
+HGNC:6008	Endocrine disorders
+HGNC:6081	Endocrine disorders
+HGNC:1742	Endocrine disorders
+HGNC:4979	Endocrine disorders
+HGNC:7762	Endocrine disorders
+HGNC:13806	Endocrine disorders
+HGNC:7835	Endocrine disorders
+HGNC:6107	Endocrine disorders
+HGNC:23734	Endocrine disorders
+HGNC:21478	Endocrine disorders
+HGNC:10938	Endocrine disorders
+HGNC:11006	Endocrine disorders
+HGNC:11364	Endocrine disorders
+HGNC:12762	Endocrine disorders
+HGNC:18791	Endocrine disorders
+	Endocrine disorders
+HGNC:325	Endocrine disorders
+HGNC:428	Endocrine disorders
+HGNC:24212	Endocrine disorders
+HGNC:15598	Endocrine disorders
+HGNC:4886	Endocrine disorders
+HGNC:4887	Endocrine disorders
+HGNC:6636	Endocrine disorders
+HGNC:7490	Endocrine disorders
+HGNC:8979	Endocrine disorders
+HGNC:9175	Endocrine disorders
+HGNC:9236	Endocrine disorders
+HGNC:23096	Endocrine disorders
+HGNC:10909	Endocrine disorders
+HGNC:11762	Endocrine disorders
+HGNC:28403	Endocrine disorders
+HGNC:6636	Cardiovascular disorders
+HGNC:7577	Cardiovascular disorders
+HGNC:27424	Cardiovascular disorders
+HGNC:11947	Cardiovascular disorders
+HGNC:11949	Cardiovascular disorders
+HGNC:12010	Cardiovascular disorders
+HGNC:12403	Cardiovascular disorders
+HGNC:12665	Cardiovascular disorders
+HGNC:60	Cardiovascular disorders
+HGNC:143	Cardiovascular disorders
+HGNC:164	Cardiovascular disorders
+HGNC:939	Cardiovascular disorders
+HGNC:2472	Cardiovascular disorders
+HGNC:2928	Cardiovascular disorders
+HGNC:29331	Cardiovascular disorders
+HGNC:3522	Cardiovascular disorders
+HGNC:3622	Cardiovascular disorders
+HGNC:15598	Cardiovascular disorders
+HGNC:4886	Cardiovascular disorders
+HGNC:4887	Cardiovascular disorders
+HGNC:5383	Cardiovascular disorders
+HGNC:15710	Cardiovascular disorders
+HGNC:7551	Cardiovascular disorders
+HGNC:7576	Cardiovascular disorders
+HGNC:29557	Cardiovascular disorders
+HGNC:18838	Cardiovascular disorders
+HGNC:17168	Cardiovascular disorders
+HGNC:10807	Cardiovascular disorders
+HGNC:10909	Cardiovascular disorders
+HGNC:11577	Cardiovascular disorders
+HGNC:11610	Cardiovascular disorders
+HGNC:11762	Cardiovascular disorders
+HGNC:11943	Cardiovascular disorders
+HGNC:464	Endocrine disorders
+HGNC:465	Endocrine disorders
+HGNC:644	Endocrine disorders
+HGNC:18060	Endocrine disorders
+HGNC:886	Endocrine disorders
+HGNC:20626	Endocrine disorders
+HGNC:2555	Endocrine disorders
+HGNC:2570	Endocrine disorders
+HGNC:2591	Endocrine disorders
+HGNC:2593	Endocrine disorders
+HGNC:2594	Endocrine disorders
+HGNC:2600	Endocrine disorders
+HGNC:2860	Endocrine disorders
+HGNC:2865	Endocrine disorders
+HGNC:5212	Endocrine disorders
+HGNC:5218	Endocrine disorders
+HGNC:6585	Endocrine disorders
+HGNC:2568	Endocrine disorders
+HGNC:6848	Endocrine disorders
+HGNC:9208	Endocrine disorders
+HGNC:10298	Endocrine disorders
+HGNC:21679	Endocrine disorders
+HGNC:11190	Endocrine disorders
+HGNC:11204	Endocrine disorders
+HGNC:11285	Endocrine disorders
+HGNC:11311	Endocrine disorders
+HGNC:15954	Endocrine disorders
+HGNC:12796	Endocrine disorders
+HGNC:27337	Neurology and neurodevelopmental disorders
+HGNC:939	Neurology and neurodevelopmental disorders
+HGNC:13164	Neurology and neurodevelopmental disorders
+HGNC:2389	Neurology and neurodevelopmental disorders
+HGNC:2770	Neurology and neurodevelopmental disorders
+HGNC:14888	Neurology and neurodevelopmental disorders
+HGNC:3097	Neurology and neurodevelopmental disorders
+HGNC:3702	Neurology and neurodevelopmental disorders
+HGNC:3756	Neurology and neurodevelopmental disorders
+HGNC:23657	Neurology and neurodevelopmental disorders
+HGNC:5246	Neurology and neurodevelopmental disorders
+HGNC:30171	Neurology and neurodevelopmental disorders
+HGNC:15710	Neurology and neurodevelopmental disorders
+HGNC:6912	Neurology and neurodevelopmental disorders
+HGNC:12399	Neurology and neurodevelopmental disorders
+HGNC:11280	Neurology and neurodevelopmental disorders
+HGNC:11802	Neurology and neurodevelopmental disorders
+HGNC:620	Neurology and neurodevelopmental disorders
+HGNC:24537	Neurology and neurodevelopmental disorders
+HGNC:2433	Neurology and neurodevelopmental disorders
+HGNC:16235	Neurology and neurodevelopmental disorders
+HGNC:2976	Neurology and neurodevelopmental disorders
+HGNC:3413	Neurology and neurodevelopmental disorders
+HGNC:4601	Neurology and neurodevelopmental disorders
+HGNC:6174	Neurology and neurodevelopmental disorders
+HGNC:6893	Neurology and neurodevelopmental disorders
+HGNC:21576	Neurology and neurodevelopmental disorders
+HGNC:9449	Neurology and neurodevelopmental disorders
+HGNC:9508	Neurology and neurodevelopmental disorders
+HGNC:9509	Neurology and neurodevelopmental disorders
+HGNC:12449	Neurology and neurodevelopmental disorders
+HGNC:10549	Neurology and neurodevelopmental disorders
+HGNC:10548	Neurology and neurodevelopmental disorders
+HGNC:10555	Neurology and neurodevelopmental disorders
+HGNC:4851	Neurology and neurodevelopmental disorders
+HGNC:14203	Neurology and neurodevelopmental disorders
+HGNC:225	Neurology and neurodevelopmental disorders
+HGNC:14004	Neurology and neurodevelopmental disorders
+HGNC:15984	Neurology and neurodevelopmental disorders
+HGNC:795	Neurology and neurodevelopmental disorders
+HGNC:30213	Neurology and neurodevelopmental disorders
+HGNC:16695	Neurology and neurodevelopmental disorders
+HGNC:25443	Neurology and neurodevelopmental disorders
+HGNC:29932	Neurology and neurodevelopmental disorders
+HGNC:2295	Neurology and neurodevelopmental disorders
+HGNC:25784	Neurology and neurodevelopmental disorders
+HGNC:2896	Neurology and neurodevelopmental disorders
+HGNC:21197	Neurology and neurodevelopmental disorders
+HGNC:13586	Neurology and neurodevelopmental disorders
+HGNC:3999	Neurology and neurodevelopmental disorders
+HGNC:4193	Neurology and neurodevelopmental disorders
+HGNC:4389	Neurology and neurodevelopmental disorders
+HGNC:5144	Neurology and neurodevelopmental disorders
+HGNC:15840	Neurology and neurodevelopmental disorders
+HGNC:19691	Neurology and neurodevelopmental disorders
+HGNC:19321	Neurology and neurodevelopmental disorders
+HGNC:15894	Neurology and neurodevelopmental disorders
+HGNC:14581	Neurology and neurodevelopmental disorders
+HGNC:9039	Neurology and neurodevelopmental disorders
+HGNC:8607	Neurology and neurodevelopmental disorders
+HGNC:9438	Neurology and neurodevelopmental disorders
+HGNC:21061	Neurology and neurodevelopmental disorders
+HGNC:10808	Neurology and neurodevelopmental disorders
+HGNC:25355	Neurology and neurodevelopmental disorders
+HGNC:11049	Neurology and neurodevelopmental disorders
+HGNC:11503	Neurology and neurodevelopmental disorders
+HGNC:11782	Neurology and neurodevelopmental disorders
+HGNC:20856	Neurology and neurodevelopmental disorders
+HGNC:3098	Neurology and neurodevelopmental disorders
+HGNC:20774	Neurology and neurodevelopmental disorders
+HGNC:25507	Neurology and neurodevelopmental disorders
+HGNC:1908	Neurology and neurodevelopmental disorders
+HGNC:28912	Neurology and neurodevelopmental disorders
+HGNC:25928	Neurology and neurodevelopmental disorders
+HGNC:12856	Neurology and neurodevelopmental disorders
+HGNC:7106	Neurology and neurodevelopmental disorders
+HGNC:1762	Dermatological disorders
+HGNC:3157	Dermatological disorders
+HGNC:2895	Dermatological disorders
+HGNC:14341	Dermatological disorders
+HGNC:4288	Dermatological disorders
+HGNC:5125	Dermatological disorders
+HGNC:5961	Dermatological disorders
+HGNC:6416	Dermatological disorders
+HGNC:6462	Dermatological disorders
+HGNC:7391	Dermatological disorders
+HGNC:9706	Dermatological disorders
+HGNC:19688	Dermatological disorders
+HGNC:7795	Dermatological disorders
+HGNC:7797	Dermatological disorders
+HGNC:9023	Dermatological disorders
+HGNC:17652	Dermatological disorders
+HGNC:10031	Dermatological disorders
+HGNC:15979	Dermatological disorders
+HGNC:1268	Dermatological disorders
+HGNC:13829	Dermatological disorders
+HGNC:76	Rheumatological disorders
+HGNC:218	Rheumatological disorders
+HGNC:303	Rheumatological disorders
+HGNC:9722	Rheumatological disorders
+HGNC:18481	Rheumatological disorders
+HGNC:851	Rheumatological disorders
+HGNC:869	Rheumatological disorders
+HGNC:17978	Rheumatological disorders
+HGNC:930	Rheumatological disorders
+HGNC:1044	Rheumatological disorders
+HGNC:1246	Rheumatological disorders
+HGNC:1247	Rheumatological disorders
+HGNC:1550	Rheumatological disorders
+HGNC:24464	Rheumatological disorders
+HGNC:2188	Rheumatological disorders
+HGNC:2197	Rheumatological disorders
+HGNC:2198	Rheumatological disorders
+HGNC:2200	Rheumatological disorders
+HGNC:2201	Rheumatological disorders
+HGNC:2209	Rheumatological disorders
+HGNC:2210	Rheumatological disorders
+HGNC:2211	Rheumatological disorders
+HGNC:2212	Rheumatological disorders
+HGNC:2213	Rheumatological disorders
+HGNC:21144	Rheumatological disorders
+HGNC:3219	Rheumatological disorders
+HGNC:3327	Rheumatological disorders
+HGNC:3602	Rheumatological disorders
+HGNC:3603	Rheumatological disorders
+HGNC:3604	Rheumatological disorders
+HGNC:18625	Rheumatological disorders
+HGNC:25676	Rheumatological disorders
+HGNC:6664	Rheumatological disorders
+HGNC:6717	Rheumatological disorders
+HGNC:9081	Rheumatological disorders
+HGNC:9349	Rheumatological disorders
+HGNC:9721	Rheumatological disorders
+HGNC:18750	Rheumatological disorders
+HGNC:13433	Rheumatological disorders
+HGNC:10896	Rheumatological disorders
+HGNC:20859	Rheumatological disorders
+HGNC:6768	Rheumatological disorders
+HGNC:6769	Rheumatological disorders
+HGNC:11768	Rheumatological disorders
+HGNC:11769	Rheumatological disorders
+HGNC:11772	Rheumatological disorders
+HGNC:11773	Rheumatological disorders
+HGNC:11976	Rheumatological disorders
+HGNC:23216	Rheumatological disorders
+HGNC:2194	Dermatological disorders
+HGNC:2214	Dermatological disorders
+HGNC:3052	Dermatological disorders
+HGNC:1090	Dermatological disorders
+HGNC:30578	Dermatological disorders
+HGNC:15889	Dermatological disorders
+HGNC:6139	Dermatological disorders
+HGNC:6142	Dermatological disorders
+HGNC:6158	Dermatological disorders
+HGNC:6207	Dermatological disorders
+HGNC:25947	Dermatological disorders
+HGNC:6442	Dermatological disorders
+HGNC:6483	Dermatological disorders
+HGNC:6490	Dermatological disorders
+HGNC:6493	Dermatological disorders
+HGNC:9069	Dermatological disorders
+HGNC:11781	Dermatological disorders
+HGNC:397	Dermatological disorders
+HGNC:3647	Dermatological disorders
+HGNC:2553	Renal and urinary tract disorders
+HGNC:2591	Renal and urinary tract disorders
+HGNC:2592	Renal and urinary tract disorders
+HGNC:2593	Renal and urinary tract disorders
+HGNC:5209	Renal and urinary tract disorders
+HGNC:6266	Renal and urinary tract disorders
+HGNC:6354	Renal and urinary tract disorders
+HGNC:7978	Renal and urinary tract disorders
+HGNC:7979	Renal and urinary tract disorders
+HGNC:10600	Renal and urinary tract disorders
+HGNC:10602	Renal and urinary tract disorders
+HGNC:14540	Renal and urinary tract disorders
+HGNC:14544	Renal and urinary tract disorders
+HGNC:16627	Tumour syndromes
+HGNC:57	Cardiovascular disorders
+HGNC:620	Cardiovascular disorders
+HGNC:800	Cardiovascular disorders
+HGNC:1388	Cardiovascular disorders
+HGNC:2201	Cardiovascular disorders
+HGNC:2202	Cardiovascular disorders
+HGNC:2203	Cardiovascular disorders
+HGNC:3800	Cardiovascular disorders
+HGNC:4296	Cardiovascular disorders
+HGNC:9476	Cardiovascular disorders
+HGNC:7883	Cardiovascular disorders
+HGNC:12269	Cardiovascular disorders
+HGNC:15455	Dermatological disorders
+HGNC:24035	Endocrine disorders
+HGNC:1848	Endocrine disorders
+HGNC:25784	Endocrine disorders
+HGNC:9439	Endocrine disorders
+HGNC:3092	Endocrine disorders
+HGNC:8620	Endocrine disorders
+HGNC:8646	Endocrine disorders
+HGNC:9076	Endocrine disorders
+HGNC:14951	Endocrine disorders
+HGNC:13503	Endocrine disorders
+HGNC:12877	Endocrine disorders
+HGNC:3631	Dermatological disorders
+HGNC:7529	Dermatological disorders
+HGNC:7530	Dermatological disorders
+HGNC:17091	Dermatological disorders
+HGNC:9508	Dermatological disorders
+HGNC:30100	Dermatological disorders
+HGNC:3178	Gastroenterological disorders
+HGNC:3180	Gastroenterological disorders
+HGNC:23419	Gastroenterological disorders
+HGNC:6470	Gastroenterological disorders
+HGNC:9143	Gastroenterological disorders
+HGNC:9967	Gastroenterological disorders
+HGNC:11190	Gastroenterological disorders
+HGNC:14881	Gastroenterological disorders
+HGNC:13886	Cardiovascular disorders
+HGNC:13887	Cardiovascular disorders
+HGNC:603	Cardiovascular disorders
+HGNC:613	Cardiovascular disorders
+HGNC:2605	Cardiovascular disorders
+HGNC:6547	Cardiovascular disorders
+HGNC:18640	Cardiovascular disorders
+HGNC:6617	Cardiovascular disorders
+HGNC:20001	Cardiovascular disorders
+HGNC:1514	Endocrine disorders
+HGNC:4172	Endocrine disorders
+HGNC:4198	Endocrine disorders
+HGNC:4379	Endocrine disorders
+HGNC:9606	Endocrine disorders
+HGNC:11582	Endocrine disorders
+HGNC:2180	Hearing and ear disorders
+HGNC:76	Cardiovascular disorders
+HGNC:174	Cardiovascular disorders
+HGNC:26530	Cardiovascular disorders
+HGNC:18292	Cardiovascular disorders
+HGNC:3327	Cardiovascular disorders
+HGNC:3754	Cardiovascular disorders
+HGNC:4173	Cardiovascular disorders
+HGNC:4174	Cardiovascular disorders
+HGNC:4214	Cardiovascular disorders
+HGNC:6188	Cardiovascular disorders
+HGNC:14357	Cardiovascular disorders
+HGNC:2488	Cardiovascular disorders
+HGNC:7865	Cardiovascular disorders
+HGNC:7882	Cardiovascular disorders
+HGNC:7976	Cardiovascular disorders
+HGNC:17075	Cardiovascular disorders
+HGNC:11604	Cardiovascular disorders
+HGNC:12874	Cardiovascular disorders
+	Cardiovascular disorders
+HGNC:33	Respiratory disorders
+HGNC:566	Respiratory disorders
+HGNC:735	Respiratory disorders
+HGNC:2435	Respiratory disorders
+HGNC:2436	Respiratory disorders
+HGNC:2890	Respiratory disorders
+HGNC:24200	Respiratory disorders
+HGNC:4177	Respiratory disorders
+HGNC:5163	Respiratory disorders
+HGNC:15844	Respiratory disorders
+HGNC:6139	Respiratory disorders
+HGNC:11825	Respiratory disorders
+HGNC:8609	Respiratory disorders
+HGNC:15888	Respiratory disorders
+HGNC:10799	Respiratory disorders
+HGNC:10801	Respiratory disorders
+HGNC:10802	Respiratory disorders
+HGNC:11020	Respiratory disorders
+HGNC:11065	Respiratory disorders
+HGNC:11120	Respiratory disorders
+HGNC:11727	Respiratory disorders
+HGNC:11730	Respiratory disorders
+HGNC:11824	Respiratory disorders
+HGNC:1149	Tumour syndromes
+HGNC:1786	Tumour syndromes
+HGNC:5173	Tumour syndromes
+HGNC:7652	Tumour syndromes
+HGNC:6742	Tumour syndromes
+HGNC:11109	Tumour syndromes
+HGNC:735	Dysmorphic and congenital abnormality syndromes
+HGNC:1097	Dysmorphic and congenital abnormality syndromes
+HGNC:1541	Dysmorphic and congenital abnormality syndromes
+HGNC:29426	Dysmorphic and congenital abnormality syndromes
+HGNC:9251	Dysmorphic and congenital abnormality syndromes
+HGNC:3767	Dysmorphic and congenital abnormality syndromes
+HGNC:6106	Dysmorphic and congenital abnormality syndromes
+HGNC:4122	Dysmorphic and congenital abnormality syndromes
+HGNC:4177	Dysmorphic and congenital abnormality syndromes
+HGNC:4180	Dysmorphic and congenital abnormality syndromes
+HGNC:4296	Dysmorphic and congenital abnormality syndromes
+HGNC:4298	Dysmorphic and congenital abnormality syndromes
+HGNC:29670	Dysmorphic and congenital abnormality syndromes
+HGNC:4696	Dysmorphic and congenital abnormality syndromes
+HGNC:4823	Dysmorphic and congenital abnormality syndromes
+HGNC:4824	Dysmorphic and congenital abnormality syndromes
+HGNC:5173	Dysmorphic and congenital abnormality syndromes
+HGNC:6345	Dysmorphic and congenital abnormality syndromes
+HGNC:6407	Dysmorphic and congenital abnormality syndromes
+HGNC:6518	Dysmorphic and congenital abnormality syndromes
+HGNC:6617	Dysmorphic and congenital abnormality syndromes
+HGNC:6742	Dysmorphic and congenital abnormality syndromes
+HGNC:6840	Dysmorphic and congenital abnormality syndromes
+HGNC:6842	Dysmorphic and congenital abnormality syndromes
+HGNC:7758	Dysmorphic and congenital abnormality syndromes
+HGNC:7897	Dysmorphic and congenital abnormality syndromes
+HGNC:7989	Dysmorphic and congenital abnormality syndromes
+HGNC:8850	Dysmorphic and congenital abnormality syndromes
+HGNC:8851	Dysmorphic and congenital abnormality syndromes
+HGNC:8853	Dysmorphic and congenital abnormality syndromes
+HGNC:8854	Dysmorphic and congenital abnormality syndromes
+HGNC:8855	Dysmorphic and congenital abnormality syndromes
+HGNC:8856	Dysmorphic and congenital abnormality syndromes
+HGNC:8857	Dysmorphic and congenital abnormality syndromes
+HGNC:9713	Dysmorphic and congenital abnormality syndromes
+HGNC:9717	Dysmorphic and congenital abnormality syndromes
+HGNC:22965	Dysmorphic and congenital abnormality syndromes
+HGNC:8858	Dysmorphic and congenital abnormality syndromes
+HGNC:9719	Dysmorphic and congenital abnormality syndromes
+HGNC:8859	Dysmorphic and congenital abnormality syndromes
+HGNC:8860	Dysmorphic and congenital abnormality syndromes
+HGNC:28993	Dysmorphic and congenital abnormality syndromes
+HGNC:9115	Dysmorphic and congenital abnormality syndromes
+HGNC:9644	Dysmorphic and congenital abnormality syndromes
+HGNC:9829	Dysmorphic and congenital abnormality syndromes
+HGNC:10023	Dysmorphic and congenital abnormality syndromes
+HGNC:10817	Dysmorphic and congenital abnormality syndromes
+HGNC:15454	Dysmorphic and congenital abnormality syndromes
+HGNC:10933	Dysmorphic and congenital abnormality syndromes
+HGNC:11120	Dysmorphic and congenital abnormality syndromes
+HGNC:11187	Dysmorphic and congenital abnormality syndromes
+HGNC:11188	Dysmorphic and congenital abnormality syndromes
+HGNC:11559	Dysmorphic and congenital abnormality syndromes
+HGNC:11935	Gastroenterological disorders
+HGNC:2505	Gastroenterological disorders
+HGNC:2577	Gastroenterological disorders
+HGNC:2578	Gastroenterological disorders
+HGNC:17642	Gastroenterological disorders
+HGNC:19191	Gastroenterological disorders
+HGNC:11529	Gastroenterological disorders
+HGNC:6106	Gastroenterological disorders
+HGNC:4688	Gastroenterological disorders
+HGNC:5163	Gastroenterological disorders
+HGNC:15844	Gastroenterological disorders
+HGNC:18817	Gastroenterological disorders
+HGNC:5351	Gastroenterological disorders
+HGNC:5962	Gastroenterological disorders
+HGNC:5964	Gastroenterological disorders
+HGNC:5965	Gastroenterological disorders
+HGNC:6008	Gastroenterological disorders
+HGNC:6010	Gastroenterological disorders
+HGNC:6998	Gastroenterological disorders
+HGNC:7530	Gastroenterological disorders
+HGNC:7603	Gastroenterological disorders
+HGNC:7660	Gastroenterological disorders
+HGNC:25118	Gastroenterological disorders
+HGNC:9831	Gastroenterological disorders
+HGNC:9832	Gastroenterological disorders
+HGNC:15888	Gastroenterological disorders
+HGNC:1348	Gastroenterological disorders
+HGNC:10820	Gastroenterological disorders
+HGNC:10898	Gastroenterological disorders
+HGNC:4061	Gastroenterological disorders
+HGNC:11364	Gastroenterological disorders
+HGNC:11445	Gastroenterological disorders
+HGNC:23639	Gastroenterological disorders
+HGNC:19750	Gastroenterological disorders
+HGNC:12731	Gastroenterological disorders
+HGNC:592	Gastroenterological disorders
+HGNC:145	Gastroenterological disorders
+HGNC:886	Gastroenterological disorders
+HGNC:24039	Gastroenterological disorders
+HGNC:2770	Gastroenterological disorders
+HGNC:2928	Gastroenterological disorders
+HGNC:3754	Gastroenterological disorders
+HGNC:5389	Gastroenterological disorders
+HGNC:9179	Gastroenterological disorders
+HGNC:17296	Gastroenterological disorders
+HGNC:10583	Gastroenterological disorders
+HGNC:26050	Gastroenterological disorders
+HGNC:3148	Gastroenterological disorders
+HGNC:61	Actionable information
+HGNC:186	Actionable information
+HGNC:812	Actionable information
+HGNC:1884	Actionable information
+HGNC:1940	Actionable information
+HGNC:2153	Actionable information
+HGNC:2578	Actionable information
+HGNC:2928	Actionable information
+HGNC:3546	Actionable information
+HGNC:3551	Actionable information
+HGNC:4827	Actionable information
+HGNC:6010	Actionable information
+HGNC:7459	Actionable information
+HGNC:8512	Actionable information
+HGNC:10294	Actionable information
+HGNC:10295	Actionable information
+HGNC:11117	Actionable information
+HGNC:11118	Actionable information
+HGNC:15464	Actionable information
+HGNC:12530	Actionable information
+HGNC:12731	Actionable information
+HGNC:16446	Dermatological disorders
+HGNC:15561	Dermatological disorders
+HGNC:20	Neurology and neurodevelopmental disorders
+HGNC:23	Neurology and neurodevelopmental disorders
+HGNC:119	Neurology and neurodevelopmental disorders
+HGNC:160	Neurology and neurodevelopmental disorders
+HGNC:21304	Neurology and neurodevelopmental disorders
+HGNC:291	Neurology and neurodevelopmental disorders
+HGNC:10648	Neurology and neurodevelopmental disorders
+HGNC:391	Neurology and neurodevelopmental disorders
+HGNC:393	Neurology and neurodevelopmental disorders
+HGNC:408	Neurology and neurodevelopmental disorders
+HGNC:877	Neurology and neurodevelopmental disorders
+HGNC:18294	Neurology and neurodevelopmental disorders
+HGNC:32456	Neurology and neurodevelopmental disorders
+HGNC:30881	Neurology and neurodevelopmental disorders
+HGNC:23056	Neurology and neurodevelopmental disorders
+HGNC:23157	Neurology and neurodevelopmental disorders
+HGNC:23161	Neurology and neurodevelopmental disorders
+HGNC:15672	Neurology and neurodevelopmental disorders
+HGNC:438	Neurology and neurodevelopmental disorders
+HGNC:473	Neurology and neurodevelopmental disorders
+HGNC:567	Neurology and neurodevelopmental disorders
+HGNC:15853	Neurology and neurodevelopmental disorders
+HGNC:663	Neurology and neurodevelopmental disorders
+HGNC:14561	Neurology and neurodevelopmental disorders
+HGNC:18040	Neurology and neurodevelopmental disorders
+HGNC:29561	Neurology and neurodevelopmental disorders
+HGNC:18060	Neurology and neurodevelopmental disorders
+HGNC:735	Neurology and neurodevelopmental disorders
+HGNC:756	Neurology and neurodevelopmental disorders
+HGNC:799	Neurology and neurodevelopmental disorders
+HGNC:18481	Neurology and neurodevelopmental disorders
+HGNC:851	Neurology and neurodevelopmental disorders
+HGNC:869	Neurology and neurodevelopmental disorders
+HGNC:886	Neurology and neurodevelopmental disorders
+HGNC:986	Neurology and neurodevelopmental disorders
+HGNC:987	Neurology and neurodevelopmental disorders
+HGNC:1020	Neurology and neurodevelopmental disorders
+HGNC:24415	Neurology and neurodevelopmental disorders
+HGNC:1097	Neurology and neurodevelopmental disorders
+HGNC:21701	Neurology and neurodevelopmental disorders
+HGNC:15832	Neurology and neurodevelopmental disorders
+HGNC:1122	Neurology and neurodevelopmental disorders
+HGNC:29521	Neurology and neurodevelopmental disorders
+HGNC:1389	Neurology and neurodevelopmental disorders
+HGNC:1391	Neurology and neurodevelopmental disorders
+HGNC:1392	Neurology and neurodevelopmental disorders
+HGNC:1424	Neurology and neurodevelopmental disorders
+HGNC:29253	Neurology and neurodevelopmental disorders
+HGNC:11411	Neurology and neurodevelopmental disorders
+HGNC:1917	Neurology and neurodevelopmental disorders
+HGNC:1956	Neurology and neurodevelopmental disorders
+HGNC:1958	Neurology and neurodevelopmental disorders
+HGNC:1962	Neurology and neurodevelopmental disorders
+HGNC:14214	Neurology and neurodevelopmental disorders
+HGNC:2022	Neurology and neurodevelopmental disorders
+HGNC:2074	Neurology and neurodevelopmental disorders
+HGNC:2079	Neurology and neurodevelopmental disorders
+HGNC:2092	Neurology and neurodevelopmental disorders
+HGNC:19701	Neurology and neurodevelopmental disorders
+HGNC:103	Neurology and neurodevelopmental disorders
+HGNC:13830	Neurology and neurodevelopmental disorders
+HGNC:18622	Neurology and neurodevelopmental disorders
+HGNC:2195	Neurology and neurodevelopmental disorders
+HGNC:2202	Neurology and neurodevelopmental disorders
+HGNC:2203	Neurology and neurodevelopmental disorders
+HGNC:25223	Neurology and neurodevelopmental disorders
+HGNC:19693	Neurology and neurodevelopmental disorders
+HGNC:25302	Neurology and neurodevelopmental disorders
+HGNC:17245	Neurology and neurodevelopmental disorders
+HGNC:2348	Neurology and neurodevelopmental disorders
+HGNC:2460	Neurology and neurodevelopmental disorders
+HGNC:2510	Neurology and neurodevelopmental disorders
+HGNC:2529	Neurology and neurodevelopmental disorders
+HGNC:19347	Neurology and neurodevelopmental disorders
+HGNC:13760	Neurology and neurodevelopmental disorders
+HGNC:2605	Neurology and neurodevelopmental disorders
+HGNC:28358	Neurology and neurodevelopmental disorders
+HGNC:2698	Neurology and neurodevelopmental disorders
+HGNC:2714	Neurology and neurodevelopmental disorders
+HGNC:2745	Neurology and neurodevelopmental disorders
+HGNC:14677	Neurology and neurodevelopmental disorders
+HGNC:19344	Neurology and neurodevelopmental disorders
+HGNC:18423	Neurology and neurodevelopmental disorders
+HGNC:2860	Neurology and neurodevelopmental disorders
+HGNC:20603	Neurology and neurodevelopmental disorders
+HGNC:16716	Neurology and neurodevelopmental disorders
+HGNC:2876	Neurology and neurodevelopmental disorders
+HGNC:2972	Neurology and neurodevelopmental disorders
+HGNC:2973	Neurology and neurodevelopmental disorders
+HGNC:19190	Neurology and neurodevelopmental disorders
+HGNC:3005	Neurology and neurodevelopmental disorders
+HGNC:3012	Neurology and neurodevelopmental disorders
+HGNC:2961	Neurology and neurodevelopmental disorders
+HGNC:3091	Neurology and neurodevelopmental disorders
+HGNC:29419	Neurology and neurodevelopmental disorders
+HGNC:3192	Neurology and neurodevelopmental disorders
+HGNC:30858	Neurology and neurodevelopmental disorders
+HGNC:24650	Neurology and neurodevelopmental disorders
+HGNC:3258	Neurology and neurodevelopmental disorders
+HGNC:3260	Neurology and neurodevelopmental disorders
+HGNC:3261	Neurology and neurodevelopmental disorders
+HGNC:3267	Neurology and neurodevelopmental disorders
+HGNC:3275	Neurology and neurodevelopmental disorders
+HGNC:3330	Neurology and neurodevelopmental disorders
+HGNC:3341	Neurology and neurodevelopmental disorders
+HGNC:23287	Neurology and neurodevelopmental disorders
+HGNC:26222	Neurology and neurodevelopmental disorders
+HGNC:21062	Neurology and neurodevelopmental disorders
+HGNC:13601	Neurology and neurodevelopmental disorders
+HGNC:13590	Neurology and neurodevelopmental disorders
+HGNC:3668	Neurology and neurodevelopmental disorders
+HGNC:3700	Neurology and neurodevelopmental disorders
+HGNC:3754	Neurology and neurodevelopmental disorders
+HGNC:3791	Neurology and neurodevelopmental disorders
+HGNC:3811	Neurology and neurodevelopmental disorders
+HGNC:1362	Neurology and neurodevelopmental disorders
+HGNC:4006	Neurology and neurodevelopmental disorders
+HGNC:4019	Neurology and neurodevelopmental disorders
+HGNC:4507	Neurology and neurodevelopmental disorders
+HGNC:4075	Neurology and neurodevelopmental disorders
+HGNC:4082	Neurology and neurodevelopmental disorders
+HGNC:4083	Neurology and neurodevelopmental disorders
+HGNC:4087	Neurology and neurodevelopmental disorders
+HGNC:4115	Neurology and neurodevelopmental disorders
+HGNC:4136	Neurology and neurodevelopmental disorders
+HGNC:4235	Neurology and neurodevelopmental disorders
+HGNC:13780	Neurology and neurodevelopmental disorders
+HGNC:4298	Neurology and neurodevelopmental disorders
+HGNC:4313	Neurology and neurodevelopmental disorders
+HGNC:4335	Neurology and neurodevelopmental disorders
+HGNC:4341	Neurology and neurodevelopmental disorders
+HGNC:24247	Neurology and neurodevelopmental disorders
+HGNC:4367	Neurology and neurodevelopmental disorders
+HGNC:4390	Neurology and neurodevelopmental disorders
+HGNC:4396	Neurology and neurodevelopmental disorders
+HGNC:4401	Neurology and neurodevelopmental disorders
+HGNC:4431	Neurology and neurodevelopmental disorders
+HGNC:4446	Neurology and neurodevelopmental disorders
+HGNC:15465	Neurology and neurodevelopmental disorders
+HGNC:4574	Neurology and neurodevelopmental disorders
+HGNC:4584	Neurology and neurodevelopmental disorders
+HGNC:4585	Neurology and neurodevelopmental disorders
+HGNC:4586	Neurology and neurodevelopmental disorders
+HGNC:4588	Neurology and neurodevelopmental disorders
+HGNC:4624	Neurology and neurodevelopmental disorders
+HGNC:4670	Neurology and neurodevelopmental disorders
+HGNC:21033	Neurology and neurodevelopmental disorders
+HGNC:16915	Neurology and neurodevelopmental disorders
+HGNC:4839	Neurology and neurodevelopmental disorders
+HGNC:4845	Neurology and neurodevelopmental disorders
+HGNC:4846	Neurology and neurodevelopmental disorders
+HGNC:29853	Neurology and neurodevelopmental disorders
+HGNC:26361	Neurology and neurodevelopmental disorders
+HGNC:4878	Neurology and neurodevelopmental disorders
+HGNC:4976	Neurology and neurodevelopmental disorders
+HGNC:5005	Neurology and neurodevelopmental disorders
+HGNC:5042	Neurology and neurodevelopmental disorders
+HGNC:5048	Neurology and neurodevelopmental disorders
+HGNC:5173	Neurology and neurodevelopmental disorders
+HGNC:5213	Neurology and neurodevelopmental disorders
+HGNC:5383	Neurology and neurodevelopmental disorders
+HGNC:18550	Neurology and neurodevelopmental disorders
+HGNC:18873	Neurology and neurodevelopmental disorders
+HGNC:5961	Neurology and neurodevelopmental disorders
+HGNC:29059	Neurology and neurodevelopmental disorders
+HGNC:14282	Neurology and neurodevelopmental disorders
+HGNC:6176	Neurology and neurodevelopmental disorders
+HGNC:6215	Neurology and neurodevelopmental disorders
+HGNC:6220	Neurology and neurodevelopmental disorders
+HGNC:6231	Neurology and neurodevelopmental disorders
+HGNC:6233	Neurology and neurodevelopmental disorders
+HGNC:6256	Neurology and neurodevelopmental disorders
+HGNC:6257	Neurology and neurodevelopmental disorders
+HGNC:6279	Neurology and neurodevelopmental disorders
+HGNC:6299	Neurology and neurodevelopmental disorders
+HGNC:18865	Neurology and neurodevelopmental disorders
+HGNC:21305	Neurology and neurodevelopmental disorders
+HGNC:21957	Neurology and neurodevelopmental disorders
+HGNC:888	Neurology and neurodevelopmental disorders
+HGNC:23419	Neurology and neurodevelopmental disorders
+HGNC:6318	Neurology and neurodevelopmental disorders
+HGNC:6325	Neurology and neurodevelopmental disorders
+HGNC:18541	Neurology and neurodevelopmental disorders
+HGNC:6407	Neurology and neurodevelopmental disorders
+HGNC:6572	Neurology and neurodevelopmental disorders
+HGNC:16429	Neurology and neurodevelopmental disorders
+HGNC:1968	Neurology and neurodevelopmental disorders
+HGNC:6776	Neurology and neurodevelopmental disorders
+HGNC:18957	Neurology and neurodevelopmental disorders
+HGNC:6840	Neurology and neurodevelopmental disorders
+HGNC:6842	Neurology and neurodevelopmental disorders
+HGNC:20444	Neurology and neurodevelopmental disorders
+HGNC:15505	Neurology and neurodevelopmental disorders
+HGNC:6971	Neurology and neurodevelopmental disorders
+HGNC:6990	Neurology and neurodevelopmental disorders
+HGNC:11957	Neurology and neurodevelopmental disorders
+HGNC:6996	Neurology and neurodevelopmental disorders
+HGNC:24858	Neurology and neurodevelopmental disorders
+HGNC:28486	Neurology and neurodevelopmental disorders
+HGNC:17082	Neurology and neurodevelopmental disorders
+HGNC:24525	Neurology and neurodevelopmental disorders
+HGNC:25221	Neurology and neurodevelopmental disorders
+HGNC:7190	Neurology and neurodevelopmental disorders
+HGNC:7193	Neurology and neurodevelopmental disorders
+HGNC:24862	Neurology and neurodevelopmental disorders
+HGNC:7207	Neurology and neurodevelopmental disorders
+HGNC:7436	Neurology and neurodevelopmental disorders
+HGNC:3942	Neurology and neurodevelopmental disorders
+HGNC:7468	Neurology and neurodevelopmental disorders
+HGNC:20967	Neurology and neurodevelopmental disorders
+HGNC:7631	Neurology and neurodevelopmental disorders
+HGNC:26274	Neurology and neurodevelopmental disorders
+HGNC:7648	Neurology and neurodevelopmental disorders
+HGNC:17619	Neurology and neurodevelopmental disorders
+HGNC:7683	Neurology and neurodevelopmental disorders
+HGNC:7684	Neurology and neurodevelopmental disorders
+HGNC:28086	Neurology and neurodevelopmental disorders
+HGNC:15899	Neurology and neurodevelopmental disorders
+HGNC:7711	Neurology and neurodevelopmental disorders
+HGNC:7715	Neurology and neurodevelopmental disorders
+HGNC:7716	Neurology and neurodevelopmental disorders
+HGNC:29433	Neurology and neurodevelopmental disorders
+HGNC:17646	Neurology and neurodevelopmental disorders
+HGNC:14124	Neurology and neurodevelopmental disorders
+HGNC:8008	Neurology and neurodevelopmental disorders
+HGNC:14234	Neurology and neurodevelopmental disorders
+HGNC:13398	Neurology and neurodevelopmental disorders
+HGNC:8032	Neurology and neurodevelopmental disorders
+HGNC:8104	Neurology and neurodevelopmental disorders
+HGNC:24281	Neurology and neurodevelopmental disorders
+HGNC:30032	Neurology and neurodevelopmental disorders
+HGNC:23794	Neurology and neurodevelopmental disorders
+HGNC:8574	Neurology and neurodevelopmental disorders
+HGNC:8582	Neurology and neurodevelopmental disorders
+HGNC:30563	Neurology and neurodevelopmental disorders
+HGNC:8653	Neurology and neurodevelopmental disorders
+HGNC:8654	Neurology and neurodevelopmental disorders
+HGNC:8657	Neurology and neurodevelopmental disorders
+HGNC:14270	Neurology and neurodevelopmental disorders
+HGNC:8806	Neurology and neurodevelopmental disorders
+HGNC:21350	Neurology and neurodevelopmental disorders
+HGNC:40038	Neurology and neurodevelopmental disorders
+HGNC:20990	Neurology and neurodevelopmental disorders
+HGNC:8923	Neurology and neurodevelopmental disorders
+HGNC:8957	Neurology and neurodevelopmental disorders
+HGNC:25985	Neurology and neurodevelopmental disorders
+HGNC:8967	Neurology and neurodevelopmental disorders
+HGNC:23215	Neurology and neurodevelopmental disorders
+HGNC:14135	Neurology and neurodevelopmental disorders
+HGNC:14938	Neurology and neurodevelopmental disorders
+HGNC:23213	Neurology and neurodevelopmental disorders
+HGNC:8975	Neurology and neurodevelopmental disorders
+HGNC:8980	Neurology and neurodevelopmental disorders
+HGNC:9043	Neurology and neurodevelopmental disorders
+HGNC:15917	Neurology and neurodevelopmental disorders
+HGNC:9457	Neurology and neurodevelopmental disorders
+HGNC:9115	Neurology and neurodevelopmental disorders
+HGNC:9154	Neurology and neurodevelopmental disorders
+HGNC:30260	Neurology and neurodevelopmental disorders
+HGNC:9179	Neurology and neurodevelopmental disorders
+HGNC:9314	Neurology and neurodevelopmental disorders
+HGNC:9325	Neurology and neurodevelopmental disorders
+HGNC:17019	Neurology and neurodevelopmental disorders
+HGNC:25557	Neurology and neurodevelopmental disorders
+HGNC:9453	Neurology and neurodevelopmental disorders
+HGNC:9498	Neurology and neurodevelopmental disorders
+HGNC:9588	Neurology and neurodevelopmental disorders
+HGNC:14406	Neurology and neurodevelopmental disorders
+HGNC:9689	Neurology and neurodevelopmental disorders
+HGNC:9701	Neurology and neurodevelopmental disorders
+HGNC:9751	Neurology and neurodevelopmental disorders
+HGNC:9752	Neurology and neurodevelopmental disorders
+HGNC:9761	Neurology and neurodevelopmental disorders
+HGNC:14244	Neurology and neurodevelopmental disorders
+HGNC:9839	Neurology and neurodevelopmental disorders
+HGNC:9848	Neurology and neurodevelopmental disorders
+HGNC:30220	Neurology and neurodevelopmental disorders
+HGNC:18756	Neurology and neurodevelopmental disorders
+HGNC:21176	Neurology and neurodevelopmental disorders
+HGNC:18518	Neurology and neurodevelopmental disorders
+HGNC:25671	Neurology and neurodevelopmental disorders
+HGNC:24116	Neurology and neurodevelopmental disorders
+HGNC:21686	Neurology and neurodevelopmental disorders
+HGNC:29478	Neurology and neurodevelopmental disorders
+HGNC:10258	Neurology and neurodevelopmental disorders
+HGNC:10259	Neurology and neurodevelopmental disorders
+HGNC:18647	Neurology and neurodevelopmental disorders
+HGNC:18654	Neurology and neurodevelopmental disorders
+HGNC:1665	Neurology and neurodevelopmental disorders
+HGNC:10586	Neurology and neurodevelopmental disorders
+HGNC:10588	Neurology and neurodevelopmental disorders
+HGNC:10590	Neurology and neurodevelopmental disorders
+HGNC:10597	Neurology and neurodevelopmental disorders
+HGNC:10603	Neurology and neurodevelopmental disorders
+HGNC:10604	Neurology and neurodevelopmental disorders
+HGNC:15573	Neurology and neurodevelopmental disorders
+HGNC:25566	Neurology and neurodevelopmental disorders
+HGNC:11142	Neurology and neurodevelopmental disorders
+HGNC:13818	Neurology and neurodevelopmental disorders
+HGNC:23089	Neurology and neurodevelopmental disorders
+HGNC:10923	Neurology and neurodevelopmental disorders
+HGNC:10940	Neurology and neurodevelopmental disorders
+HGNC:10942	Neurology and neurodevelopmental disorders
+HGNC:10979	Neurology and neurodevelopmental disorders
+HGNC:10982	Neurology and neurodevelopmental disorders
+HGNC:19954	Neurology and neurodevelopmental disorders
+HGNC:11021	Neurology and neurodevelopmental disorders
+HGNC:11022	Neurology and neurodevelopmental disorders
+HGNC:11042	Neurology and neurodevelopmental disorders
+HGNC:27960	Neurology and neurodevelopmental disorders
+HGNC:11055	Neurology and neurodevelopmental disorders
+HGNC:11079	Neurology and neurodevelopmental disorders
+HGNC:11098	Neurology and neurodevelopmental disorders
+HGNC:11105	Neurology and neurodevelopmental disorders
+HGNC:11111	Neurology and neurodevelopmental disorders
+HGNC:11123	Neurology and neurodevelopmental disorders
+HGNC:32952	Neurology and neurodevelopmental disorders
+HGNC:11273	Neurology and neurodevelopmental disorders
+HGNC:10872	Neurology and neurodevelopmental disorders
+HGNC:11354	Neurology and neurodevelopmental disorders
+HGNC:16950	Neurology and neurodevelopmental disorders
+HGNC:30172	Neurology and neurodevelopmental disorders
+HGNC:18539	Neurology and neurodevelopmental disorders
+HGNC:11444	Neurology and neurodevelopmental disorders
+HGNC:11448	Neurology and neurodevelopmental disorders
+HGNC:11460	Neurology and neurodevelopmental disorders
+HGNC:11474	Neurology and neurodevelopmental disorders
+HGNC:11494	Neurology and neurodevelopmental disorders
+HGNC:11497	Neurology and neurodevelopmental disorders
+HGNC:29040	Neurology and neurodevelopmental disorders
+HGNC:25439	Neurology and neurodevelopmental disorders
+HGNC:29203	Neurology and neurodevelopmental disorders
+HGNC:11581	Neurology and neurodevelopmental disorders
+HGNC:28261	Neurology and neurodevelopmental disorders
+HGNC:29529	Neurology and neurodevelopmental disorders
+HGNC:11634	Neurology and neurodevelopmental disorders
+HGNC:26050	Neurology and neurodevelopmental disorders
+HGNC:2073	Neurology and neurodevelopmental disorders
+HGNC:29947	Neurology and neurodevelopmental disorders
+HGNC:12269	Neurology and neurodevelopmental disorders
+HGNC:15579	Neurology and neurodevelopmental disorders
+HGNC:17995	Neurology and neurodevelopmental disorders
+HGNC:12412	Neurology and neurodevelopmental disorders
+HGNC:12417	Neurology and neurodevelopmental disorders
+HGNC:23230	Neurology and neurodevelopmental disorders
+HGNC:12472	Neurology and neurodevelopmental disorders
+HGNC:12496	Neurology and neurodevelopmental disorders
+HGNC:20597	Neurology and neurodevelopmental disorders
+HGNC:26582	Neurology and neurodevelopmental disorders
+HGNC:12651	Neurology and neurodevelopmental disorders
+HGNC:12732	Neurology and neurodevelopmental disorders
+HGNC:25072	Neurology and neurodevelopmental disorders
+HGNC:24502	Neurology and neurodevelopmental disorders
+HGNC:12799	Neurology and neurodevelopmental disorders
+HGNC:12852	Neurology and neurodevelopmental disorders
+HGNC:13030	Neurology and neurodevelopmental disorders
+HGNC:14881	Neurology and neurodevelopmental disorders
+HGNC:17109	Ophthalmological disorders
+HGNC:2597	Ophthalmological disorders
+HGNC:3804	Ophthalmological disorders
+HGNC:7610	Ophthalmological disorders
+HGNC:25070	Cancer Programme
+HGNC:29186	Cancer Programme
+HGNC:1833	Cancer Programme
+HGNC:26169	Cancer Programme
+HGNC:18674	Cancer Programme
+HGNC:2890	Cancer Programme
+HGNC:19191	Cancer Programme
+HGNC:3309	Cancer Programme
+HGNC:3495	Cancer Programme
+HGNC:3583	Cancer Programme
+HGNC:11920	Cancer Programme
+HGNC:4170	Cancer Programme
+HGNC:4171	Cancer Programme
+HGNC:4177	Cancer Programme
+HGNC:16915	Cancer Programme
+HGNC:6171	Cancer Programme
+HGNC:6601	Cancer Programme
+HGNC:6764	Cancer Programme
+HGNC:25126	Cancer Programme
+HGNC:8609	Cancer Programme
+HGNC:9360	Cancer Programme
+HGNC:10031	Cancer Programme
+HGNC:10301	Cancer Programme
+HGNC:10306	Cancer Programme
+HGNC:10316	Cancer Programme
+HGNC:10327	Cancer Programme
+HGNC:10328	Cancer Programme
+HGNC:10334	Cancer Programme
+HGNC:10345	Cancer Programme
+HGNC:13631	Cancer Programme
+HGNC:10360	Cancer Programme
+HGNC:10383	Cancer Programme
+HGNC:10388	Cancer Programme
+HGNC:10397	Cancer Programme
+HGNC:10402	Cancer Programme
+HGNC:10411	Cancer Programme
+HGNC:10414	Cancer Programme
+HGNC:10416	Cancer Programme
+HGNC:10417	Cancer Programme
+HGNC:10418	Cancer Programme
+HGNC:10419	Cancer Programme
+HGNC:10440	Cancer Programme
+HGNC:15888	Cancer Programme
+HGNC:10471	Cancer Programme
+HGNC:1349	Cancer Programme
+HGNC:19440	Cancer Programme
+HGNC:10820	Cancer Programme
+HGNC:23845	Cancer Programme
+HGNC:11364	Cancer Programme
+HGNC:26200	Cancer Programme
+HGNC:11727	Cancer Programme
+HGNC:11824	Cancer Programme
+HGNC:25455	Cancer Programme
+HGNC:25009	Cancer Programme
+HGNC:12731	Cancer Programme
+HGNC:25522	Cancer Programme
+HGNC:12829	Cancer Programme
+HGNC:25070	Tumour syndromes
+HGNC:29186	Tumour syndromes
+HGNC:1058	Tumour syndromes
+HGNC:1541	Tumour syndromes
+HGNC:1833	Tumour syndromes
+HGNC:26169	Tumour syndromes
+HGNC:18674	Tumour syndromes
+HGNC:2890	Tumour syndromes
+HGNC:19191	Tumour syndromes
+HGNC:3309	Tumour syndromes
+HGNC:3436	Tumour syndromes
+HGNC:3495	Tumour syndromes
+HGNC:3582	Tumour syndromes
+HGNC:3583	Tumour syndromes
+HGNC:3584	Tumour syndromes
+HGNC:3585	Tumour syndromes
+HGNC:3586	Tumour syndromes
+HGNC:3587	Tumour syndromes
+HGNC:3588	Tumour syndromes
+HGNC:25568	Tumour syndromes
+HGNC:20748	Tumour syndromes
+HGNC:11920	Tumour syndromes
+HGNC:4170	Tumour syndromes
+HGNC:4171	Tumour syndromes
+HGNC:4177	Tumour syndromes
+HGNC:16915	Tumour syndromes
+HGNC:6171	Tumour syndromes
+HGNC:6601	Tumour syndromes
+HGNC:6764	Tumour syndromes
+HGNC:25126	Tumour syndromes
+HGNC:14377	Tumour syndromes
+HGNC:14378	Tumour syndromes
+HGNC:8609	Tumour syndromes
+HGNC:8619	Tumour syndromes
+HGNC:9360	Tumour syndromes
+HGNC:9644	Tumour syndromes
+HGNC:10301	Tumour syndromes
+HGNC:10306	Tumour syndromes
+HGNC:10316	Tumour syndromes
+HGNC:10327	Tumour syndromes
+HGNC:10328	Tumour syndromes
+HGNC:10334	Tumour syndromes
+HGNC:10345	Tumour syndromes
+HGNC:13631	Tumour syndromes
+HGNC:10360	Tumour syndromes
+HGNC:10383	Tumour syndromes
+HGNC:10388	Tumour syndromes
+HGNC:10397	Tumour syndromes
+HGNC:10402	Tumour syndromes
+HGNC:10411	Tumour syndromes
+HGNC:10414	Tumour syndromes
+HGNC:10416	Tumour syndromes
+HGNC:10417	Tumour syndromes
+HGNC:10418	Tumour syndromes
+HGNC:10419	Tumour syndromes
+HGNC:10440	Tumour syndromes
+HGNC:15888	Tumour syndromes
+HGNC:10471	Tumour syndromes
+HGNC:1349	Tumour syndromes
+HGNC:19440	Tumour syndromes
+HGNC:10820	Tumour syndromes
+HGNC:23845	Tumour syndromes
+HGNC:11364	Tumour syndromes
+HGNC:26200	Tumour syndromes
+HGNC:11730	Tumour syndromes
+HGNC:11824	Tumour syndromes
+HGNC:25455	Tumour syndromes
+HGNC:25009	Tumour syndromes
+HGNC:12731	Tumour syndromes
+HGNC:25522	Tumour syndromes
+HGNC:12829	Tumour syndromes
+HGNC:2204	Renal and urinary tract disorders
+HGNC:2206	Renal and urinary tract disorders
+HGNC:2207	Renal and urinary tract disorders
+HGNC:7579	Renal and urinary tract disorders
+HGNC:15868	Hearing and ear disorders
+HGNC:144	Hearing and ear disorders
+HGNC:17416	Hearing and ear disorders
+HGNC:428	Hearing and ear disorders
+HGNC:853	Hearing and ear disorders
+HGNC:1020	Hearing and ear disorders
+HGNC:16512	Hearing and ear disorders
+HGNC:1385	Hearing and ear disorders
+HGNC:18111	Hearing and ear disorders
+HGNC:13733	Hearing and ear disorders
+HGNC:31948	Hearing and ear disorders
+HGNC:25740	Hearing and ear disorders
+HGNC:24579	Hearing and ear disorders
+HGNC:2035	Hearing and ear disorders
+HGNC:2084	Hearing and ear disorders
+HGNC:12605	Hearing and ear disorders
+HGNC:2187	Hearing and ear disorders
+HGNC:2207	Hearing and ear disorders
+HGNC:2208	Hearing and ear disorders
+HGNC:2810	Hearing and ear disorders
+HGNC:2876	Hearing and ear disorders
+HGNC:2976	Hearing and ear disorders
+HGNC:3054	Hearing and ear disorders
+HGNC:3178	Hearing and ear disorders
+HGNC:3180	Hearing and ear disorders
+HGNC:3420	Hearing and ear disorders
+HGNC:13281	Hearing and ear disorders
+HGNC:3473	Hearing and ear disorders
+HGNC:3522	Hearing and ear disorders
+HGNC:4172	Hearing and ear disorders
+HGNC:18183	Hearing and ear disorders
+HGNC:4284	Hearing and ear disorders
+HGNC:4285	Hearing and ear disorders
+HGNC:29501	Hearing and ear disorders
+HGNC:2799	Hearing and ear disorders
+HGNC:31673	Hearing and ear disorders
+HGNC:4796	Hearing and ear disorders
+HGNC:5213	Hearing and ear disorders
+HGNC:28741	Hearing and ear disorders
+HGNC:6215	Hearing and ear disorders
+HGNC:6240	Hearing and ear disorders
+HGNC:6256	Hearing and ear disorders
+HGNC:6294	Hearing and ear disorders
+HGNC:6298	Hearing and ear disorders
+HGNC:6342	Hearing and ear disorders
+HGNC:17095	Hearing and ear disorders
+HGNC:21253	Hearing and ear disorders
+HGNC:26521	Hearing and ear disorders
+HGNC:25033	Hearing and ear disorders
+HGNC:26401	Hearing and ear disorders
+HGNC:6901	Hearing and ear disorders
+HGNC:7105	Hearing and ear disorders
+HGNC:27375	Hearing and ear disorders
+HGNC:7470	Hearing and ear disorders
+HGNC:7497	Hearing and ear disorders
+HGNC:23212	Hearing and ear disorders
+HGNC:7579	Hearing and ear disorders
+HGNC:7594	Hearing and ear disorders
+HGNC:7601	Hearing and ear disorders
+HGNC:7605	Hearing and ear disorders
+HGNC:7606	Hearing and ear disorders
+HGNC:15761	Hearing and ear disorders
+HGNC:16378	Hearing and ear disorders
+HGNC:8516	Hearing and ear disorders
+HGNC:26901	Hearing and ear disorders
+HGNC:15459	Hearing and ear disorders
+HGNC:8616	Hearing and ear disorders
+HGNC:8617	Hearing and ear disorders
+HGNC:14674	Hearing and ear disorders
+HGNC:26257	Hearing and ear disorders
+HGNC:23166	Hearing and ear disorders
+HGNC:9217	Hearing and ear disorders
+HGNC:9220	Hearing and ear disorders
+HGNC:9462	Hearing and ear disorders
+HGNC:9679	Hearing and ear disorders
+HGNC:9944	Hearing and ear disorders
+HGNC:3169	Hearing and ear disorders
+HGNC:21061	Hearing and ear disorders
+HGNC:8950	Hearing and ear disorders
+HGNC:10817	Hearing and ear disorders
+HGNC:20151	Hearing and ear disorders
+HGNC:9359	Hearing and ear disorders
+HGNC:16438	Hearing and ear disorders
+HGNC:11122	Hearing and ear disorders
+HGNC:11094	Hearing and ear disorders
+HGNC:11195	Hearing and ear disorders
+HGNC:18119	Hearing and ear disorders
+HGNC:16035	Hearing and ear disorders
+HGNC:26703	Hearing and ear disorders
+HGNC:29203	Hearing and ear disorders
+HGNC:11720	Hearing and ear disorders
+HGNC:11817	Hearing and ear disorders
+HGNC:16513	Hearing and ear disorders
+HGNC:30800	Hearing and ear disorders
+HGNC:11877	Hearing and ear disorders
+HGNC:26894	Hearing and ear disorders
+HGNC:17009	Hearing and ear disorders
+HGNC:12597	Hearing and ear disorders
+HGNC:16356	Hearing and ear disorders
+HGNC:12601	Hearing and ear disorders
+HGNC:12762	Hearing and ear disorders
+HGNC:16361	Hearing and ear disorders
+HGNC:13666	Neurology and neurodevelopmental disorders
+HGNC:48	Neurology and neurodevelopmental disorders
+HGNC:15868	Neurology and neurodevelopmental disorders
+HGNC:315	Neurology and neurodevelopmental disorders
+HGNC:25519	Neurology and neurodevelopmental disorders
+HGNC:560	Neurology and neurodevelopmental disorders
+HGNC:713	Neurology and neurodevelopmental disorders
+HGNC:779	Neurology and neurodevelopmental disorders
+HGNC:1382	Neurology and neurodevelopmental disorders
+HGNC:18806	Neurology and neurodevelopmental disorders
+HGNC:2020	Neurology and neurodevelopmental disorders
+HGNC:2077	Neurology and neurodevelopmental disorders
+HGNC:16812	Neurology and neurodevelopmental disorders
+HGNC:26970	Neurology and neurodevelopmental disorders
+HGNC:20582	Neurology and neurodevelopmental disorders
+HGNC:25538	Neurology and neurodevelopmental disorders
+HGNC:29106	Neurology and neurodevelopmental disorders
+HGNC:30528	Neurology and neurodevelopmental disorders
+HGNC:3257	Neurology and neurodevelopmental disorders
+HGNC:3259	Neurology and neurodevelopmental disorders
+HGNC:14415	Neurology and neurodevelopmental disorders
+HGNC:3671	Neurology and neurodevelopmental disorders
+HGNC:24682	Neurology and neurodevelopmental disorders
+HGNC:3775	Neurology and neurodevelopmental disorders
+HGNC:3951	Neurology and neurodevelopmental disorders
+HGNC:18986	Neurology and neurodevelopmental disorders
+HGNC:17494	Neurology and neurodevelopmental disorders
+HGNC:4576	Neurology and neurodevelopmental disorders
+HGNC:4593	Neurology and neurodevelopmental disorders
+HGNC:4879	Neurology and neurodevelopmental disorders
+HGNC:6239	Neurology and neurodevelopmental disorders
+HGNC:6317	Neurology and neurodevelopmental disorders
+HGNC:25133	Neurology and neurodevelopmental disorders
+HGNC:7230	Neurology and neurodevelopmental disorders
+HGNC:7414	Neurology and neurodevelopmental disorders
+HGNC:7467	Neurology and neurodevelopmental disorders
+HGNC:7897	Neurology and neurodevelopmental disorders
+HGNC:14537	Neurology and neurodevelopmental disorders
+HGNC:8142	Neurology and neurodevelopmental disorders
+HGNC:8620	Neurology and neurodevelopmental disorders
+HGNC:8820	Neurology and neurodevelopmental disorders
+HGNC:18667	Neurology and neurodevelopmental disorders
+HGNC:16268	Neurology and neurodevelopmental disorders
+HGNC:30074	Neurology and neurodevelopmental disorders
+HGNC:9402	Neurology and neurodevelopmental disorders
+HGNC:25358	Neurology and neurodevelopmental disorders
+HGNC:21698	Neurology and neurodevelopmental disorders
+HGNC:10519	Neurology and neurodevelopmental disorders
+HGNC:10535	Neurology and neurodevelopmental disorders
+HGNC:24624	Neurology and neurodevelopmental disorders
+HGNC:11237	Neurology and neurodevelopmental disorders
+HGNC:25812	Neurology and neurodevelopmental disorders
+HGNC:11427	Neurology and neurodevelopmental disorders
+HGNC:16255	Neurology and neurodevelopmental disorders
+HGNC:25186	Neurology and neurodevelopmental disorders
+HGNC:19141	Neurology and neurodevelopmental disorders
+HGNC:26006	Neurology and neurodevelopmental disorders
+HGNC:12404	Neurology and neurodevelopmental disorders
+HGNC:1160	Neurology and neurodevelopmental disorders
+HGNC:23595	Neurology and neurodevelopmental disorders
+HGNC:12762	Neurology and neurodevelopmental disorders
+HGNC:10560	Neurology and neurodevelopmental disorders
+HGNC:9305	Neurology and neurodevelopmental disorders
+HGNC:175	Respiratory disorders
+HGNC:3349	Respiratory disorders
+HGNC:3395	Respiratory disorders
+HGNC:6770	Respiratory disorders
+HGNC:8768	Neurology and neurodevelopmental disorders
+HGNC:14103	Neurology and neurodevelopmental disorders
+HGNC:11231	Neurology and neurodevelopmental disorders
+HGNC:24526	Neurology and neurodevelopmental disorders
+HGNC:17208	Neurology and neurodevelopmental disorders
+HGNC:26784	Neurology and neurodevelopmental disorders
+HGNC:15559	Neurology and neurodevelopmental disorders
+HGNC:2277	Neurology and neurodevelopmental disorders
+HGNC:3239	Neurology and neurodevelopmental disorders
+HGNC:5959	Neurology and neurodevelopmental disorders
+HGNC:3602	Neurology and neurodevelopmental disorders
+HGNC:19125	Neurology and neurodevelopmental disorders
+HGNC:4137	Neurology and neurodevelopmental disorders
+HGNC:4162	Neurology and neurodevelopmental disorders
+HGNC:15968	Neurology and neurodevelopmental disorders
+HGNC:4283	Neurology and neurodevelopmental disorders
+HGNC:4296	Neurology and neurodevelopmental disorders
+HGNC:4816	Neurology and neurodevelopmental disorders
+HGNC:4912	Neurology and neurodevelopmental disorders
+HGNC:4922	Neurology and neurodevelopmental disorders
+HGNC:5542	Neurology and neurodevelopmental disorders
+HGNC:23791	Neurology and neurodevelopmental disorders
+HGNC:6323	Neurology and neurodevelopmental disorders
+HGNC:16841	Neurology and neurodevelopmental disorders
+HGNC:25135	Neurology and neurodevelopmental disorders
+HGNC:16877	Neurology and neurodevelopmental disorders
+HGNC:7154	Neurology and neurodevelopmental disorders
+HGNC:23573	Neurology and neurodevelopmental disorders
+HGNC:7224	Neurology and neurodevelopmental disorders
+HGNC:7225	Neurology and neurodevelopmental disorders
+HGNC:7450	Neurology and neurodevelopmental disorders
+HGNC:7679	Neurology and neurodevelopmental disorders
+HGNC:7739	Neurology and neurodevelopmental disorders
+HGNC:7808	Neurology and neurodevelopmental disorders
+HGNC:8031	Neurology and neurodevelopmental disorders
+HGNC:8940	Neurology and neurodevelopmental disorders
+HGNC:29105	Neurology and neurodevelopmental disorders
+HGNC:9118	Neurology and neurodevelopmental disorders
+HGNC:13997	Neurology and neurodevelopmental disorders
+HGNC:9462	Neurology and neurodevelopmental disorders
+HGNC:13797	Neurology and neurodevelopmental disorders
+HGNC:9788	Neurology and neurodevelopmental disorders
+HGNC:25786	Neurology and neurodevelopmental disorders
+HGNC:25964	Neurology and neurodevelopmental disorders
+HGNC:2135	Neurology and neurodevelopmental disorders
+HGNC:10583	Neurology and neurodevelopmental disorders
+HGNC:7323	Neurology and neurodevelopmental disorders
+HGNC:29427	Neurology and neurodevelopmental disorders
+HGNC:10914	Neurology and neurodevelopmental disorders
+HGNC:11117	Neurology and neurodevelopmental disorders
+HGNC:11233	Neurology and neurodevelopmental disorders
+HGNC:11226	Neurology and neurodevelopmental disorders
+HGNC:11277	Neurology and neurodevelopmental disorders
+HGNC:11278	Neurology and neurodevelopmental disorders
+HGNC:11758	Neurology and neurodevelopmental disorders
+HGNC:12405	Neurology and neurodevelopmental disorders
+HGNC:3148	Neurology and neurodevelopmental disorders
+HGNC:14540	Neurology and neurodevelopmental disorders
+HGNC:12840	Neurology and neurodevelopmental disorders
+HGNC:61	Neurology and neurodevelopmental disorders
+HGNC:9722	Neurology and neurodevelopmental disorders
+HGNC:572	Neurology and neurodevelopmental disorders
+HGNC:573	Neurology and neurodevelopmental disorders
+HGNC:574	Neurology and neurodevelopmental disorders
+HGNC:575	Neurology and neurodevelopmental disorders
+HGNC:4117	Neurology and neurodevelopmental disorders
+HGNC:1476	Neurology and neurodevelopmental disorders
+HGNC:2652	Neurology and neurodevelopmental disorders
+HGNC:19714	Neurology and neurodevelopmental disorders
+HGNC:16947	Neurology and neurodevelopmental disorders
+HGNC:1356	Neurology and neurodevelopmental disorders
+HGNC:5261	Neurology and neurodevelopmental disorders
+HGNC:29508	Neurology and neurodevelopmental disorders
+HGNC:6470	Neurology and neurodevelopmental disorders
+HGNC:17043	Neurology and neurodevelopmental disorders
+HGNC:8022	Neurology and neurodevelopmental disorders
+HGNC:9086	Neurology and neurodevelopmental disorders
+HGNC:10468	Neurology and neurodevelopmental disorders
+HGNC:25198	Neurology and neurodevelopmental disorders
+HGNC:18514	Neurology and neurodevelopmental disorders
+HGNC:20373	Neurology and neurodevelopmental disorders
+HGNC:12461	Neurology and neurodevelopmental disorders
+HGNC:28984	Neurology and neurodevelopmental disorders
+HGNC:20761	Neurology and neurodevelopmental disorders
+HGNC:17104	Neurology and neurodevelopmental disorders
+HGNC:19711	Neurology and neurodevelopmental disorders
+HGNC:3686	Neurology and neurodevelopmental disorders
+HGNC:3688	Neurology and neurodevelopmental disorders
+HGNC:4318	Neurology and neurodevelopmental disorders
+HGNC:9585	Neurology and neurodevelopmental disorders
+HGNC:10848	Neurology and neurodevelopmental disorders
+HGNC:10889	Neurology and neurodevelopmental disorders
+HGNC:11776	Neurology and neurodevelopmental disorders
+HGNC:12873	Neurology and neurodevelopmental disorders
+HGNC:29304	Dermatological disorders
+HGNC:89	Metabolic disorders
+HGNC:92	Metabolic disorders
+HGNC:9722	Metabolic disorders
+HGNC:663	Metabolic disorders
+HGNC:746	Metabolic disorders
+HGNC:758	Metabolic disorders
+HGNC:890	Metabolic disorders
+HGNC:986	Metabolic disorders
+HGNC:987	Metabolic disorders
+HGNC:1377	Metabolic disorders
+HGNC:2323	Metabolic disorders
+HGNC:2328	Metabolic disorders
+HGNC:2330	Metabolic disorders
+HGNC:2698	Metabolic disorders
+HGNC:3481	Metabolic disorders
+HGNC:3482	Metabolic disorders
+HGNC:3483	Metabolic disorders
+HGNC:4335	Metabolic disorders
+HGNC:4801	Metabolic disorders
+HGNC:4803	Metabolic disorders
+HGNC:4976	Metabolic disorders
+HGNC:5005	Metabolic disorders
+HGNC:6186	Metabolic disorders
+HGNC:7150	Metabolic disorders
+HGNC:18871	Metabolic disorders
+HGNC:19331	Metabolic disorders
+HGNC:7526	Metabolic disorders
+HGNC:17996	Metabolic disorders
+HGNC:8091	Metabolic disorders
+HGNC:8512	Metabolic disorders
+HGNC:8636	Metabolic disorders
+HGNC:8653	Metabolic disorders
+HGNC:8654	Metabolic disorders
+HGNC:9179	Metabolic disorders
+HGNC:9726	Metabolic disorders
+HGNC:21061	Metabolic disorders
+HGNC:10969	Metabolic disorders
+HGNC:10983	Metabolic disorders
+HGNC:10985	Metabolic disorders
+HGNC:1421	Metabolic disorders
+HGNC:11065	Metabolic disorders
+HGNC:26050	Metabolic disorders
+HGNC:399	Endocrine disorders
+HGNC:3702	Cardiovascular disorders
+HGNC:6501	Cardiovascular disorders
+HGNC:6742	Cardiovascular disorders
+HGNC:7583	Cardiovascular disorders
+HGNC:7584	Cardiovascular disorders
+HGNC:9386	Cardiovascular disorders
+HGNC:12405	Cardiovascular disorders
+HGNC:1388	Ophthalmological disorders
+HGNC:8079	Ophthalmological disorders
+HGNC:20145	Ophthalmological disorders
+HGNC:23405	Ophthalmological disorders
+HGNC:1968	Ophthalmological disorders
+HGNC:8101	Ophthalmological disorders
+HGNC:20611	Ophthalmological disorders
+HGNC:16472	Ophthalmological disorders
+HGNC:12442	Ophthalmological disorders
+HGNC:12450	Ophthalmological disorders
+HGNC:9388	Tumour syndromes
+HGNC:10702	Tumour syndromes
+HGNC:12791	Tumour syndromes
+HGNC:21022	Neurology and neurodevelopmental disorders
+HGNC:403	Neurology and neurodevelopmental disorders
+HGNC:2260	Neurology and neurodevelopmental disorders
+HGNC:2263	Neurology and neurodevelopmental disorders
+HGNC:2678	Neurology and neurodevelopmental disorders
+HGNC:2858	Neurology and neurodevelopmental disorders
+HGNC:3483	Neurology and neurodevelopmental disorders
+HGNC:24587	Neurology and neurodevelopmental disorders
+HGNC:4274	Neurology and neurodevelopmental disorders
+HGNC:27302	Neurology and neurodevelopmental disorders
+HGNC:19857	Neurology and neurodevelopmental disorders
+HGNC:20499	Neurology and neurodevelopmental disorders
+HGNC:6486	Neurology and neurodevelopmental disorders
+HGNC:6637	Neurology and neurodevelopmental disorders
+HGNC:28072	Neurology and neurodevelopmental disorders
+HGNC:13356	Neurology and neurodevelopmental disorders
+HGNC:16002	Neurology and neurodevelopmental disorders
+HGNC:29666	Neurology and neurodevelopmental disorders
+HGNC:18828	Neurology and neurodevelopmental disorders
+HGNC:29918	Neurology and neurodevelopmental disorders
+HGNC:7707	Neurology and neurodevelopmental disorders
+HGNC:7708	Neurology and neurodevelopmental disorders
+HGNC:7714	Neurology and neurodevelopmental disorders
+HGNC:20278	Neurology and neurodevelopmental disorders
+HGNC:9180	Neurology and neurodevelopmental disorders
+HGNC:20194	Neurology and neurodevelopmental disorders
+HGNC:30348	Neurology and neurodevelopmental disorders
+HGNC:30262	Neurology and neurodevelopmental disorders
+HGNC:9870	Neurology and neurodevelopmental disorders
+HGNC:17296	Neurology and neurodevelopmental disorders
+HGNC:10606	Neurology and neurodevelopmental disorders
+HGNC:33867	Neurology and neurodevelopmental disorders
+HGNC:10681	Neurology and neurodevelopmental disorders
+HGNC:10933	Neurology and neurodevelopmental disorders
+HGNC:11190	Neurology and neurodevelopmental disorders
+HGNC:20376	Neurology and neurodevelopmental disorders
+HGNC:24316	Neurology and neurodevelopmental disorders
+HGNC:1058	Endocrine disorders
+HGNC:9688	Endocrine disorders
+HGNC:6621	Endocrine disorders
+HGNC:16068	Endocrine disorders
+HGNC:8754	Endocrine disorders
+HGNC:12791	Endocrine disorders
+HGNC:17366	Neurology and neurodevelopmental disorders
+HGNC:60	Neurology and neurodevelopmental disorders
+HGNC:68	Neurology and neurodevelopmental disorders
+HGNC:21396	Neurology and neurodevelopmental disorders
+HGNC:21497	Neurology and neurodevelopmental disorders
+HGNC:89	Neurology and neurodevelopmental disorders
+HGNC:90	Neurology and neurodevelopmental disorders
+HGNC:118	Neurology and neurodevelopmental disorders
+HGNC:3571	Neurology and neurodevelopmental disorders
+HGNC:132	Neurology and neurodevelopmental disorders
+HGNC:144	Neurology and neurodevelopmental disorders
+HGNC:24124	Neurology and neurodevelopmental disorders
+HGNC:177	Neurology and neurodevelopmental disorders
+HGNC:25151	Neurology and neurodevelopmental disorders
+HGNC:257	Neurology and neurodevelopmental disorders
+HGNC:15766	Neurology and neurodevelopmental disorders
+HGNC:3776	Neurology and neurodevelopmental disorders
+HGNC:17869	Neurology and neurodevelopmental disorders
+HGNC:318	Neurology and neurodevelopmental disorders
+HGNC:327	Neurology and neurodevelopmental disorders
+HGNC:25230	Neurology and neurodevelopmental disorders
+HGNC:21575	Neurology and neurodevelopmental disorders
+HGNC:406	Neurology and neurodevelopmental disorders
+HGNC:19358	Neurology and neurodevelopmental disorders
+HGNC:428	Neurology and neurodevelopmental disorders
+HGNC:26837	Neurology and neurodevelopmental disorders
+HGNC:15492	Neurology and neurodevelopmental disorders
+HGNC:21316	Neurology and neurodevelopmental disorders
+HGNC:559	Neurology and neurodevelopmental disorders
+HGNC:566	Neurology and neurodevelopmental disorders
+HGNC:20492	Neurology and neurodevelopmental disorders
+HGNC:649	Neurology and neurodevelopmental disorders
+HGNC:11110	Neurology and neurodevelopmental disorders
+HGNC:18037	Neurology and neurodevelopmental disorders
+HGNC:25419	Neurology and neurodevelopmental disorders
+HGNC:13210	Neurology and neurodevelopmental disorders
+HGNC:20730	Neurology and neurodevelopmental disorders
+HGNC:714	Neurology and neurodevelopmental disorders
+HGNC:719	Neurology and neurodevelopmental disorders
+HGNC:19088	Neurology and neurodevelopmental disorders
+HGNC:746	Neurology and neurodevelopmental disorders
+HGNC:753	Neurology and neurodevelopmental disorders
+HGNC:19048	Neurology and neurodevelopmental disorders
+HGNC:758	Neurology and neurodevelopmental disorders
+HGNC:23805	Neurology and neurodevelopmental disorders
+HGNC:29357	Neurology and neurodevelopmental disorders
+HGNC:25567	Neurology and neurodevelopmental disorders
+HGNC:794	Neurology and neurodevelopmental disorders
+HGNC:18305	Neurology and neurodevelopmental disorders
+HGNC:854	Neurology and neurodevelopmental disorders
+HGNC:13533	Neurology and neurodevelopmental disorders
+HGNC:890	Neurology and neurodevelopmental disorders
+HGNC:14262	Neurology and neurodevelopmental disorders
+HGNC:20207	Neurology and neurodevelopmental disorders
+HGNC:930	Neurology and neurodevelopmental disorders
+HGNC:966	Neurology and neurodevelopmental disorders
+HGNC:26291	Neurology and neurodevelopmental disorders
+HGNC:26648	Neurology and neurodevelopmental disorders
+HGNC:967	Neurology and neurodevelopmental disorders
+HGNC:969	Neurology and neurodevelopmental disorders
+HGNC:970	Neurology and neurodevelopmental disorders
+HGNC:18758	Neurology and neurodevelopmental disorders
+HGNC:30000	Neurology and neurodevelopmental disorders
+HGNC:16902	Neurology and neurodevelopmental disorders
+HGNC:13221	Neurology and neurodevelopmental disorders
+HGNC:13222	Neurology and neurodevelopmental disorders
+HGNC:20893	Neurology and neurodevelopmental disorders
+HGNC:1058	Neurology and neurodevelopmental disorders
+HGNC:1071	Neurology and neurodevelopmental disorders
+HGNC:3581	Neurology and neurodevelopmental disorders
+HGNC:13575	Neurology and neurodevelopmental disorders
+HGNC:11551	Neurology and neurodevelopmental disorders
+HGNC:14255	Neurology and neurodevelopmental disorders
+HGNC:17342	Neurology and neurodevelopmental disorders
+HGNC:1149	Neurology and neurodevelopmental disorders
+HGNC:1184	Neurology and neurodevelopmental disorders
+HGNC:25801	Neurology and neurodevelopmental disorders
+HGNC:1373	Neurology and neurodevelopmental disorders
+HGNC:1390	Neurology and neurodevelopmental disorders
+HGNC:1460	Neurology and neurodevelopmental disorders
+HGNC:1461	Neurology and neurodevelopmental disorders
+HGNC:1541	Neurology and neurodevelopmental disorders
+HGNC:1550	Neurology and neurodevelopmental disorders
+HGNC:30237	Neurology and neurodevelopmental disorders
+HGNC:29426	Neurology and neurodevelopmental disorders
+HGNC:28909	Neurology and neurodevelopmental disorders
+HGNC:24856	Neurology and neurodevelopmental disorders
+HGNC:19967	Neurology and neurodevelopmental disorders
+HGNC:1583	Neurology and neurodevelopmental disorders
+HGNC:1736	Neurology and neurodevelopmental disorders
+HGNC:1744	Neurology and neurodevelopmental disorders
+HGNC:1750	Neurology and neurodevelopmental disorders
+HGNC:1754	Neurology and neurodevelopmental disorders
+HGNC:1770	Neurology and neurodevelopmental disorders
+HGNC:1733	Neurology and neurodevelopmental disorders
+HGNC:18672	Neurology and neurodevelopmental disorders
+HGNC:1779	Neurology and neurodevelopmental disorders
+HGNC:1857	Neurology and neurodevelopmental disorders
+HGNC:17272	Neurology and neurodevelopmental disorders
+HGNC:29086	Neurology and neurodevelopmental disorders
+HGNC:29021	Neurology and neurodevelopmental disorders
+HGNC:12370	Neurology and neurodevelopmental disorders
+HGNC:30794	Neurology and neurodevelopmental disorders
+HGNC:17966	Neurology and neurodevelopmental disorders
+HGNC:20311	Neurology and neurodevelopmental disorders
+HGNC:1918	Neurology and neurodevelopmental disorders
+HGNC:1919	Neurology and neurodevelopmental disorders
+HGNC:20626	Neurology and neurodevelopmental disorders
+HGNC:20153	Neurology and neurodevelopmental disorders
+HGNC:1985	Neurology and neurodevelopmental disorders
+HGNC:26877	Neurology and neurodevelopmental disorders
+HGNC:2076	Neurology and neurodevelopmental disorders
+HGNC:30664	Neurology and neurodevelopmental disorders
+HGNC:7877	Neurology and neurodevelopmental disorders
+HGNC:7879	Neurology and neurodevelopmental disorders
+HGNC:6545	Neurology and neurodevelopmental disorders
+HGNC:18620	Neurology and neurodevelopmental disorders
+HGNC:14857	Neurology and neurodevelopmental disorders
+HGNC:18621	Neurology and neurodevelopmental disorders
+HGNC:18623	Neurology and neurodevelopmental disorders
+HGNC:2205	Neurology and neurodevelopmental disorders
+HGNC:17213	Neurology and neurodevelopmental disorders
+HGNC:2280	Neurology and neurodevelopmental disorders
+HGNC:2323	Neurology and neurodevelopmental disorders
+HGNC:2340	Neurology and neurodevelopmental disorders
+HGNC:18688	Neurology and neurodevelopmental disorders
+HGNC:2457	Neurology and neurodevelopmental disorders
+HGNC:26193	Neurology and neurodevelopmental disorders
+HGNC:26169	Neurology and neurodevelopmental disorders
+HGNC:13723	Neurology and neurodevelopmental disorders
+HGNC:2498	Neurology and neurodevelopmental disorders
+HGNC:2514	Neurology and neurodevelopmental disorders
+HGNC:9251	Neurology and neurodevelopmental disorders
+HGNC:2555	Neurology and neurodevelopmental disorders
+HGNC:10664	Neurology and neurodevelopmental disorders
+HGNC:2873	Neurology and neurodevelopmental disorders
+HGNC:2579	Neurology and neurodevelopmental disorders
+HGNC:13681	Neurology and neurodevelopmental disorders
+HGNC:2719	Neurology and neurodevelopmental disorders
+HGNC:2728	Neurology and neurodevelopmental disorders
+HGNC:2736	Neurology and neurodevelopmental disorders
+HGNC:2859	Neurology and neurodevelopmental disorders
+HGNC:2861	Neurology and neurodevelopmental disorders
+HGNC:23537	Neurology and neurodevelopmental disorders
+HGNC:28648	Neurology and neurodevelopmental disorders
+HGNC:2898	Neurology and neurodevelopmental disorders
+HGNC:2902	Neurology and neurodevelopmental disorders
+HGNC:28908	Neurology and neurodevelopmental disorders
+HGNC:2978	Neurology and neurodevelopmental disorders
+HGNC:2979	Neurology and neurodevelopmental disorders
+HGNC:2989	Neurology and neurodevelopmental disorders
+HGNC:19189	Neurology and neurodevelopmental disorders
+HGNC:19191	Neurology and neurodevelopmental disorders
+HGNC:9964	Neurology and neurodevelopmental disorders
+HGNC:3010	Neurology and neurodevelopmental disorders
+HGNC:21317	Neurology and neurodevelopmental disorders
+HGNC:19087	Neurology and neurodevelopmental disorders
+HGNC:3133	Neurology and neurodevelopmental disorders
+HGNC:3188	Neurology and neurodevelopmental disorders
+HGNC:3255	Neurology and neurodevelopmental disorders
+HGNC:18683	Neurology and neurodevelopmental disorders
+HGNC:14198	Neurology and neurodevelopmental disorders
+HGNC:18248	Neurology and neurodevelopmental disorders
+HGNC:3373	Neurology and neurodevelopmental disorders
+HGNC:3433	Neurology and neurodevelopmental disorders
+HGNC:3434	Neurology and neurodevelopmental disorders
+HGNC:3435	Neurology and neurodevelopmental disorders
+HGNC:3437	Neurology and neurodevelopmental disorders
+HGNC:26922	Neurology and neurodevelopmental disorders
+HGNC:27230	Neurology and neurodevelopmental disorders
+HGNC:3481	Neurology and neurodevelopmental disorders
+HGNC:3482	Neurology and neurodevelopmental disorders
+HGNC:3518	Neurology and neurodevelopmental disorders
+HGNC:3527	Neurology and neurodevelopmental disorders
+HGNC:24725	Neurology and neurodevelopmental disorders
+HGNC:23109	Neurology and neurodevelopmental disorders
+HGNC:3663	Neurology and neurodevelopmental disorders
+HGNC:14074	Neurology and neurodevelopmental disorders
+HGNC:3823	Neurology and neurodevelopmental disorders
+HGNC:13875	Neurology and neurodevelopmental disorders
+HGNC:26927	Neurology and neurodevelopmental disorders
+HGNC:3974	Neurology and neurodevelopmental disorders
+HGNC:13254	Neurology and neurodevelopmental disorders
+HGNC:4116	Neurology and neurodevelopmental disorders
+HGNC:4135	Neurology and neurodevelopmental disorders
+HGNC:30778	Neurology and neurodevelopmental disorders
+HGNC:4175	Neurology and neurodevelopmental disorders
+HGNC:4189	Neurology and neurodevelopmental disorders
+HGNC:4226	Neurology and neurodevelopmental disorders
+HGNC:4236	Neurology and neurodevelopmental disorders
+HGNC:4289	Neurology and neurodevelopmental disorders
+HGNC:4319	Neurology and neurodevelopmental disorders
+HGNC:28510	Neurology and neurodevelopmental disorders
+HGNC:22923	Neurology and neurodevelopmental disorders
+HGNC:4384	Neurology and neurodevelopmental disorders
+HGNC:4392	Neurology and neurodevelopmental disorders
+HGNC:4416	Neurology and neurodevelopmental disorders
+HGNC:29670	Neurology and neurodevelopmental disorders
+HGNC:23026	Neurology and neurodevelopmental disorders
+HGNC:4422	Neurology and neurodevelopmental disorders
+HGNC:4451	Neurology and neurodevelopmental disorders
+HGNC:29501	Neurology and neurodevelopmental disorders
+HGNC:4573	Neurology and neurodevelopmental disorders
+HGNC:4580	Neurology and neurodevelopmental disorders
+HGNC:21157	Neurology and neurodevelopmental disorders
+HGNC:14880	Neurology and neurodevelopmental disorders
+HGNC:4696	Neurology and neurodevelopmental disorders
+HGNC:4799	Neurology and neurodevelopmental disorders
+HGNC:4801	Neurology and neurodevelopmental disorders
+HGNC:4837	Neurology and neurodevelopmental disorders
+HGNC:14063	Neurology and neurodevelopmental disorders
+HGNC:13315	Neurology and neurodevelopmental disorders
+HGNC:4867	Neurology and neurodevelopmental disorders
+HGNC:4877	Neurology and neurodevelopmental disorders
+HGNC:26527	Neurology and neurodevelopmental disorders
+HGNC:4908	Neurology and neurodevelopmental disorders
+HGNC:4718	Neurology and neurodevelopmental disorders
+HGNC:4921	Neurology and neurodevelopmental disorders
+HGNC:5044	Neurology and neurodevelopmental disorders
+HGNC:5099	Neurology and neurodevelopmental disorders
+HGNC:5147	Neurology and neurodevelopmental disorders
+HGNC:5157	Neurology and neurodevelopmental disorders
+HGNC:4800	Neurology and neurodevelopmental disorders
+HGNC:30892	Neurology and neurodevelopmental disorders
+HGNC:26558	Neurology and neurodevelopmental disorders
+HGNC:5330	Neurology and neurodevelopmental disorders
+HGNC:5389	Neurology and neurodevelopmental disorders
+HGNC:5391	Neurology and neurodevelopmental disorders
+HGNC:30391	Neurology and neurodevelopmental disorders
+HGNC:5464	Neurology and neurodevelopmental disorders
+HGNC:5465	Neurology and neurodevelopmental disorders
+HGNC:5996	Neurology and neurodevelopmental disorders
+HGNC:21474	Neurology and neurodevelopmental disorders
+HGNC:24555	Neurology and neurodevelopmental disorders
+HGNC:14361	Neurology and neurodevelopmental disorders
+HGNC:6186	Neurology and neurodevelopmental disorders
+HGNC:15532	Neurology and neurodevelopmental disorders
+HGNC:24565	Neurology and neurodevelopmental disorders
+HGNC:13013	Neurology and neurodevelopmental disorders
+HGNC:6250	Neurology and neurodevelopmental disorders
+HGNC:6267	Neurology and neurodevelopmental disorders
+HGNC:6283	Neurology and neurodevelopmental disorders
+HGNC:29079	Neurology and neurodevelopmental disorders
+HGNC:18039	Neurology and neurodevelopmental disorders
+HGNC:11114	Neurology and neurodevelopmental disorders
+HGNC:12637	Neurology and neurodevelopmental disorders
+HGNC:19960	Neurology and neurodevelopmental disorders
+HGNC:6388	Neurology and neurodevelopmental disorders
+HGNC:19181	Neurology and neurodevelopmental disorders
+HGNC:30497	Neurology and neurodevelopmental disorders
+HGNC:7132	Neurology and neurodevelopmental disorders
+HGNC:13726	Neurology and neurodevelopmental disorders
+HGNC:7133	Neurology and neurodevelopmental disorders
+HGNC:24283	Neurology and neurodevelopmental disorders
+HGNC:24054	Neurology and neurodevelopmental disorders
+HGNC:6404	Neurology and neurodevelopmental disorders
+HGNC:6481	Neurology and neurodevelopmental disorders
+HGNC:6494	Neurology and neurodevelopmental disorders
+HGNC:6501	Neurology and neurodevelopmental disorders
+HGNC:24912	Neurology and neurodevelopmental disorders
+HGNC:6601	Neurology and neurodevelopmental disorders
+HGNC:30922	Neurology and neurodevelopmental disorders
+HGNC:9479	Neurology and neurodevelopmental disorders
+HGNC:6694	Neurology and neurodevelopmental disorders
+HGNC:15714	Neurology and neurodevelopmental disorders
+HGNC:6742	Neurology and neurodevelopmental disorders
+HGNC:6757	Neurology and neurodevelopmental disorders
+HGNC:6758	Neurology and neurodevelopmental disorders
+HGNC:6814	Neurology and neurodevelopmental disorders
+HGNC:6823	Neurology and neurodevelopmental disorders
+HGNC:6826	Neurology and neurodevelopmental disorders
+HGNC:6831	Neurology and neurodevelopmental disorders
+HGNC:6833	Neurology and neurodevelopmental disorders
+HGNC:6884	Neurology and neurodevelopmental disorders
+HGNC:6901	Neurology and neurodevelopmental disorders
+HGNC:19034	Neurology and neurodevelopmental disorders
+HGNC:6903	Neurology and neurodevelopmental disorders
+HGNC:15455	Neurology and neurodevelopmental disorders
+HGNC:6936	Neurology and neurodevelopmental disorders
+HGNC:6937	Neurology and neurodevelopmental disorders
+HGNC:6946	Neurology and neurodevelopmental disorders
+HGNC:6954	Neurology and neurodevelopmental disorders
+HGNC:22962	Neurology and neurodevelopmental disorders
+HGNC:2375	Neurology and neurodevelopmental disorders
+HGNC:2372	Neurology and neurodevelopmental disorders
+HGNC:7001	Neurology and neurodevelopmental disorders
+HGNC:26988	Neurology and neurodevelopmental disorders
+HGNC:7045	Neurology and neurodevelopmental disorders
+HGNC:7060	Neurology and neurodevelopmental disorders
+HGNC:7095	Neurology and neurodevelopmental disorders
+HGNC:7108	Neurology and neurodevelopmental disorders
+HGNC:7121	Neurology and neurodevelopmental disorders
+HGNC:7150	Neurology and neurodevelopmental disorders
+HGNC:18871	Neurology and neurodevelopmental disorders
+HGNC:19331	Neurology and neurodevelopmental disorders
+HGNC:7216	Neurology and neurodevelopmental disorders
+HGNC:14508	Neurology and neurodevelopmental disorders
+HGNC:7370	Neurology and neurodevelopmental disorders
+HGNC:10545	Neurology and neurodevelopmental disorders
+HGNC:7473	Neurology and neurodevelopmental disorders
+HGNC:7526	Neurology and neurodevelopmental disorders
+HGNC:7530	Neurology and neurodevelopmental disorders
+HGNC:7559	Neurology and neurodevelopmental disorders
+HGNC:7602	Neurology and neurodevelopmental disorders
+HGNC:7623	Neurology and neurodevelopmental disorders
+HGNC:18704	Neurology and neurodevelopmental disorders
+HGNC:30782	Neurology and neurodevelopmental disorders
+HGNC:7632	Neurology and neurodevelopmental disorders
+HGNC:19237	Neurology and neurodevelopmental disorders
+HGNC:7678	Neurology and neurodevelopmental disorders
+HGNC:7680	Neurology and neurodevelopmental disorders
+HGNC:7758	Neurology and neurodevelopmental disorders
+HGNC:7784	Neurology and neurodevelopmental disorders
+HGNC:7788	Neurology and neurodevelopmental disorders
+HGNC:16287	Neurology and neurodevelopmental disorders
+HGNC:7820	Neurology and neurodevelopmental disorders
+HGNC:28862	Neurology and neurodevelopmental disorders
+HGNC:11825	Neurology and neurodevelopmental disorders
+HGNC:14289	Neurology and neurodevelopmental disorders
+HGNC:7871	Neurology and neurodevelopmental disorders
+HGNC:7905	Neurology and neurodevelopmental disorders
+HGNC:7975	Neurology and neurodevelopmental disorders
+HGNC:7989	Neurology and neurodevelopmental disorders
+HGNC:12766	Neurology and neurodevelopmental disorders
+HGNC:25994	Neurology and neurodevelopmental disorders
+HGNC:8108	Neurology and neurodevelopmental disorders
+HGNC:8109	Neurology and neurodevelopmental disorders
+HGNC:2567	Neurology and neurodevelopmental disorders
+HGNC:8127	Neurology and neurodevelopmental disorders
+HGNC:18028	Neurology and neurodevelopmental disorders
+HGNC:8512	Neurology and neurodevelopmental disorders
+HGNC:8522	Neurology and neurodevelopmental disorders
+HGNC:8592	Neurology and neurodevelopmental disorders
+HGNC:8609	Neurology and neurodevelopmental disorders
+HGNC:8622	Neurology and neurodevelopmental disorders
+HGNC:8632	Neurology and neurodevelopmental disorders
+HGNC:8636	Neurology and neurodevelopmental disorders
+HGNC:12929	Neurology and neurodevelopmental disorders
+HGNC:8783	Neurology and neurodevelopmental disorders
+HGNC:8804	Neurology and neurodevelopmental disorders
+HGNC:17759	Neurology and neurodevelopmental disorders
+HGNC:23041	Neurology and neurodevelopmental disorders
+HGNC:8840	Neurology and neurodevelopmental disorders
+HGNC:25712	Neurology and neurodevelopmental disorders
+HGNC:17893	Neurology and neurodevelopmental disorders
+HGNC:23719	Neurology and neurodevelopmental disorders
+HGNC:8896	Neurology and neurodevelopmental disorders
+HGNC:8907	Neurology and neurodevelopmental disorders
+HGNC:18145	Neurology and neurodevelopmental disorders
+HGNC:20672	Neurology and neurodevelopmental disorders
+HGNC:15673	Neurology and neurodevelopmental disorders
+HGNC:8966	Neurology and neurodevelopmental disorders
+HGNC:26031	Neurology and neurodevelopmental disorders
+HGNC:11397	Neurology and neurodevelopmental disorders
+HGNC:18801	Neurology and neurodevelopmental disorders
+HGNC:9173	Neurology and neurodevelopmental disorders
+HGNC:17652	Neurology and neurodevelopmental disorders
+HGNC:9277	Neurology and neurodevelopmental disorders
+HGNC:9282	Neurology and neurodevelopmental disorders
+HGNC:14951	Neurology and neurodevelopmental disorders
+HGNC:9302	Neurology and neurodevelopmental disorders
+HGNC:9312	Neurology and neurodevelopmental disorders
+HGNC:9330	Neurology and neurodevelopmental disorders
+HGNC:9407	Neurology and neurodevelopmental disorders
+HGNC:9477	Neurology and neurodevelopmental disorders
+HGNC:13420	Neurology and neurodevelopmental disorders
+HGNC:9557	Neurology and neurodevelopmental disorders
+HGNC:9577	Neurology and neurodevelopmental disorders
+HGNC:26392	Neurology and neurodevelopmental disorders
+HGNC:9587	Neurology and neurodevelopmental disorders
+HGNC:9644	Neurology and neurodevelopmental disorders
+HGNC:17042	Neurology and neurodevelopmental disorders
+HGNC:15508	Neurology and neurodevelopmental disorders
+HGNC:9721	Neurology and neurodevelopmental disorders
+HGNC:24713	Neurology and neurodevelopmental disorders
+HGNC:14263	Neurology and neurodevelopmental disorders
+HGNC:16499	Neurology and neurodevelopmental disorders
+HGNC:17063	Neurology and neurodevelopmental disorders
+HGNC:17168	Neurology and neurodevelopmental disorders
+HGNC:9801	Neurology and neurodevelopmental disorders
+HGNC:9811	Neurology and neurodevelopmental disorders
+HGNC:9829	Neurology and neurodevelopmental disorders
+HGNC:9834	Neurology and neurodevelopmental disorders
+HGNC:9865	Neurology and neurodevelopmental disorders
+HGNC:9891	Neurology and neurodevelopmental disorders
+HGNC:9896	Neurology and neurodevelopmental disorders
+HGNC:9965	Neurology and neurodevelopmental disorders
+HGNC:10023	Neurology and neurodevelopmental disorders
+HGNC:13429	Neurology and neurodevelopmental disorders
+HGNC:21150	Neurology and neurodevelopmental disorders
+HGNC:10257	Neurology and neurodevelopmental disorders
+HGNC:29168	Neurology and neurodevelopmental disorders
+HGNC:10298	Neurology and neurodevelopmental disorders
+HGNC:10432	Neurology and neurodevelopmental disorders
+HGNC:15888	Neurology and neurodevelopmental disorders
+HGNC:1348	Neurology and neurodevelopmental disorders
+HGNC:21637	Neurology and neurodevelopmental disorders
+HGNC:10547	Neurology and neurodevelopmental disorders
+HGNC:13081	Neurology and neurodevelopmental disorders
+HGNC:10671	Neurology and neurodevelopmental disorders
+HGNC:10680	Neurology and neurodevelopmental disorders
+HGNC:10760	Neurology and neurodevelopmental disorders
+HGNC:29187	Neurology and neurodevelopmental disorders
+HGNC:18420	Neurology and neurodevelopmental disorders
+HGNC:10817	Neurology and neurodevelopmental disorders
+HGNC:10818	Neurology and neurodevelopmental disorders
+HGNC:15474	Neurology and neurodevelopmental disorders
+HGNC:14295	Neurology and neurodevelopmental disorders
+HGNC:14294	Neurology and neurodevelopmental disorders
+HGNC:15454	Neurology and neurodevelopmental disorders
+HGNC:19353	Neurology and neurodevelopmental disorders
+HGNC:16266	Neurology and neurodevelopmental disorders
+HGNC:10985	Neurology and neurodevelopmental disorders
+HGNC:95	Neurology and neurodevelopmental disorders
+HGNC:20197	Neurology and neurodevelopmental disorders
+HGNC:20858	Neurology and neurodevelopmental disorders
+HGNC:20862	Neurology and neurodevelopmental disorders
+HGNC:30521	Neurology and neurodevelopmental disorders
+HGNC:11030	Neurology and neurodevelopmental disorders
+HGNC:31399	Neurology and neurodevelopmental disorders
+HGNC:11056	Neurology and neurodevelopmental disorders
+HGNC:23845	Neurology and neurodevelopmental disorders
+HGNC:11100	Neurology and neurodevelopmental disorders
+HGNC:11103	Neurology and neurodevelopmental disorders
+HGNC:11106	Neurology and neurodevelopmental disorders
+HGNC:11109	Neurology and neurodevelopmental disorders
+HGNC:2468	Neurology and neurodevelopmental disorders
+HGNC:20318	Neurology and neurodevelopmental disorders
+HGNC:11120	Neurology and neurodevelopmental disorders
+HGNC:11133	Neurology and neurodevelopmental disorders
+HGNC:11153	Neurology and neurodevelopmental disorders
+HGNC:11183	Neurology and neurodevelopmental disorders
+HGNC:11187	Neurology and neurodevelopmental disorders
+HGNC:11188	Neurology and neurodevelopmental disorders
+HGNC:11191	Neurology and neurodevelopmental disorders
+HGNC:11195	Neurology and neurodevelopmental disorders
+HGNC:11199	Neurology and neurodevelopmental disorders
+HGNC:11200	Neurology and neurodevelopmental disorders
+HGNC:11201	Neurology and neurodevelopmental disorders
+HGNC:11204	Neurology and neurodevelopmental disorders
+HGNC:18119	Neurology and neurodevelopmental disorders
+HGNC:29022	Neurology and neurodevelopmental disorders
+HGNC:20249	Neurology and neurodevelopmental disorders
+HGNC:16974	Neurology and neurodevelopmental disorders
+HGNC:11326	Neurology and neurodevelopmental disorders
+HGNC:10866	Neurology and neurodevelopmental disorders
+HGNC:11355	Neurology and neurodevelopmental disorders
+HGNC:10879	Neurology and neurodevelopmental disorders
+HGNC:30650	Neurology and neurodevelopmental disorders
+HGNC:11449	Neurology and neurodevelopmental disorders
+HGNC:11506	Neurology and neurodevelopmental disorders
+HGNC:11509	Neurology and neurodevelopmental disorders
+HGNC:11535	Neurology and neurodevelopmental disorders
+HGNC:11540	Neurology and neurodevelopmental disorders
+HGNC:11573	Neurology and neurodevelopmental disorders
+HGNC:11577	Neurology and neurodevelopmental disorders
+HGNC:16133	Neurology and neurodevelopmental disorders
+HGNC:25622	Neurology and neurodevelopmental disorders
+HGNC:11582	Neurology and neurodevelopmental disorders
+HGNC:11590	Neurology and neurodevelopmental disorders
+HGNC:11631	Neurology and neurodevelopmental disorders
+HGNC:11653	Neurology and neurodevelopmental disorders
+HGNC:25774	Neurology and neurodevelopmental disorders
+HGNC:19957	Neurology and neurodevelopmental disorders
+HGNC:29099	Neurology and neurodevelopmental disorders
+HGNC:19073	Neurology and neurodevelopmental disorders
+HGNC:28369	Neurology and neurodevelopmental disorders
+HGNC:11796	Neurology and neurodevelopmental disorders
+HGNC:11842	Neurology and neurodevelopmental disorders
+HGNC:18188	Neurology and neurodevelopmental disorders
+HGNC:30760	Neurology and neurodevelopmental disorders
+HGNC:25018	Neurology and neurodevelopmental disorders
+HGNC:14432	Neurology and neurodevelopmental disorders
+HGNC:28396	Neurology and neurodevelopmental disorders
+HGNC:28983	Neurology and neurodevelopmental disorders
+HGNC:26899	Neurology and neurodevelopmental disorders
+HGNC:20456	Neurology and neurodevelopmental disorders
+HGNC:24284	Neurology and neurodevelopmental disorders
+HGNC:30832	Neurology and neurodevelopmental disorders
+HGNC:16380	Neurology and neurodevelopmental disorders
+HGNC:12303	Neurology and neurodevelopmental disorders
+HGNC:12306	Neurology and neurodevelopmental disorders
+HGNC:20286	Neurology and neurodevelopmental disorders
+HGNC:25980	Neurology and neurodevelopmental disorders
+HGNC:28403	Neurology and neurodevelopmental disorders
+HGNC:12367	Neurology and neurodevelopmental disorders
+HGNC:12372	Neurology and neurodevelopmental disorders
+HGNC:11854	Neurology and neurodevelopmental disorders
+HGNC:23639	Neurology and neurodevelopmental disorders
+HGNC:20087	Neurology and neurodevelopmental disorders
+HGNC:26262	Neurology and neurodevelopmental disorders
+HGNC:20778	Neurology and neurodevelopmental disorders
+HGNC:18127	Neurology and neurodevelopmental disorders
+HGNC:30242	Neurology and neurodevelopmental disorders
+HGNC:12428	Neurology and neurodevelopmental disorders
+HGNC:13478	Neurology and neurodevelopmental disorders
+HGNC:16808	Neurology and neurodevelopmental disorders
+HGNC:12511	Neurology and neurodevelopmental disorders
+HGNC:12563	Neurology and neurodevelopmental disorders
+HGNC:20439	Neurology and neurodevelopmental disorders
+HGNC:26444	Neurology and neurodevelopmental disorders
+HGNC:12632	Neurology and neurodevelopmental disorders
+HGNC:12642	Neurology and neurodevelopmental disorders
+HGNC:2183	Neurology and neurodevelopmental disorders
+HGNC:25608	Neurology and neurodevelopmental disorders
+HGNC:17327	Neurology and neurodevelopmental disorders
+HGNC:28027	Neurology and neurodevelopmental disorders
+HGNC:21208	Neurology and neurodevelopmental disorders
+HGNC:12831	Neurology and neurodevelopmental disorders
+HGNC:13503	Neurology and neurodevelopmental disorders
+HGNC:21143	Neurology and neurodevelopmental disorders
+HGNC:18475	Neurology and neurodevelopmental disorders
+HGNC:16966	Neurology and neurodevelopmental disorders
+HGNC:13128	Neurology and neurodevelopmental disorders
+HGNC:29316	Neurology and neurodevelopmental disorders
+HGNC:124	Neurology and neurodevelopmental disorders
+HGNC:19918	Neurology and neurodevelopmental disorders
+HGNC:8800	Neurology and neurodevelopmental disorders
+HGNC:10947	Neurology and neurodevelopmental disorders
+HGNC:17761	Neurology and neurodevelopmental disorders
+HGNC:12616	Neurology and neurodevelopmental disorders
+HGNC:12827	Neurology and neurodevelopmental disorders
+HGNC:93	Metabolic disorders
+HGNC:321	Metabolic disorders
+HGNC:414	Metabolic disorders
+HGNC:417	Metabolic disorders
+HGNC:1122	Metabolic disorders
+HGNC:3606	Metabolic disorders
+HGNC:4056	Metabolic disorders
+HGNC:4180	Metabolic disorders
+HGNC:4707	Metabolic disorders
+HGNC:6535	Metabolic disorders
+HGNC:16732	Metabolic disorders
+HGNC:8527	Metabolic disorders
+HGNC:8926	Metabolic disorders
+HGNC:8927	Metabolic disorders
+HGNC:8931	Metabolic disorders
+HGNC:9725	Metabolic disorders
+HGNC:10922	Metabolic disorders
+HGNC:11006	Metabolic disorders
+HGNC:4061	Metabolic disorders
+HGNC:1480	Neurology and neurodevelopmental disorders
+HGNC:1529	Neurology and neurodevelopmental disorders
+HGNC:3331	Neurology and neurodevelopmental disorders
+HGNC:4065	Neurology and neurodevelopmental disorders
+HGNC:10805	Neurology and neurodevelopmental disorders
+HGNC:10806	Neurology and neurodevelopmental disorders
+HGNC:10807	Neurology and neurodevelopmental disorders
+HGNC:10809	Neurology and neurodevelopmental disorders
+HGNC:11610	Neurology and neurodevelopmental disorders
+HGNC:25751	Neurology and neurodevelopmental disorders
+HGNC:1390	Cardiovascular disorders
+HGNC:6240	Cardiovascular disorders
+HGNC:6242	Cardiovascular disorders
+HGNC:6251	Cardiovascular disorders
+HGNC:6263	Cardiovascular disorders
+HGNC:6294	Cardiovascular disorders
+HGNC:6217	Neurology and neurodevelopmental disorders
+HGNC:7728	Neurology and neurodevelopmental disorders
+HGNC:11119	Neurology and neurodevelopmental disorders
+HGNC:4890	Renal and urinary tract disorders
+HGNC:24668	Renal and urinary tract disorders
+HGNC:21022	Metabolic disorders
+HGNC:23	Metabolic disorders
+HGNC:48	Metabolic disorders
+HGNC:21497	Metabolic disorders
+HGNC:118	Metabolic disorders
+HGNC:315	Metabolic disorders
+HGNC:21869	Metabolic disorders
+HGNC:8768	Metabolic disorders
+HGNC:25519	Metabolic disorders
+HGNC:20492	Metabolic disorders
+HGNC:15984	Metabolic disorders
+HGNC:25567	Metabolic disorders
+HGNC:837	Metabolic disorders
+HGNC:18802	Metabolic disorders
+HGNC:1020	Metabolic disorders
+HGNC:24415	Metabolic disorders
+HGNC:26784	Metabolic disorders
+HGNC:33702	Metabolic disorders
+HGNC:1243	Metabolic disorders
+HGNC:25695	Metabolic disorders
+HGNC:15559	Metabolic disorders
+HGNC:30664	Metabolic disorders
+HGNC:2084	Metabolic disorders
+HGNC:18025	Metabolic disorders
+HGNC:25716	Metabolic disorders
+HGNC:25223	Metabolic disorders
+HGNC:19693	Metabolic disorders
+HGNC:20233	Metabolic disorders
+HGNC:2244	Metabolic disorders
+HGNC:16812	Metabolic disorders
+HGNC:19041	Metabolic disorders
+HGNC:25302	Metabolic disorders
+HGNC:2260	Metabolic disorders
+HGNC:28216	Metabolic disorders
+HGNC:2263	Metabolic disorders
+HGNC:26970	Metabolic disorders
+HGNC:2277	Metabolic disorders
+HGNC:2280	Metabolic disorders
+HGNC:2291	Metabolic disorders
+HGNC:2579	Metabolic disorders
+HGNC:25538	Metabolic disorders
+HGNC:2858	Metabolic disorders
+HGNC:2896	Metabolic disorders
+HGNC:2898	Metabolic disorders
+HGNC:2939	Metabolic disorders
+HGNC:30528	Metabolic disorders
+HGNC:2973	Metabolic disorders
+HGNC:2974	Metabolic disorders
+HGNC:29419	Metabolic disorders
+HGNC:3151	Metabolic disorders
+HGNC:14198	Metabolic disorders
+HGNC:23287	Metabolic disorders
+HGNC:21062	Metabolic disorders
+HGNC:29160	Metabolic disorders
+HGNC:13601	Metabolic disorders
+HGNC:30546	Metabolic disorders
+HGNC:3642	Metabolic disorders
+HGNC:3700	Metabolic disorders
+HGNC:24671	Metabolic disorders
+HGNC:26927	Metabolic disorders
+HGNC:3951	Metabolic disorders
+HGNC:4162	Metabolic disorders
+HGNC:15968	Metabolic disorders
+HGNC:4236	Metabolic disorders
+HGNC:13780	Metabolic disorders
+HGNC:29682	Metabolic disorders
+HGNC:20134	Metabolic disorders
+HGNC:14880	Metabolic disorders
+HGNC:4817	Metabolic disorders
+HGNC:4837	Metabolic disorders
+HGNC:4908	Metabolic disorders
+HGNC:4800	Metabolic disorders
+HGNC:5261	Metabolic disorders
+HGNC:14348	Metabolic disorders
+HGNC:29685	Metabolic disorders
+HGNC:27302	Metabolic disorders
+HGNC:18550	Metabolic disorders
+HGNC:28660	Metabolic disorders
+HGNC:19857	Metabolic disorders
+HGNC:29882	Metabolic disorders
+HGNC:6215	Metabolic disorders
+HGNC:17095	Metabolic disorders
+HGNC:16429	Metabolic disorders
+HGNC:29569	Metabolic disorders
+HGNC:37216	Metabolic disorders
+HGNC:9479	Metabolic disorders
+HGNC:15714	Metabolic disorders
+HGNC:28072	Metabolic disorders
+HGNC:25133	Metabolic disorders
+HGNC:6971	Metabolic disorders
+HGNC:19691	Metabolic disorders
+HGNC:24858	Metabolic disorders
+HGNC:16877	Metabolic disorders
+HGNC:16205	Metabolic disorders
+HGNC:1530	Metabolic disorders
+HGNC:7104	Metabolic disorders
+HGNC:21606	Metabolic disorders
+HGNC:7224	Metabolic disorders
+HGNC:10379	Metabolic disorders
+HGNC:16650	Metabolic disorders
+HGNC:14495	Metabolic disorders
+HGNC:14508	Metabolic disorders
+HGNC:16618	Metabolic disorders
+HGNC:29678	Metabolic disorders
+HGNC:7414	Metabolic disorders
+HGNC:7415	Metabolic disorders
+HGNC:7419	Metabolic disorders
+HGNC:7421	Metabolic disorders
+HGNC:7422	Metabolic disorders
+HGNC:7427	Metabolic disorders
+HGNC:7455	Metabolic disorders
+HGNC:7456	Metabolic disorders
+HGNC:7458	Metabolic disorders
+HGNC:7459	Metabolic disorders
+HGNC:7460	Metabolic disorders
+HGNC:7461	Metabolic disorders
+HGNC:7462	Metabolic disorders
+HGNC:7470	Metabolic disorders
+HGNC:7475	Metabolic disorders
+HGNC:7477	Metabolic disorders
+HGNC:7478	Metabolic disorders
+HGNC:7479	Metabolic disorders
+HGNC:7481	Metabolic disorders
+HGNC:7486	Metabolic disorders
+HGNC:7487	Metabolic disorders
+HGNC:7488	Metabolic disorders
+HGNC:7489	Metabolic disorders
+HGNC:7490	Metabolic disorders
+HGNC:7491	Metabolic disorders
+HGNC:7492	Metabolic disorders
+HGNC:7493	Metabolic disorders
+HGNC:7494	Metabolic disorders
+HGNC:7495	Metabolic disorders
+HGNC:7496	Metabolic disorders
+HGNC:7497	Metabolic disorders
+HGNC:7498	Metabolic disorders
+HGNC:7500	Metabolic disorders
+HGNC:7501	Metabolic disorders
+HGNC:7502	Metabolic disorders
+HGNC:29666	Metabolic disorders
+HGNC:19261	Metabolic disorders
+HGNC:25532	Metabolic disorders
+HGNC:26404	Metabolic disorders
+HGNC:26274	Metabolic disorders
+HGNC:18453	Metabolic disorders
+HGNC:7683	Metabolic disorders
+HGNC:7684	Metabolic disorders
+HGNC:20371	Metabolic disorders
+HGNC:7685	Metabolic disorders
+HGNC:7687	Metabolic disorders
+HGNC:7690	Metabolic disorders
+HGNC:7693	Metabolic disorders
+HGNC:18828	Metabolic disorders
+HGNC:28086	Metabolic disorders
+HGNC:29918	Metabolic disorders
+HGNC:21034	Metabolic disorders
+HGNC:15899	Metabolic disorders
+HGNC:28625	Metabolic disorders
+HGNC:33551	Metabolic disorders
+HGNC:20372	Metabolic disorders
+HGNC:7698	Metabolic disorders
+HGNC:7703	Metabolic disorders
+HGNC:7707	Metabolic disorders
+HGNC:7708	Metabolic disorders
+HGNC:7710	Metabolic disorders
+HGNC:7711	Metabolic disorders
+HGNC:7713	Metabolic disorders
+HGNC:7714	Metabolic disorders
+HGNC:7715	Metabolic disorders
+HGNC:7716	Metabolic disorders
+HGNC:7717	Metabolic disorders
+HGNC:16287	Metabolic disorders
+HGNC:20278	Metabolic disorders
+HGNC:8140	Metabolic disorders
+HGNC:8142	Metabolic disorders
+HGNC:30563	Metabolic disorders
+HGNC:8806	Metabolic disorders
+HGNC:8808	Metabolic disorders
+HGNC:21350	Metabolic disorders
+HGNC:9279	Metabolic disorders
+HGNC:17759	Metabolic disorders
+HGNC:23041	Metabolic disorders
+HGNC:40038	Metabolic disorders
+HGNC:18667	Metabolic disorders
+HGNC:9119	Metabolic disorders
+HGNC:28900	Metabolic disorders
+HGNC:23166	Metabolic disorders
+HGNC:9180	Metabolic disorders
+HGNC:28883	Metabolic disorders
+HGNC:15508	Metabolic disorders
+HGNC:21020	Metabolic disorders
+HGNC:21406	Metabolic disorders
+HGNC:21176	Metabolic disorders
+HGNC:18466	Metabolic disorders
+HGNC:13433	Metabolic disorders
+HGNC:17296	Metabolic disorders
+HGNC:18647	Metabolic disorders
+HGNC:10519	Metabolic disorders
+HGNC:17697	Metabolic disorders
+HGNC:10603	Metabolic disorders
+HGNC:10604	Metabolic disorders
+HGNC:10680	Metabolic disorders
+HGNC:33867	Metabolic disorders
+HGNC:10683	Metabolic disorders
+HGNC:16088	Metabolic disorders
+HGNC:10938	Metabolic disorders
+HGNC:16266	Metabolic disorders
+HGNC:10979	Metabolic disorders
+HGNC:10982	Metabolic disorders
+HGNC:14409	Metabolic disorders
+HGNC:20661	Metabolic disorders
+HGNC:10989	Metabolic disorders
+HGNC:29683	Metabolic disorders
+HGNC:26054	Metabolic disorders
+HGNC:10990	Metabolic disorders
+HGNC:28380	Metabolic disorders
+HGNC:25198	Metabolic disorders
+HGNC:11237	Metabolic disorders
+HGNC:11363	Metabolic disorders
+HGNC:11448	Metabolic disorders
+HGNC:11449	Metabolic disorders
+HGNC:11474	Metabolic disorders
+HGNC:24316	Metabolic disorders
+HGNC:25439	Metabolic disorders
+HGNC:11577	Metabolic disorders
+HGNC:23656	Metabolic disorders
+HGNC:11817	Metabolic disorders
+HGNC:11831	Metabolic disorders
+HGNC:30883	Metabolic disorders
+HGNC:11992	Metabolic disorders
+HGNC:17358	Metabolic disorders
+HGNC:20286	Metabolic disorders
+HGNC:26022	Metabolic disorders
+HGNC:23141	Metabolic disorders
+HGNC:25481	Metabolic disorders
+HGNC:17341	Metabolic disorders
+HGNC:12367	Metabolic disorders
+HGNC:26006	Metabolic disorders
+HGNC:12420	Metabolic disorders
+HGNC:1160	Metabolic disorders
+HGNC:3148	Metabolic disorders
+HGNC:21237	Metabolic disorders
+HGNC:12582	Metabolic disorders
+HGNC:21642	Metabolic disorders
+HGNC:12730	Metabolic disorders
+HGNC:24249	Metabolic disorders
+HGNC:2933	Metabolic disorders
+	Metabolic disorders
+HGNC:714	Metabolic disorders
+HGNC:4122	Metabolic disorders
+HGNC:4177	Metabolic disorders
+HGNC:4296	Metabolic disorders
+HGNC:4298	Metabolic disorders
+HGNC:29670	Metabolic disorders
+HGNC:23026	Metabolic disorders
+HGNC:4422	Metabolic disorders
+HGNC:4696	Metabolic disorders
+HGNC:26527	Metabolic disorders
+HGNC:5389	Metabolic disorders
+HGNC:5391	Metabolic disorders
+HGNC:13356	Metabolic disorders
+HGNC:7632	Metabolic disorders
+HGNC:7758	Metabolic disorders
+HGNC:9498	Metabolic disorders
+HGNC:10818	Metabolic disorders
+HGNC:2218	Skeletal disorders
+HGNC:2219	Skeletal disorders
+HGNC:2227	Skeletal disorders
+HGNC:6909	Skeletal disorders
+HGNC:10994	Skeletal disorders
+HGNC:42	Gastroenterological disorders
+HGNC:45	Gastroenterological disorders
+HGNC:53	Gastroenterological disorders
+HGNC:257	Gastroenterological disorders
+HGNC:388	Gastroenterological disorders
+HGNC:417	Gastroenterological disorders
+HGNC:870	Gastroenterological disorders
+HGNC:3706	Gastroenterological disorders
+HGNC:932	Gastroenterological disorders
+HGNC:29253	Gastroenterological disorders
+HGNC:1884	Gastroenterological disorders
+HGNC:2032	Gastroenterological disorders
+HGNC:18622	Gastroenterological disorders
+HGNC:2605	Gastroenterological disorders
+HGNC:18141	Gastroenterological disorders
+HGNC:2858	Gastroenterological disorders
+HGNC:3579	Gastroenterological disorders
+HGNC:4135	Gastroenterological disorders
+HGNC:4177	Gastroenterological disorders
+HGNC:4180	Gastroenterological disorders
+HGNC:4801	Gastroenterological disorders
+HGNC:11630	Gastroenterological disorders
+HGNC:18324	Gastroenterological disorders
+HGNC:17870	Gastroenterological disorders
+HGNC:6188	Gastroenterological disorders
+HGNC:6617	Gastroenterological disorders
+HGNC:7216	Gastroenterological disorders
+HGNC:7224	Gastroenterological disorders
+HGNC:7882	Gastroenterological disorders
+HGNC:7897	Gastroenterological disorders
+HGNC:14537	Gastroenterological disorders
+HGNC:7967	Gastroenterological disorders
+HGNC:8850	Gastroenterological disorders
+HGNC:8851	Gastroenterological disorders
+HGNC:8854	Gastroenterological disorders
+HGNC:8855	Gastroenterological disorders
+HGNC:8856	Gastroenterological disorders
+HGNC:8857	Gastroenterological disorders
+HGNC:9713	Gastroenterological disorders
+HGNC:9717	Gastroenterological disorders
+HGNC:22965	Gastroenterological disorders
+HGNC:8858	Gastroenterological disorders
+HGNC:8859	Gastroenterological disorders
+HGNC:10983	Gastroenterological disorders
+HGNC:11120	Gastroenterological disorders
+HGNC:11559	Gastroenterological disorders
+HGNC:11828	Gastroenterological disorders
+HGNC:25481	Gastroenterological disorders
+HGNC:12530	Gastroenterological disorders
+HGNC:20347	Gastroenterological disorders
+HGNC:12712	Gastroenterological disorders
+	Gastroenterological disorders
+HGNC:341	Renal and urinary tract disorders
+HGNC:626	Renal and urinary tract disorders
+HGNC:866	Renal and urinary tract disorders
+HGNC:853	Renal and urinary tract disorders
+HGNC:16512	Renal and urinary tract disorders
+HGNC:1373	Renal and urinary tract disorders
+HGNC:1514	Renal and urinary tract disorders
+HGNC:2023	Renal and urinary tract disorders
+HGNC:2027	Renal and urinary tract disorders
+HGNC:2037	Renal and urinary tract disorders
+HGNC:2040	Renal and urinary tract disorders
+HGNC:2602	Renal and urinary tract disorders
+HGNC:4570	Renal and urinary tract disorders
+HGNC:25155	Renal and urinary tract disorders
+HGNC:6255	Renal and urinary tract disorders
+HGNC:8108	Renal and urinary tract disorders
+HGNC:10910	Renal and urinary tract disorders
+HGNC:11019	Renal and urinary tract disorders
+HGNC:20305	Renal and urinary tract disorders
+HGNC:11025	Renal and urinary tract disorders
+HGNC:11027	Renal and urinary tract disorders
+HGNC:11067	Renal and urinary tract disorders
+HGNC:11075	Renal and urinary tract disorders
+HGNC:30172	Renal and urinary tract disorders
+HGNC:17995	Renal and urinary tract disorders
+HGNC:12805	Renal and urinary tract disorders
+HGNC:1097	Tumour syndromes
+HGNC:4392	Tumour syndromes
+HGNC:6343	Tumour syndromes
+HGNC:9829	Tumour syndromes
+HGNC:20249	Tumour syndromes
+HGNC:2689	Neurology and neurodevelopmental disorders
+HGNC:10935	Neurology and neurodevelopmental disorders
+HGNC:1884	Ciliopathies
+HGNC:8977	Ciliopathies
+HGNC:10599	Ciliopathies
+HGNC:10600	Ciliopathies
+HGNC:10602	Ciliopathies
+HGNC:1805	Gastroenterological disorders
+HGNC:28434	Gastroenterological disorders
+HGNC:3583	Gastroenterological disorders
+HGNC:3809	Gastroenterological disorders
+HGNC:4319	Gastroenterological disorders
+HGNC:11957	Gastroenterological disorders
+HGNC:7095	Gastroenterological disorders
+HGNC:4979	Gastroenterological disorders
+HGNC:9949	Gastroenterological disorders
+HGNC:10524	Gastroenterological disorders
+HGNC:12874	Gastroenterological disorders
+HGNC:15718	Dermatological disorders
+HGNC:1802	Dermatological disorders
+HGNC:21307	Dermatological disorders
+HGNC:5172	Dermatological disorders
+HGNC:28929	Dermatological disorders
+HGNC:18483	Dermatological disorders
+HGNC:15520	Dermatological disorders
+HGNC:132	Ophthalmological disorders
+HGNC:144	Ophthalmological disorders
+HGNC:29521	Ophthalmological disorders
+HGNC:29253	Ophthalmological disorders
+HGNC:20626	Ophthalmological disorders
+HGNC:2040	Ophthalmological disorders
+HGNC:6694	Ophthalmological disorders
+HGNC:17652	Ophthalmological disorders
+HGNC:17042	Ophthalmological disorders
+HGNC:29168	Ophthalmological disorders
+HGNC:15924	Ophthalmological disorders
+HGNC:16262	Ophthalmological disorders
+	Ophthalmological disorders
+HGNC:118	Ophthalmological disorders
+HGNC:26784	Ophthalmological disorders
+HGNC:25443	Ophthalmological disorders
+HGNC:24212	Ophthalmological disorders
+HGNC:2973	Ophthalmological disorders
+HGNC:24858	Ophthalmological disorders
+HGNC:16877	Ophthalmological disorders
+HGNC:7414	Ophthalmological disorders
+HGNC:7455	Ophthalmological disorders
+HGNC:7459	Ophthalmological disorders
+HGNC:7462	Ophthalmological disorders
+HGNC:7975	Ophthalmological disorders
+HGNC:8140	Ophthalmological disorders
+HGNC:18647	Ophthalmological disorders
+HGNC:25198	Ophthalmological disorders
+HGNC:30224	Ophthalmological disorders
+HGNC:11237	Ophthalmological disorders
+HGNC:11317	Ophthalmological disorders
+HGNC:25382	Ophthalmological disorders
+HGNC:12762	Ophthalmological disorders
+HGNC:17978	Skeletal disorders
+HGNC:930	Skeletal disorders
+HGNC:1067	Skeletal disorders
+HGNC:1514	Skeletal disorders
+HGNC:2197	Skeletal disorders
+HGNC:2198	Skeletal disorders
+HGNC:18856	Skeletal disorders
+HGNC:2379	Skeletal disorders
+HGNC:3054	Skeletal disorders
+HGNC:18345	Skeletal disorders
+HGNC:18169	Skeletal disorders
+HGNC:25676	Skeletal disorders
+HGNC:16644	Skeletal disorders
+HGNC:6697	Skeletal disorders
+HGNC:15625	Skeletal disorders
+HGNC:7882	Skeletal disorders
+HGNC:19316	Skeletal disorders
+HGNC:9082	Skeletal disorders
+HGNC:9091	Skeletal disorders
+HGNC:9255	Skeletal disorders
+HGNC:10706	Skeletal disorders
+HGNC:8824	Skeletal disorders
+HGNC:1546	Skeletal disorders
+HGNC:17321	Skeletal disorders
+HGNC:11219	Skeletal disorders
+HGNC:26887	Skeletal disorders
+HGNC:25535	Skeletal disorders
+HGNC:14006	Skeletal disorders
+HGNC:12774	Skeletal disorders
+HGNC:12310	Neurology and neurodevelopmental disorders
+HGNC:10582	Neurology and neurodevelopmental disorders
+HGNC:497	Neurology and neurodevelopmental disorders
+HGNC:25662	Dermatological disorders
+HGNC:638	Dermatological disorders
+HGNC:1515	Dermatological disorders
+HGNC:3036	Dermatological disorders
+HGNC:3048	Dermatological disorders
+HGNC:3356	Dermatological disorders
+HGNC:4274	Dermatological disorders
+HGNC:4284	Dermatological disorders
+HGNC:4285	Dermatological disorders
+HGNC:4286	Dermatological disorders
+HGNC:4021	Dermatological disorders
+HGNC:6412	Dermatological disorders
+HGNC:6413	Dermatological disorders
+HGNC:6423	Dermatological disorders
+HGNC:6427	Dermatological disorders
+HGNC:6443	Dermatological disorders
+HGNC:6444	Dermatological disorders
+HGNC:20406	Dermatological disorders
+HGNC:6447	Dermatological disorders
+HGNC:20788	Dermatological disorders
+HGNC:21679	Dermatological disorders
+HGNC:13902	Dermatological disorders
+HGNC:18746	Dermatological disorders
+HGNC:11133	Dermatological disorders
+HGNC:11573	Dermatological disorders
+HGNC:18084	Dermatological disorders
+HGNC:15469	Neurology and neurodevelopmental disorders
+HGNC:18618	Neurology and neurodevelopmental disorders
+HGNC:16369	Neurology and neurodevelopmental disorders
+HGNC:11138	Neurology and neurodevelopmental disorders
+HGNC:13487	Neurology and neurodevelopmental disorders
+HGNC:2481	Dermatological disorders
+HGNC:8952	Dermatological disorders
+HGNC:600	Rheumatological disorders
+HGNC:601	Rheumatological disorders
+HGNC:3309	Rheumatological disorders
+HGNC:3661	Rheumatological disorders
+HGNC:4620	Rheumatological disorders
+HGNC:6000	Rheumatological disorders
+HGNC:15561	Rheumatological disorders
+HGNC:14450	Rheumatological disorders
+HGNC:6740	Rheumatological disorders
+HGNC:6998	Rheumatological disorders
+HGNC:7530	Rheumatological disorders
+HGNC:22938	Rheumatological disorders
+HGNC:16400	Rheumatological disorders
+HGNC:5331	Rheumatological disorders
+HGNC:8507	Rheumatological disorders
+HGNC:25118	Rheumatological disorders
+HGNC:9545	Rheumatological disorders
+HGNC:9580	Rheumatological disorders
+HGNC:11916	Rheumatological disorders
+HGNC:12405	Rheumatological disorders
+HGNC:61	Metabolic disorders
+HGNC:119	Metabolic disorders
+HGNC:327	Metabolic disorders
+HGNC:341	Metabolic disorders
+HGNC:451	Metabolic disorders
+HGNC:719	Metabolic disorders
+HGNC:1516	Metabolic disorders
+HGNC:21317	Metabolic disorders
+HGNC:3133	Metabolic disorders
+HGNC:26222	Metabolic disorders
+HGNC:4416	Metabolic disorders
+HGNC:4570	Metabolic disorders
+HGNC:25155	Metabolic disorders
+HGNC:5213	Metabolic disorders
+HGNC:13398	Metabolic disorders
+HGNC:8850	Metabolic disorders
+HGNC:8851	Metabolic disorders
+HGNC:8853	Metabolic disorders
+HGNC:8854	Metabolic disorders
+HGNC:8855	Metabolic disorders
+HGNC:8856	Metabolic disorders
+HGNC:8857	Metabolic disorders
+HGNC:9713	Metabolic disorders
+HGNC:9717	Metabolic disorders
+HGNC:22965	Metabolic disorders
+HGNC:8858	Metabolic disorders
+HGNC:9719	Metabolic disorders
+HGNC:8859	Metabolic disorders
+HGNC:8860	Metabolic disorders
+HGNC:8940	Metabolic disorders
+HGNC:10606	Metabolic disorders
+HGNC:7523	Metabolic disorders
+HGNC:2201	Respiratory disorders
+HGNC:3603	Respiratory disorders
+HGNC:27310	Respiratory disorders
+HGNC:8941	Respiratory disorders
+HGNC:11768	Respiratory disorders
+HGNC:11769	Respiratory disorders
+HGNC:11772	Respiratory disorders
+HGNC:11773	Respiratory disorders
+HGNC:12362	Respiratory disorders
+HGNC:12363	Respiratory disorders
+HGNC:25583	Ciliopathies
+HGNC:1301	Ciliopathies
+HGNC:32700	Ciliopathies
+HGNC:26560	Ciliopathies
+HGNC:28303	Ciliopathies
+HGNC:25244	Ciliopathies
+HGNC:26090	Ciliopathies
+HGNC:29937	Ciliopathies
+HGNC:18576	Ciliopathies
+HGNC:30539	Ciliopathies
+HGNC:20188	Ciliopathies
+HGNC:30492	Ciliopathies
+HGNC:21493	Ciliopathies
+HGNC:26013	Ciliopathies
+HGNC:2942	Ciliopathies
+HGNC:2950	Ciliopathies
+HGNC:2954	Ciliopathies
+HGNC:18744	Ciliopathies
+HGNC:23247	Ciliopathies
+HGNC:24245	Ciliopathies
+HGNC:4166	Ciliopathies
+HGNC:19368	Ciliopathies
+HGNC:16725	Ciliopathies
+HGNC:40050	Ciliopathies
+HGNC:28570	Ciliopathies
+HGNC:10295	Ciliopathies
+HGNC:12371	Ciliopathies
+HGNC:21054	Ciliopathies
+HGNC:21558	Ciliopathies
+HGNC:21057	Ciliopathies
+HGNC:11212	Ciliopathies
+HGNC:19412	Ciliopathies
+HGNC:1097	Cardiovascular disorders
+HGNC:1541	Cardiovascular disorders
+HGNC:29426	Cardiovascular disorders
+HGNC:3395	Cardiovascular disorders
+HGNC:23109	Cardiovascular disorders
+HGNC:3767	Cardiovascular disorders
+HGNC:3801	Cardiovascular disorders
+HGNC:4171	Cardiovascular disorders
+HGNC:4274	Cardiovascular disorders
+HGNC:17494	Cardiovascular disorders
+HGNC:5173	Cardiovascular disorders
+HGNC:5961	Cardiovascular disorders
+HGNC:6388	Cardiovascular disorders
+HGNC:6407	Cardiovascular disorders
+HGNC:6840	Cardiovascular disorders
+HGNC:6842	Cardiovascular disorders
+HGNC:7765	Cardiovascular disorders
+HGNC:7989	Cardiovascular disorders
+HGNC:28993	Cardiovascular disorders
+HGNC:9282	Cardiovascular disorders
+HGNC:9644	Cardiovascular disorders
+HGNC:9647	Cardiovascular disorders
+HGNC:9829	Cardiovascular disorders
+HGNC:10023	Cardiovascular disorders
+HGNC:15454	Cardiovascular disorders
+HGNC:11187	Cardiovascular disorders
+HGNC:11188	Cardiovascular disorders
+HGNC:11194	Cardiovascular disorders
+HGNC:20249	Cardiovascular disorders
+HGNC:12682	Cardiovascular disorders
+HGNC:21022	Endocrine disorders
+HGNC:1068	Endocrine disorders
+HGNC:2084	Endocrine disorders
+HGNC:3261	Endocrine disorders
+HGNC:1092	Endocrine disorders
+HGNC:3964	Endocrine disorders
+HGNC:3969	Endocrine disorders
+HGNC:4135	Endocrine disorders
+HGNC:20193	Endocrine disorders
+HGNC:5213	Endocrine disorders
+HGNC:17095	Endocrine disorders
+HGNC:16147	Endocrine disorders
+HGNC:21484	Endocrine disorders
+HGNC:22448	Endocrine disorders
+HGNC:9179	Endocrine disorders
+HGNC:27845	Endocrine disorders
+HGNC:11356	Endocrine disorders
+HGNC:1160	Endocrine disorders
+HGNC:166	Renal and urinary tract disorders
+HGNC:678	Renal and urinary tract disorders
+HGNC:25223	Renal and urinary tract disorders
+HGNC:20233	Renal and urinary tract disorders
+HGNC:19041	Renal and urinary tract disorders
+HGNC:18688	Renal and urinary tract disorders
+HGNC:2548	Renal and urinary tract disorders
+HGNC:2897	Renal and urinary tract disorders
+HGNC:3334	Renal and urinary tract disorders
+HGNC:3595	Renal and urinary tract disorders
+HGNC:23791	Renal and urinary tract disorders
+HGNC:6139	Renal and urinary tract disorders
+HGNC:6183	Renal and urinary tract disorders
+HGNC:26058	Renal and urinary tract disorders
+HGNC:6487	Renal and urinary tract disorders
+HGNC:6654	Renal and urinary tract disorders
+HGNC:18957	Renal and urinary tract disorders
+HGNC:7599	Renal and urinary tract disorders
+HGNC:7908	Renal and urinary tract disorders
+HGNC:13394	Renal and urinary tract disorders
+HGNC:29914	Renal and urinary tract disorders
+HGNC:18016	Renal and urinary tract disorders
+HGNC:8734	Renal and urinary tract disorders
+HGNC:28958	Renal and urinary tract disorders
+HGNC:18028	Renal and urinary tract disorders
+HGNC:23041	Renal and urinary tract disorders
+HGNC:17175	Renal and urinary tract disorders
+HGNC:9171	Renal and urinary tract disorders
+HGNC:1665	Renal and urinary tract disorders
+HGNC:10817	Renal and urinary tract disorders
+HGNC:11102	Renal and urinary tract disorders
+HGNC:24715	Renal and urinary tract disorders
+HGNC:19737	Renal and urinary tract disorders
+HGNC:16197	Renal and urinary tract disorders
+HGNC:12338	Renal and urinary tract disorders
+HGNC:25928	Renal and urinary tract disorders
+HGNC:12796	Renal and urinary tract disorders
+HGNC:175	Cardiovascular disorders
+HGNC:24113	Cardiovascular disorders
+HGNC:1078	Cardiovascular disorders
+HGNC:19687	Cardiovascular disorders
+HGNC:3349	Cardiovascular disorders
+HGNC:4217	Cardiovascular disorders
+HGNC:6278	Cardiovascular disorders
+HGNC:6774	Cardiovascular disorders
+HGNC:18122	Cardiovascular disorders
+HGNC:11603	Cardiovascular disorders
+HGNC:1101	Dysmorphic and congenital abnormality syndromes
+HGNC:20473	Dysmorphic and congenital abnormality syndromes
+HGNC:3436	Dysmorphic and congenital abnormality syndromes
+HGNC:3582	Dysmorphic and congenital abnormality syndromes
+HGNC:3583	Dysmorphic and congenital abnormality syndromes
+HGNC:3584	Dysmorphic and congenital abnormality syndromes
+HGNC:3585	Dysmorphic and congenital abnormality syndromes
+HGNC:3586	Dysmorphic and congenital abnormality syndromes
+HGNC:3587	Dysmorphic and congenital abnormality syndromes
+HGNC:3588	Dysmorphic and congenital abnormality syndromes
+HGNC:25568	Dysmorphic and congenital abnormality syndromes
+HGNC:20748	Dysmorphic and congenital abnormality syndromes
+HGNC:3666	Dysmorphic and congenital abnormality syndromes
+HGNC:3690	Dysmorphic and congenital abnormality syndromes
+HGNC:16873	Dysmorphic and congenital abnormality syndromes
+HGNC:5102	Dysmorphic and congenital abnormality syndromes
+HGNC:6250	Dysmorphic and congenital abnormality syndromes
+HGNC:13243	Dysmorphic and congenital abnormality syndromes
+HGNC:26144	Dysmorphic and congenital abnormality syndromes
+HGNC:9905	Dysmorphic and congenital abnormality syndromes
+HGNC:9949	Dysmorphic and congenital abnormality syndromes
+HGNC:10301	Dysmorphic and congenital abnormality syndromes
+HGNC:10345	Dysmorphic and congenital abnormality syndromes
+HGNC:10383	Dysmorphic and congenital abnormality syndromes
+HGNC:10397	Dysmorphic and congenital abnormality syndromes
+HGNC:10402	Dysmorphic and congenital abnormality syndromes
+HGNC:10411	Dysmorphic and congenital abnormality syndromes
+HGNC:10440	Dysmorphic and congenital abnormality syndromes
+HGNC:10524	Dysmorphic and congenital abnormality syndromes
+HGNC:10853	Dysmorphic and congenital abnormality syndromes
+HGNC:23845	Dysmorphic and congenital abnormality syndromes
+HGNC:11602	Dysmorphic and congenital abnormality syndromes
+HGNC:11604	Dysmorphic and congenital abnormality syndromes
+HGNC:25009	Dysmorphic and congenital abnormality syndromes
+HGNC:12786	Dysmorphic and congenital abnormality syndromes
+HGNC:21575	Ciliopathies
+HGNC:428	Ciliopathies
+HGNC:26724	Ciliopathies
+HGNC:25419	Ciliopathies
+HGNC:13210	Ciliopathies
+HGNC:20730	Ciliopathies
+HGNC:28636	Ciliopathies
+HGNC:966	Ciliopathies
+HGNC:26291	Ciliopathies
+HGNC:26648	Ciliopathies
+HGNC:967	Ciliopathies
+HGNC:969	Ciliopathies
+HGNC:970	Ciliopathies
+HGNC:18758	Ciliopathies
+HGNC:30000	Ciliopathies
+HGNC:1260	Ciliopathies
+HGNC:24564	Ciliopathies
+HGNC:25801	Ciliopathies
+HGNC:29253	Ciliopathies
+HGNC:1857	Ciliopathies
+HGNC:24866	Ciliopathies
+HGNC:26690	Ciliopathies
+HGNC:29182	Ciliopathies
+HGNC:29021	Ciliopathies
+HGNC:12370	Ciliopathies
+HGNC:17966	Ciliopathies
+HGNC:18688	Ciliopathies
+HGNC:26193	Ciliopathies
+HGNC:25360	Ciliopathies
+HGNC:2860	Ciliopathies
+HGNC:2962	Ciliopathies
+HGNC:24595	Ciliopathies
+HGNC:3497	Ciliopathies
+HGNC:19747	Ciliopathies
+HGNC:4319	Ciliopathies
+HGNC:11630	Ciliopathies
+HGNC:26558	Ciliopathies
+HGNC:21219	Ciliopathies
+HGNC:13556	Ciliopathies
+HGNC:29077	Ciliopathies
+HGNC:30391	Ciliopathies
+HGNC:29669	Ciliopathies
+HGNC:15901	Ciliopathies
+HGNC:29262	Ciliopathies
+HGNC:21474	Ciliopathies
+HGNC:17870	Ciliopathies
+HGNC:28949	Ciliopathies
+HGNC:19960	Ciliopathies
+HGNC:29110	Ciliopathies
+HGNC:30497	Ciliopathies
+HGNC:6741	Ciliopathies
+HGNC:29536	Ciliopathies
+HGNC:7108	Ciliopathies
+HGNC:7121	Ciliopathies
+HGNC:7744	Ciliopathies
+HGNC:13387	Ciliopathies
+HGNC:7905	Ciliopathies
+HGNC:7907	Ciliopathies
+HGNC:19104	Ciliopathies
+HGNC:2567	Ciliopathies
+HGNC:9008	Ciliopathies
+HGNC:9009	Ciliopathies
+HGNC:9016	Ciliopathies
+HGNC:9115	Ciliopathies
+HGNC:29168	Ciliopathies
+HGNC:19440	Ciliopathies
+HGNC:26406	Ciliopathies
+HGNC:10671	Ciliopathies
+HGNC:28482	Ciliopathies
+HGNC:26113	Ciliopathies
+HGNC:25774	Ciliopathies
+HGNC:24519	Ciliopathies
+HGNC:28128	Ciliopathies
+HGNC:26944	Ciliopathies
+HGNC:25018	Ciliopathies
+HGNC:37234	Ciliopathies
+HGNC:14432	Ciliopathies
+HGNC:28396	Ciliopathies
+HGNC:17861	Ciliopathies
+HGNC:25660	Ciliopathies
+HGNC:20087	Ciliopathies
+HGNC:20652	Ciliopathies
+HGNC:2183	Ciliopathies
+HGNC:28027	Ciliopathies
+HGNC:18340	Ciliopathies
+HGNC:28296	Ciliopathies
+HGNC:29250	Ciliopathies
+HGNC:21862	Ciliopathies
+HGNC:29316	Ciliopathies
+	Ciliopathies
+HGNC:7765	Dysmorphic and congenital abnormality syndromes
+HGNC:9282	Dysmorphic and congenital abnormality syndromes
+HGNC:20249	Dysmorphic and congenital abnormality syndromes
+HGNC:634	Renal and urinary tract disorders
+HGNC:897	Renal and urinary tract disorders
+HGNC:2518	Renal and urinary tract disorders
+HGNC:3579	Renal and urinary tract disorders
+HGNC:10912	Renal and urinary tract disorders
+HGNC:11030	Renal and urinary tract disorders
+HGNC:34	Ophthalmological disorders
+HGNC:15868	Ophthalmological disorders
+HGNC:216	Ophthalmological disorders
+HGNC:17416	Ophthalmological disorders
+HGNC:26147	Ophthalmological disorders
+HGNC:21575	Ophthalmological disorders
+HGNC:359	Ophthalmological disorders
+HGNC:428	Ophthalmological disorders
+HGNC:17090	Ophthalmological disorders
+HGNC:17146	Ophthalmological disorders
+HGNC:13210	Ophthalmological disorders
+HGNC:791	Ophthalmological disorders
+HGNC:13907	Ophthalmological disorders
+HGNC:966	Ophthalmological disorders
+HGNC:26291	Ophthalmological disorders
+HGNC:26648	Ophthalmological disorders
+HGNC:967	Ophthalmological disorders
+HGNC:969	Ophthalmological disorders
+HGNC:970	Ophthalmological disorders
+HGNC:18758	Ophthalmological disorders
+HGNC:30000	Ophthalmological disorders
+HGNC:12703	Ophthalmological disorders
+HGNC:14344	Ophthalmological disorders
+HGNC:1260	Ophthalmological disorders
+HGNC:34383	Ophthalmological disorders
+HGNC:27232	Ophthalmological disorders
+HGNC:1375	Ophthalmological disorders
+HGNC:1386	Ophthalmological disorders
+HGNC:1393	Ophthalmological disorders
+HGNC:20202	Ophthalmological disorders
+HGNC:1482	Ophthalmological disorders
+HGNC:13733	Ophthalmological disorders
+HGNC:1762	Ophthalmological disorders
+HGNC:14550	Ophthalmological disorders
+HGNC:29182	Ophthalmological disorders
+HGNC:29021	Ophthalmological disorders
+HGNC:25740	Ophthalmological disorders
+HGNC:21699	Ophthalmological disorders
+HGNC:4883	Ophthalmological disorders
+HGNC:1940	Ophthalmological disorders
+HGNC:24579	Ophthalmological disorders
+HGNC:2074	Ophthalmological disorders
+HGNC:12605	Ophthalmological disorders
+HGNC:2148	Ophthalmological disorders
+HGNC:2150	Ophthalmological disorders
+HGNC:2151	Ophthalmological disorders
+HGNC:2153	Ophthalmological disorders
+HGNC:105	Ophthalmological disorders
+HGNC:2343	Ophthalmological disorders
+HGNC:2383	Ophthalmological disorders
+HGNC:26193	Ophthalmological disorders
+HGNC:2514	Ophthalmological disorders
+HGNC:10664	Ophthalmological disorders
+HGNC:23198	Ophthalmological disorders
+HGNC:20603	Ophthalmological disorders
+HGNC:3218	Ophthalmological disorders
+HGNC:14415	Ophthalmological disorders
+HGNC:21555	Ophthalmological disorders
+HGNC:25808	Ophthalmological disorders
+HGNC:24682	Ophthalmological disorders
+HGNC:4042	Ophthalmological disorders
+HGNC:4393	Ophthalmological disorders
+HGNC:4394	Ophthalmological disorders
+HGNC:23026	Ophthalmological disorders
+HGNC:31371	Ophthalmological disorders
+HGNC:10013	Ophthalmological disorders
+HGNC:4598	Ophthalmological disorders
+HGNC:4678	Ophthalmological disorders
+HGNC:4679	Ophthalmological disorders
+HGNC:4689	Ophthalmological disorders
+HGNC:4816	Ophthalmological disorders
+HGNC:26527	Ophthalmological disorders
+HGNC:5385	Ophthalmological disorders
+HGNC:29077	Ophthalmological disorders
+HGNC:6052	Ophthalmological disorders
+HGNC:6055	Ophthalmological disorders
+HGNC:18362	Ophthalmological disorders
+HGNC:21474	Ophthalmological disorders
+HGNC:28949	Ophthalmological disorders
+HGNC:6259	Ophthalmological disorders
+HGNC:19698	Ophthalmological disorders
+HGNC:22219	Ophthalmological disorders
+HGNC:6388	Ophthalmological disorders
+HGNC:15646	Ophthalmological disorders
+HGNC:31923	Ophthalmological disorders
+HGNC:6685	Ophthalmological disorders
+HGNC:24783	Ophthalmological disorders
+HGNC:6697	Ophthalmological disorders
+HGNC:6741	Ophthalmological disorders
+HGNC:6816	Ophthalmological disorders
+HGNC:7027	Ophthalmological disorders
+HGNC:28486	Ophthalmological disorders
+HGNC:7108	Ophthalmological disorders
+HGNC:7121	Ophthalmological disorders
+HGNC:7606	Ophthalmological disorders
+HGNC:17877	Ophthalmological disorders
+HGNC:7905	Ophthalmological disorders
+HGNC:7907	Ophthalmological disorders
+HGNC:19104	Ophthalmological disorders
+HGNC:7974	Ophthalmological disorders
+HGNC:8002	Ophthalmological disorders
+HGNC:8082	Ophthalmological disorders
+HGNC:8091	Ophthalmological disorders
+HGNC:2567	Ophthalmological disorders
+HGNC:15894	Ophthalmological disorders
+HGNC:14674	Ophthalmological disorders
+HGNC:8754	Ophthalmological disorders
+HGNC:8785	Ophthalmological disorders
+HGNC:8786	Ophthalmological disorders
+HGNC:8787	Ophthalmological disorders
+HGNC:8789	Ophthalmological disorders
+HGNC:8940	Ophthalmological disorders
+HGNC:9038	Ophthalmological disorders
+HGNC:30836	Ophthalmological disorders
+HGNC:32528	Ophthalmological disorders
+HGNC:9454	Ophthalmological disorders
+HGNC:17348	Ophthalmological disorders
+HGNC:15446	Ophthalmological disorders
+HGNC:17349	Ophthalmological disorders
+HGNC:15860	Ophthalmological disorders
+HGNC:17340	Ophthalmological disorders
+HGNC:9942	Ophthalmological disorders
+HGNC:9462	Ophthalmological disorders
+HGNC:9768	Ophthalmological disorders
+HGNC:18286	Ophthalmological disorders
+HGNC:9921	Ophthalmological disorders
+HGNC:9922	Ophthalmological disorders
+HGNC:18243	Ophthalmological disorders
+HGNC:19689	Ophthalmological disorders
+HGNC:19977	Ophthalmological disorders
+HGNC:9940	Ophthalmological disorders
+HGNC:9990	Ophthalmological disorders
+HGNC:10004	Ophthalmological disorders
+HGNC:10012	Ophthalmological disorders
+HGNC:10024	Ophthalmological disorders
+HGNC:10263	Ophthalmological disorders
+HGNC:15946	Ophthalmological disorders
+HGNC:10274	Ophthalmological disorders
+HGNC:10288	Ophthalmological disorders
+HGNC:10294	Ophthalmological disorders
+HGNC:10295	Ophthalmological disorders
+HGNC:13436	Ophthalmological disorders
+HGNC:10457	Ophthalmological disorders
+HGNC:10521	Ophthalmological disorders
+HGNC:13081	Ophthalmological disorders
+HGNC:10671	Ophthalmological disorders
+HGNC:10729	Ophthalmological disorders
+HGNC:10975	Ophthalmological disorders
+HGNC:32434	Ophthalmological disorders
+HGNC:30859	Ophthalmological disorders
+HGNC:20423	Ophthalmological disorders
+HGNC:11822	Ophthalmological disorders
+HGNC:14432	Ophthalmological disorders
+HGNC:21653	Ophthalmological disorders
+HGNC:16380	Ophthalmological disorders
+HGNC:7146	Ophthalmological disorders
+HGNC:21641	Ophthalmological disorders
+HGNC:20087	Ophthalmological disorders
+HGNC:19963	Ophthalmological disorders
+HGNC:12406	Ophthalmological disorders
+HGNC:12423	Ophthalmological disorders
+HGNC:12597	Ophthalmological disorders
+HGNC:16356	Ophthalmological disorders
+HGNC:12601	Ophthalmological disorders
+HGNC:2464	Ophthalmological disorders
+HGNC:2183	Ophthalmological disorders
+HGNC:28027	Ophthalmological disorders
+HGNC:18340	Ophthalmological disorders
+HGNC:16361	Ophthalmological disorders
+HGNC:20041	Ophthalmological disorders
+HGNC:16762	Ophthalmological disorders
+HGNC:92	Neurology and neurodevelopmental disorders
+HGNC:321	Neurology and neurodevelopmental disorders
+HGNC:414	Neurology and neurodevelopmental disorders
+HGNC:2330	Neurology and neurodevelopmental disorders
+HGNC:3354	Neurology and neurodevelopmental disorders
+HGNC:4699	Neurology and neurodevelopmental disorders
+HGNC:4706	Neurology and neurodevelopmental disorders
+HGNC:4803	Neurology and neurodevelopmental disorders
+HGNC:29882	Neurology and neurodevelopmental disorders
+HGNC:6535	Neurology and neurodevelopmental disorders
+HGNC:13345	Neurology and neurodevelopmental disorders
+HGNC:8889	Neurology and neurodevelopmental disorders
+HGNC:8905	Neurology and neurodevelopmental disorders
+HGNC:8925	Neurology and neurodevelopmental disorders
+HGNC:8927	Neurology and neurodevelopmental disorders
+HGNC:9386	Neurology and neurodevelopmental disorders
+HGNC:9726	Neurology and neurodevelopmental disorders
+HGNC:15864	Neurology and neurodevelopmental disorders
+HGNC:10969	Neurology and neurodevelopmental disorders
+HGNC:11831	Neurology and neurodevelopmental disorders
+HGNC:7413	Cancer Programme
+HGNC:8803	Cancer Programme
+HGNC:11280	Cancer Programme
+HGNC:11515	Cancer Programme
+HGNC:13210	Endocrine disorders
+HGNC:966	Endocrine disorders
+HGNC:26291	Endocrine disorders
+HGNC:26648	Endocrine disorders
+HGNC:967	Endocrine disorders
+HGNC:969	Endocrine disorders
+HGNC:970	Endocrine disorders
+HGNC:18758	Endocrine disorders
+HGNC:30000	Endocrine disorders
+HGNC:6553	Endocrine disorders
+HGNC:6554	Endocrine disorders
+HGNC:6932	Endocrine disorders
+HGNC:7108	Endocrine disorders
+HGNC:7121	Endocrine disorders
+HGNC:7623	Endocrine disorders
+HGNC:8743	Endocrine disorders
+HGNC:18145	Endocrine disorders
+HGNC:9201	Endocrine disorders
+HGNC:10671	Endocrine disorders
+HGNC:20087	Endocrine disorders
+HGNC:2183	Endocrine disorders
+HGNC:17288	Cardiovascular disorders
+HGNC:609	Cardiovascular disorders
+HGNC:18855	Cardiovascular disorders
+HGNC:4455	Cardiovascular disorders
+HGNC:24945	Cardiovascular disorders
+HGNC:6677	Cardiovascular disorders
+HGNC:19048	Dysmorphic and congenital abnormality syndromes
+HGNC:882	Dysmorphic and congenital abnormality syndromes
+HGNC:886	Dysmorphic and congenital abnormality syndromes
+HGNC:1058	Dysmorphic and congenital abnormality syndromes
+HGNC:1497	Dysmorphic and congenital abnormality syndromes
+HGNC:18672	Dysmorphic and congenital abnormality syndromes
+HGNC:24576	Dysmorphic and congenital abnormality syndromes
+HGNC:1857	Dysmorphic and congenital abnormality syndromes
+HGNC:17272	Dysmorphic and congenital abnormality syndromes
+HGNC:29086	Dysmorphic and congenital abnormality syndromes
+HGNC:29298	Dysmorphic and congenital abnormality syndromes
+HGNC:25815	Dysmorphic and congenital abnormality syndromes
+HGNC:1985	Dysmorphic and congenital abnormality syndromes
+HGNC:26877	Dysmorphic and congenital abnormality syndromes
+HGNC:2348	Dysmorphic and congenital abnormality syndromes
+HGNC:2514	Dysmorphic and congenital abnormality syndromes
+HGNC:2736	Dysmorphic and congenital abnormality syndromes
+HGNC:2876	Dysmorphic and congenital abnormality syndromes
+HGNC:2993	Dysmorphic and congenital abnormality syndromes
+HGNC:3010	Dysmorphic and congenital abnormality syndromes
+HGNC:3091	Dysmorphic and congenital abnormality syndromes
+HGNC:3438	Dysmorphic and congenital abnormality syndromes
+HGNC:3439	Dysmorphic and congenital abnormality syndromes
+HGNC:17493	Dysmorphic and congenital abnormality syndromes
+HGNC:5330	Dysmorphic and congenital abnormality syndromes
+HGNC:18550	Dysmorphic and congenital abnormality syndromes
+HGNC:5464	Dysmorphic and congenital abnormality syndromes
+HGNC:5465	Dysmorphic and congenital abnormality syndromes
+HGNC:6388	Dysmorphic and congenital abnormality syndromes
+HGNC:24054	Dysmorphic and congenital abnormality syndromes
+HGNC:24912	Dysmorphic and congenital abnormality syndromes
+HGNC:6601	Dysmorphic and congenital abnormality syndromes
+HGNC:6954	Dysmorphic and congenital abnormality syndromes
+HGNC:25897	Dysmorphic and congenital abnormality syndromes
+HGNC:10545	Dysmorphic and congenital abnormality syndromes
+HGNC:7559	Dysmorphic and congenital abnormality syndromes
+HGNC:7652	Dysmorphic and congenital abnormality syndromes
+HGNC:17619	Dysmorphic and congenital abnormality syndromes
+HGNC:25737	Dysmorphic and congenital abnormality syndromes
+HGNC:8487	Dysmorphic and congenital abnormality syndromes
+HGNC:8490	Dysmorphic and congenital abnormality syndromes
+HGNC:17151	Dysmorphic and congenital abnormality syndromes
+HGNC:16068	Dysmorphic and congenital abnormality syndromes
+HGNC:8806	Dysmorphic and congenital abnormality syndromes
+HGNC:11397	Dysmorphic and congenital abnormality syndromes
+HGNC:9154	Dysmorphic and congenital abnormality syndromes
+HGNC:24488	Dysmorphic and congenital abnormality syndromes
+HGNC:9330	Dysmorphic and congenital abnormality syndromes
+HGNC:13420	Dysmorphic and congenital abnormality syndromes
+HGNC:9811	Dysmorphic and congenital abnormality syndromes
+HGNC:9891	Dysmorphic and congenital abnormality syndromes
+HGNC:34016	Dysmorphic and congenital abnormality syndromes
+HGNC:10298	Dysmorphic and congenital abnormality syndromes
+HGNC:18654	Dysmorphic and congenital abnormality syndromes
+HGNC:14409	Dysmorphic and congenital abnormality syndromes
+HGNC:11079	Dysmorphic and congenital abnormality syndromes
+HGNC:10879	Dysmorphic and congenital abnormality syndromes
+HGNC:11992	Dysmorphic and congenital abnormality syndromes
+HGNC:30764	Dysmorphic and congenital abnormality syndromes
+HGNC:28403	Dysmorphic and congenital abnormality syndromes
+HGNC:16691	Dysmorphic and congenital abnormality syndromes
+HGNC:18127	Dysmorphic and congenital abnormality syndromes
+HGNC:24502	Dysmorphic and congenital abnormality syndromes
+HGNC:25928	Dysmorphic and congenital abnormality syndromes
+HGNC:12831	Dysmorphic and congenital abnormality syndromes
+HGNC:16393	Dermatological disorders
+HGNC:19191	Dermatological disorders
+HGNC:8907	Dermatological disorders
+HGNC:15464	Dermatological disorders
+HGNC:11364	Dermatological disorders
+HGNC:5464	Growth disorders
+HGNC:5465	Growth disorders
+HGNC:6518	Ciliopathies
+HGNC:60	Skeletal disorders
+HGNC:319	Skeletal disorders
+HGNC:124	Skeletal disorders
+HGNC:171	Skeletal disorders
+HGNC:13201	Skeletal disorders
+HGNC:17109	Skeletal disorders
+HGNC:14631	Skeletal disorders
+HGNC:318	Skeletal disorders
+HGNC:19358	Skeletal disorders
+HGNC:23056	Skeletal disorders
+HGNC:15672	Skeletal disorders
+HGNC:449	Skeletal disorders
+HGNC:26837	Skeletal disorders
+HGNC:15492	Skeletal disorders
+HGNC:21316	Skeletal disorders
+HGNC:27337	Skeletal disorders
+HGNC:21732	Skeletal disorders
+HGNC:29216	Skeletal disorders
+HGNC:23805	Skeletal disorders
+HGNC:18481	Skeletal disorders
+HGNC:869	Skeletal disorders
+HGNC:923	Skeletal disorders
+HGNC:35126	Skeletal disorders
+HGNC:1069	Skeletal disorders
+HGNC:24154	Skeletal disorders
+HGNC:1077	Skeletal disorders
+HGNC:1260	Skeletal disorders
+HGNC:24564	Skeletal disorders
+HGNC:1373	Skeletal disorders
+HGNC:19721	Skeletal disorders
+HGNC:29253	Skeletal disorders
+HGNC:25367	Skeletal disorders
+HGNC:1762	Skeletal disorders
+HGNC:1786	Skeletal disorders
+HGNC:24576	Skeletal disorders
+HGNC:26690	Skeletal disorders
+HGNC:29021	Skeletal disorders
+HGNC:24464	Skeletal disorders
+HGNC:1971	Skeletal disorders
+HGNC:17198	Skeletal disorders
+HGNC:2023	Skeletal disorders
+HGNC:2025	Skeletal disorders
+HGNC:2185	Skeletal disorders
+HGNC:2186	Skeletal disorders
+HGNC:2187	Skeletal disorders
+HGNC:2200	Skeletal disorders
+HGNC:2217	Skeletal disorders
+HGNC:2348	Skeletal disorders
+HGNC:26193	Skeletal disorders
+HGNC:9251	Skeletal disorders
+HGNC:2528	Skeletal disorders
+HGNC:21024	Skeletal disorders
+HGNC:2606	Skeletal disorders
+HGNC:2731	Skeletal disorders
+HGNC:2859	Skeletal disorders
+HGNC:2867	Skeletal disorders
+HGNC:28648	Skeletal disorders
+HGNC:2909	Skeletal disorders
+HGNC:2910	Skeletal disorders
+HGNC:2918	Skeletal disorders
+HGNC:2932	Skeletal disorders
+HGNC:2978	Skeletal disorders
+HGNC:19189	Skeletal disorders
+HGNC:3005	Skeletal disorders
+HGNC:3084	Skeletal disorders
+HGNC:3087	Skeletal disorders
+HGNC:21317	Skeletal disorders
+HGNC:2962	Skeletal disorders
+HGNC:24595	Skeletal disorders
+HGNC:3188	Skeletal disorders
+HGNC:30858	Skeletal disorders
+HGNC:3255	Skeletal disorders
+HGNC:3356	Skeletal disorders
+HGNC:28526	Skeletal disorders
+HGNC:27230	Skeletal disorders
+HGNC:3497	Skeletal disorders
+HGNC:19747	Skeletal disorders
+HGNC:3512	Skeletal disorders
+HGNC:3513	Skeletal disorders
+HGNC:3518	Skeletal disorders
+HGNC:3527	Skeletal disorders
+HGNC:24725	Skeletal disorders
+HGNC:28434	Skeletal disorders
+HGNC:3603	Skeletal disorders
+HGNC:3604	Skeletal disorders
+HGNC:23151	Skeletal disorders
+HGNC:3666	Skeletal disorders
+HGNC:3672	Skeletal disorders
+HGNC:3680	Skeletal disorders
+HGNC:16873	Skeletal disorders
+HGNC:3755	Skeletal disorders
+HGNC:3778	Skeletal disorders
+HGNC:4006	Skeletal disorders
+HGNC:4040	Skeletal disorders
+HGNC:4122	Skeletal disorders
+HGNC:4125	Skeletal disorders
+HGNC:4220	Skeletal disorders
+HGNC:4221	Skeletal disorders
+HGNC:4263	Skeletal disorders
+HGNC:4274	Skeletal disorders
+HGNC:4298	Skeletal disorders
+HGNC:23026	Skeletal disorders
+HGNC:4422	Skeletal disorders
+HGNC:4454	Skeletal disorders
+HGNC:4612	Skeletal disorders
+HGNC:4696	Skeletal disorders
+HGNC:15808	Skeletal disorders
+HGNC:14063	Skeletal disorders
+HGNC:13315	Skeletal disorders
+HGNC:15977	Skeletal disorders
+HGNC:26527	Skeletal disorders
+HGNC:5102	Skeletal disorders
+HGNC:5136	Skeletal disorders
+HGNC:5154	Skeletal disorders
+HGNC:5273	Skeletal disorders
+HGNC:21219	Skeletal disorders
+HGNC:5382	Skeletal disorders
+HGNC:29077	Skeletal disorders
+HGNC:30391	Skeletal disorders
+HGNC:29669	Skeletal disorders
+HGNC:15901	Skeletal disorders
+HGNC:29262	Skeletal disorders
+HGNC:14313	Skeletal disorders
+HGNC:5961	Skeletal disorders
+HGNC:6000	Skeletal disorders
+HGNC:26019	Skeletal disorders
+HGNC:6080	Skeletal disorders
+HGNC:6391	Skeletal disorders
+HGNC:30497	Skeletal disorders
+HGNC:6518	Skeletal disorders
+HGNC:28887	Skeletal disorders
+HGNC:6597	Skeletal disorders
+HGNC:13243	Skeletal disorders
+HGNC:6636	Skeletal disorders
+HGNC:6654	Skeletal disorders
+HGNC:9479	Skeletal disorders
+HGNC:14450	Skeletal disorders
+HGNC:6696	Skeletal disorders
+HGNC:6408	Skeletal disorders
+HGNC:6826	Skeletal disorders
+HGNC:6859	Skeletal disorders
+HGNC:7013	Skeletal disorders
+HGNC:29659	Skeletal disorders
+HGNC:7060	Skeletal disorders
+HGNC:7121	Skeletal disorders
+HGNC:7159	Skeletal disorders
+HGNC:7166	Skeletal disorders
+HGNC:4979	Skeletal disorders
+HGNC:7207	Skeletal disorders
+HGNC:7559	Skeletal disorders
+HGNC:7632	Skeletal disorders
+HGNC:19237	Skeletal disorders
+HGNC:7744	Skeletal disorders
+HGNC:7758	Skeletal disorders
+HGNC:7765	Skeletal disorders
+HGNC:7788	Skeletal disorders
+HGNC:14906	Skeletal disorders
+HGNC:28862	Skeletal disorders
+HGNC:951	Skeletal disorders
+HGNC:16400	Skeletal disorders
+HGNC:7866	Skeletal disorders
+HGNC:7881	Skeletal disorders
+HGNC:7944	Skeletal disorders
+HGNC:14234	Skeletal disorders
+HGNC:13398	Skeletal disorders
+HGNC:29092	Skeletal disorders
+HGNC:2567	Skeletal disorders
+HGNC:8487	Skeletal disorders
+HGNC:8490	Skeletal disorders
+HGNC:17151	Skeletal disorders
+HGNC:21652	Skeletal disorders
+HGNC:8604	Skeletal disorders
+HGNC:16068	Skeletal disorders
+HGNC:8754	Skeletal disorders
+HGNC:8778	Skeletal disorders
+HGNC:8783	Skeletal disorders
+HGNC:9719	Skeletal disorders
+HGNC:8907	Skeletal disorders
+HGNC:8923	Skeletal disorders
+HGNC:14938	Skeletal disorders
+HGNC:26031	Skeletal disorders
+HGNC:8979	Skeletal disorders
+HGNC:9004	Skeletal disorders
+HGNC:24488	Skeletal disorders
+HGNC:17264	Skeletal disorders
+HGNC:20194	Skeletal disorders
+HGNC:20422	Skeletal disorders
+HGNC:30129	Skeletal disorders
+HGNC:9388	Skeletal disorders
+HGNC:25557	Skeletal disorders
+HGNC:19129	Skeletal disorders
+HGNC:9577	Skeletal disorders
+HGNC:9587	Skeletal disorders
+HGNC:9608	Skeletal disorders
+HGNC:9607	Skeletal disorders
+HGNC:17042	Skeletal disorders
+HGNC:9721	Skeletal disorders
+HGNC:16075	Skeletal disorders
+HGNC:9879	Skeletal disorders
+HGNC:9905	Skeletal disorders
+HGNC:5724	Skeletal disorders
+HGNC:30220	Skeletal disorders
+HGNC:10031	Skeletal disorders
+HGNC:34016	Skeletal disorders
+HGNC:10257	Skeletal disorders
+HGNC:29168	Skeletal disorders
+HGNC:10524	Skeletal disorders
+HGNC:15924	Skeletal disorders
+HGNC:19440	Skeletal disorders
+HGNC:19869	Skeletal disorders
+HGNC:18420	Skeletal disorders
+HGNC:10771	Skeletal disorders
+HGNC:10778	Skeletal disorders
+HGNC:10818	Skeletal disorders
+HGNC:10825	Skeletal disorders
+HGNC:29242	Skeletal disorders
+HGNC:10853	Skeletal disorders
+HGNC:10933	Skeletal disorders
+HGNC:23096	Skeletal disorders
+HGNC:20305	Skeletal disorders
+HGNC:20800	Skeletal disorders
+HGNC:20859	Skeletal disorders
+HGNC:10955	Skeletal disorders
+HGNC:6769	Skeletal disorders
+HGNC:6770	Skeletal disorders
+HGNC:11102	Skeletal disorders
+HGNC:11111	Skeletal disorders
+HGNC:2468	Skeletal disorders
+HGNC:20318	Skeletal disorders
+HGNC:11153	Skeletal disorders
+HGNC:14974	Skeletal disorders
+HGNC:13771	Skeletal disorders
+HGNC:11204	Skeletal disorders
+HGNC:20376	Skeletal disorders
+HGNC:11559	Skeletal disorders
+HGNC:11582	Skeletal disorders
+HGNC:11594	Skeletal disorders
+HGNC:11602	Skeletal disorders
+HGNC:11603	Skeletal disorders
+HGNC:11604	Skeletal disorders
+HGNC:11605	Skeletal disorders
+HGNC:11609	Skeletal disorders
+HGNC:11647	Skeletal disorders
+HGNC:11654	Skeletal disorders
+HGNC:28482	Skeletal disorders
+HGNC:25774	Skeletal disorders
+HGNC:24519	Skeletal disorders
+HGNC:11730	Skeletal disorders
+HGNC:11766	Skeletal disorders
+HGNC:11768	Skeletal disorders
+HGNC:11795	Skeletal disorders
+HGNC:18188	Skeletal disorders
+HGNC:30760	Skeletal disorders
+HGNC:25018	Skeletal disorders
+HGNC:37234	Skeletal disorders
+HGNC:28396	Skeletal disorders
+HGNC:11908	Skeletal disorders
+HGNC:11909	Skeletal disorders
+HGNC:11926	Skeletal disorders
+HGNC:15979	Skeletal disorders
+HGNC:23068	Skeletal disorders
+HGNC:17761	Skeletal disorders
+HGNC:12305	Skeletal disorders
+HGNC:12340	Skeletal disorders
+HGNC:18083	Skeletal disorders
+HGNC:25660	Skeletal disorders
+HGNC:20670	Skeletal disorders
+HGNC:12449	Skeletal disorders
+HGNC:18340	Skeletal disorders
+HGNC:28296	Skeletal disorders
+HGNC:21862	Skeletal disorders
+HGNC:12771	Skeletal disorders
+HGNC:12775	Skeletal disorders
+HGNC:12784	Skeletal disorders
+HGNC:12786	Skeletal disorders
+HGNC:12831	Skeletal disorders
+HGNC:15516	Skeletal disorders
+HGNC:15517	Skeletal disorders
+HGNC:12856	Skeletal disorders
+HGNC:12877	Skeletal disorders
+HGNC:811	Neurology and neurodevelopmental disorders
+HGNC:2019	Neurology and neurodevelopmental disorders
+HGNC:6263	Neurology and neurodevelopmental disorders
+HGNC:7415	Neurology and neurodevelopmental disorders
+HGNC:4053	Neurology and neurodevelopmental disorders
+HGNC:7455	Neurology and neurodevelopmental disorders
+HGNC:7462	Neurology and neurodevelopmental disorders
+HGNC:28625	Neurology and neurodevelopmental disorders
+HGNC:8772	Neurology and neurodevelopmental disorders
+HGNC:9279	Neurology and neurodevelopmental disorders
+HGNC:14409	Neurology and neurodevelopmental disorders
+HGNC:4326	Cardiovascular disorders
+HGNC:9143	Cardiovascular disorders
+HGNC:28883	Cardiovascular disorders
+HGNC:130	Cardiovascular disorders
+HGNC:1044	Cardiovascular disorders
+HGNC:2197	Cardiovascular disorders
+HGNC:2198	Cardiovascular disorders
+HGNC:2209	Cardiovascular disorders
+HGNC:2210	Cardiovascular disorders
+HGNC:3219	Cardiovascular disorders
+HGNC:3603	Cardiovascular disorders
+HGNC:3604	Cardiovascular disorders
+HGNC:27310	Cardiovascular disorders
+HGNC:6664	Cardiovascular disorders
+HGNC:11957	Cardiovascular disorders
+HGNC:7569	Cardiovascular disorders
+HGNC:7590	Cardiovascular disorders
+HGNC:7881	Cardiovascular disorders
+HGNC:9081	Cardiovascular disorders
+HGNC:9414	Cardiovascular disorders
+HGNC:10896	Cardiovascular disorders
+HGNC:13444	Cardiovascular disorders
+HGNC:6768	Cardiovascular disorders
+HGNC:6769	Cardiovascular disorders
+HGNC:6770	Cardiovascular disorders
+HGNC:11768	Cardiovascular disorders
+HGNC:11769	Cardiovascular disorders
+HGNC:11772	Cardiovascular disorders
+HGNC:11773	Cardiovascular disorders
+HGNC:26558	Skeletal disorders
+HGNC:19960	Skeletal disorders
+HGNC:427	Tumour syndromes
+HGNC:28648	Tumour syndromes
+HGNC:3527	Tumour syndromes
+HGNC:4451	Tumour syndromes
+HGNC:14234	Tumour syndromes
+HGNC:8803	Tumour syndromes
+HGNC:8804	Tumour syndromes
+HGNC:9143	Tumour syndromes
+HGNC:9949	Tumour syndromes
+HGNC:9966	Tumour syndromes
+HGNC:7523	Tumour syndromes
+HGNC:12307	Tumour syndromes
+HGNC:17366	Metabolic disorders
+HGNC:29	Metabolic disorders
+HGNC:42	Metabolic disorders
+HGNC:45	Metabolic disorders
+HGNC:68	Metabolic disorders
+HGNC:21396	Metabolic disorders
+HGNC:87	Metabolic disorders
+HGNC:90	Metabolic disorders
+HGNC:91	Metabolic disorders
+HGNC:27288	Metabolic disorders
+HGNC:225	Metabolic disorders
+HGNC:318	Metabolic disorders
+HGNC:388	Metabolic disorders
+HGNC:395	Metabolic disorders
+HGNC:406	Metabolic disorders
+HGNC:408	Metabolic disorders
+HGNC:7179	Metabolic disorders
+HGNC:877	Metabolic disorders
+HGNC:14604	Metabolic disorders
+HGNC:473	Metabolic disorders
+HGNC:600	Metabolic disorders
+HGNC:17288	Metabolic disorders
+HGNC:609	Metabolic disorders
+HGNC:613	Metabolic disorders
+HGNC:626	Metabolic disorders
+HGNC:713	Metabolic disorders
+HGNC:735	Metabolic disorders
+HGNC:756	Metabolic disorders
+HGNC:794	Metabolic disorders
+HGNC:30213	Metabolic disorders
+HGNC:869	Metabolic disorders
+HGNC:870	Metabolic disorders
+HGNC:3706	Metabolic disorders
+HGNC:932	Metabolic disorders
+HGNC:16902	Metabolic disorders
+HGNC:25443	Metabolic disorders
+HGNC:1550	Metabolic disorders
+HGNC:1938	Metabolic disorders
+HGNC:2074	Metabolic disorders
+HGNC:2076	Metabolic disorders
+HGNC:2077	Metabolic disorders
+HGNC:2079	Metabolic disorders
+HGNC:103	Metabolic disorders
+HGNC:2295	Metabolic disorders
+HGNC:2321	Metabolic disorders
+HGNC:2501	Metabolic disorders
+HGNC:2518	Metabolic disorders
+HGNC:9251	Metabolic disorders
+HGNC:2529	Metabolic disorders
+HGNC:2536	Metabolic disorders
+HGNC:2548	Metabolic disorders
+HGNC:2605	Metabolic disorders
+HGNC:28358	Metabolic disorders
+HGNC:2678	Metabolic disorders
+HGNC:2689	Metabolic disorders
+HGNC:2719	Metabolic disorders
+HGNC:23537	Metabolic disorders
+HGNC:28908	Metabolic disorders
+HGNC:16235	Metabolic disorders
+HGNC:3006	Metabolic disorders
+HGNC:3012	Metabolic disorders
+HGNC:3013	Metabolic disorders
+HGNC:3354	Metabolic disorders
+HGNC:29331	Metabolic disorders
+HGNC:3413	Metabolic disorders
+HGNC:21197	Metabolic disorders
+HGNC:3579	Metabolic disorders
+HGNC:3771	Metabolic disorders
+HGNC:4006	Metabolic disorders
+HGNC:24861	Metabolic disorders
+HGNC:4065	Metabolic disorders
+HGNC:4087	Metabolic disorders
+HGNC:4115	Metabolic disorders
+HGNC:4116	Metabolic disorders
+HGNC:4118	Metabolic disorders
+HGNC:4135	Metabolic disorders
+HGNC:4175	Metabolic disorders
+HGNC:4189	Metabolic disorders
+HGNC:4193	Metabolic disorders
+HGNC:4311	Metabolic disorders
+HGNC:4268	Metabolic disorders
+HGNC:4313	Metabolic disorders
+HGNC:4326	Metabolic disorders
+HGNC:24247	Metabolic disorders
+HGNC:4367	Metabolic disorders
+HGNC:4455	Metabolic disorders
+HGNC:15465	Metabolic disorders
+HGNC:4624	Metabolic disorders
+HGNC:4699	Metabolic disorders
+HGNC:4706	Metabolic disorders
+HGNC:4796	Metabolic disorders
+HGNC:15598	Metabolic disorders
+HGNC:4839	Metabolic disorders
+HGNC:4878	Metabolic disorders
+HGNC:4879	Metabolic disorders
+HGNC:4886	Metabolic disorders
+HGNC:4887	Metabolic disorders
+HGNC:4892	Metabolic disorders
+HGNC:4982	Metabolic disorders
+HGNC:5008	Metabolic disorders
+HGNC:5157	Metabolic disorders
+HGNC:18324	Metabolic disorders
+HGNC:5320	Metabolic disorders
+HGNC:5383	Metabolic disorders
+HGNC:6176	Metabolic disorders
+HGNC:6469	Metabolic disorders
+HGNC:20499	Metabolic disorders
+HGNC:6501	Metabolic disorders
+HGNC:6522	Metabolic disorders
+HGNC:6530	Metabolic disorders
+HGNC:6617	Metabolic disorders
+HGNC:23038	Metabolic disorders
+HGNC:13345	Metabolic disorders
+HGNC:6677	Metabolic disorders
+HGNC:6826	Metabolic disorders
+HGNC:6831	Metabolic disorders
+HGNC:6903	Metabolic disorders
+HGNC:6936	Metabolic disorders
+HGNC:6937	Metabolic disorders
+HGNC:28486	Metabolic disorders
+HGNC:24525	Metabolic disorders
+HGNC:25221	Metabolic disorders
+HGNC:10545	Metabolic disorders
+HGNC:7468	Metabolic disorders
+HGNC:7473	Metabolic disorders
+HGNC:7467	Metabolic disorders
+HGNC:7631	Metabolic disorders
+HGNC:21576	Metabolic disorders
+HGNC:7897	Metabolic disorders
+HGNC:14537	Metabolic disorders
+HGNC:17820	Metabolic disorders
+HGNC:8582	Metabolic disorders
+HGNC:8646	Metabolic disorders
+HGNC:8877	Metabolic disorders
+HGNC:8889	Metabolic disorders
+HGNC:8896	Metabolic disorders
+HGNC:8925	Metabolic disorders
+HGNC:9039	Metabolic disorders
+HGNC:30260	Metabolic disorders
+HGNC:9280	Metabolic disorders
+HGNC:9325	Metabolic disorders
+HGNC:9386	Metabolic disorders
+HGNC:9453	Metabolic disorders
+HGNC:9721	Metabolic disorders
+HGNC:9752	Metabolic disorders
+HGNC:9848	Metabolic disorders
+HGNC:15864	Metabolic disorders
+HGNC:10297	Metabolic disorders
+HGNC:10298	Metabolic disorders
+HGNC:15925	Metabolic disorders
+HGNC:10535	Metabolic disorders
+HGNC:10681	Metabolic disorders
+HGNC:10856	Metabolic disorders
+HGNC:10933	Metabolic disorders
+HGNC:19954	Metabolic disorders
+HGNC:25355	Metabolic disorders
+HGNC:20858	Metabolic disorders
+HGNC:17129	Metabolic disorders
+HGNC:10909	Metabolic disorders
+HGNC:30224	Metabolic disorders
+HGNC:16187	Metabolic disorders
+HGNC:11036	Metabolic disorders
+HGNC:27960	Metabolic disorders
+HGNC:30927	Metabolic disorders
+HGNC:11120	Metabolic disorders
+HGNC:20376	Metabolic disorders
+HGNC:11460	Metabolic disorders
+HGNC:11559	Metabolic disorders
+HGNC:11762	Metabolic disorders
+HGNC:2073	Metabolic disorders
+HGNC:17995	Metabolic disorders
+HGNC:12530	Metabolic disorders
+HGNC:12563	Metabolic disorders
+HGNC:12591	Metabolic disorders
+HGNC:12592	Metabolic disorders
+HGNC:28912	Metabolic disorders
+HGNC:12805	Metabolic disorders
+HGNC:14604	Renal and urinary tract disorders
+HGNC:4296	Renal and urinary tract disorders
+HGNC:7508	Renal and urinary tract disorders
+HGNC:2567	Renal and urinary tract disorders
+HGNC:1919	Dysmorphic and congenital abnormality syndromes
+HGNC:4796	Dysmorphic and congenital abnormality syndromes
+HGNC:6469	Dysmorphic and congenital abnormality syndromes
+HGNC:17042	Dysmorphic and congenital abnormality syndromes
+HGNC:16264	Dysmorphic and congenital abnormality syndromes
+HGNC:559	Dysmorphic and congenital abnormality syndromes
+HGNC:566	Dysmorphic and congenital abnormality syndromes
+HGNC:6501	Dysmorphic and congenital abnormality syndromes
+HGNC:1968	Dysmorphic and congenital abnormality syndromes
+HGNC:29643	Dysmorphic and congenital abnormality syndromes
+HGNC:7602	Dysmorphic and congenital abnormality syndromes
+HGNC:9766	Dysmorphic and congenital abnormality syndromes
+HGNC:24624	Dysmorphic and congenital abnormality syndromes
+HGNC:11133	Dysmorphic and congenital abnormality syndromes
+HGNC:2183	Dysmorphic and congenital abnormality syndromes
+HGNC:2718	Dysmorphic and congenital abnormality syndromes
+HGNC:3433	Dysmorphic and congenital abnormality syndromes
+HGNC:3434	Dysmorphic and congenital abnormality syndromes
+HGNC:3435	Dysmorphic and congenital abnormality syndromes
+HGNC:3437	Dysmorphic and congenital abnormality syndromes
+HGNC:21157	Dysmorphic and congenital abnormality syndromes
+HGNC:16002	Dysmorphic and congenital abnormality syndromes
+HGNC:9181	Dysmorphic and congenital abnormality syndromes
+HGNC:12814	Dysmorphic and congenital abnormality syndromes
+HGNC:12816	Dysmorphic and congenital abnormality syndromes

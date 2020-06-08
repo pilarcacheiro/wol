@@ -1,0 +1,524 @@
+MGI_ID	homozygosity	viability_by_pup_numbers	E95_outcome_on_.aliveHOMS	E125_outcome_on_.aliveHOMS	E145_outcome_on_.aliveHOMS	E185_outcome_on_.aliveHOMS	Window	E9.5_split	E12.5_split	E14.5.E15.5_split	E18.5_split	Window_Category	HGNC_ID	Avana_mean_045	Avana_mean
+MGI:1928849	Homozygous	Lethal	Insufficient numbers to make a call	Subviable	Insufficient numbers to make a call	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:15985	Non-essential	-0.079535161
+MGI:105073	Homozygous	Lethal	Insufficient numbers to make a call	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:11945	Non-essential	0.017669963
+MGI:108571	Homozygous	Lethal	no_e95_data	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:4043	Non-essential	-0.115200487
+MGI:109188	Homozygous	Lethal	no_e95_data	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:19349	Non-essential	-0.0522849
+MGI:109242	Homozygous	Lethal	no_e95_data	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:11243	Non-essential	0.014199316
+MGI:1914171	Homozygous	Lethal	no_e95_data	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:25512	Essential	-1.124773041
+MGI:1915831	Homozygous	Lethal	no_e95_data	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:16998	Non-essential	-0.314739744
+MGI:1923483	Homozygous	Lethal	no_e95_data	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:16160	Non-essential	-0.020199128
+MGI:2145374	Homozygous	Lethal	no_e95_data	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:15815	Non-essential	-0.223264219
+MGI:109169	Homozygous	Lethal	no_e95_data	Viable	Insufficient numbers to make a call	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:3374	Non-essential	0.028204276
+MGI:1196251	Homozygous	Lethal	no_e95_data	Viable	Insufficient numbers to make a call	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:26002	Non-essential	-0.241532701
+MGI:102851	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:6107	Non-essential	0.014172458
+MGI:104696	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:10600	Non-essential	0.010354215
+MGI:108429	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:3166	Non-essential	0.017962453
+MGI:109564	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:6323	Non-essential	-0.113042464
+MGI:1197013	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:20331	Non-essential	-0.04748974
+MGI:1261415	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:10817	Non-essential	-0.212323509
+MGI:1277122	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:21145	Non-essential	0.014342538
+MGI:1890602	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:13291	Non-essential	0.043081741
+MGI:1914674	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:13879	Essential	-0.52984587
+MGI:1914797	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:20862	Non-essential	-0.035436356
+MGI:1915822	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:5359	Non-essential	-0.258557
+MGI:1916804	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:20231	Non-essential	0.077038609
+MGI:1918843	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:6629	Non-essential	-0.019648002
+MGI:1919019	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:26291	Non-essential	0.076894886
+MGI:1924140	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:14014	Non-essential	-0.302490588
+MGI:2151064	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:15720	Non-essential	-0.234674497
+MGI:2387609	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:17735	Non-essential	-0.052743834
+MGI:2444993	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:25642	Non-essential	0.059840459
+MGI:88137	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:987	Non-essential	-0.129647657
+MGI:97168	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:7391	Non-essential	0.063775245
+MGI:97515	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:8747	Non-essential	0.005815508
+MGI:97520	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:8636	Essential	-0.50580678
+MGI:1926790	Homozygous	Lethal	Viable	Subviable	Insufficient numbers to make a call	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:24824	Non-essential	-0.199207366
+MGI:1927222	Homozygous	Lethal	Viable	Subviable	no_e145_data	Insufficient numbers to make a call	After E12.5	After E9.5	After E12.5			-	HGNC:15480	Non-essential	-0.23362342
+MGI:105070	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:11946	Non-essential	0.049861121
+MGI:109324	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:3573	Non-essential	-0.20737692
+MGI:1289288	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:30224	Non-essential	-0.195519171
+MGI:1344361	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:690	Non-essential	0.055853449
+MGI:1913371	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:23518	Essential	-0.716821175
+MGI:1915138	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:25607	Non-essential	0.132447966
+MGI:1931029	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:24876	Non-essential	0.024842506
+MGI:2158394	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:17556	Non-essential	-0.158197998
+MGI:2667185	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:31104	Non-essential	-0.288480873
+MGI:87874	Homozygous	Lethal	Viable	Subviable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:2707	Non-essential	-0.153830525
+MGI:1919891	Homozygous	Lethal	Viable	Viable	Insufficient numbers to make a call	Insufficient numbers to make a call	After E12.5	After E9.5	After E12.5			-	HGNC:24904	Non-essential	-0.108282612
+MGI:1329045	Homozygous	Lethal	Viable	Viable	no_e145_data	no_e185_data	After E12.5	After E9.5	After E12.5			-	HGNC:12425	Non-essential	0.128469764
+MGI:2143628	Homozygous	Lethal	Insufficient numbers to make a call	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:23035	Non-essential	0.185938506
+MGI:105090	Homozygous	Lethal	Insufficient numbers to make a call	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:11051	Non-essential	0.001297749
+MGI:1202717	Homozygous	Lethal	Insufficient numbers to make a call	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:9508	Non-essential	-0.09780319
+MGI:2385276	Homozygous	Lethal	no_e95_data	no_e125_data	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:23297	Non-essential	-0.011271321
+MGI:95721	Homozygous	Lethal	no_e95_data	no_e125_data	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:4285	Non-essential	-0.08714335
+MGI:104606	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:16519	Non-essential	-0.063069738
+MGI:1860188	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:11174	Non-essential	0.00860489
+MGI:1890645	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:13386	Non-essential	-0.058942147
+MGI:1921895	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:24712	Non-essential	0.102430625
+MGI:1928750	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:9763	Non-essential	0.005220298
+MGI:1932404	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:15673	Non-essential	-0.134986072
+MGI:2147790	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:23151	Non-essential	-0.101612102
+MGI:2679270	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:23713	Non-essential	0.023425272
+MGI:2679336	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:21637	Non-essential	-0.110979819
+MGI:95751	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:4329	Non-essential	-0.003390859
+MGI:97531	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:8804	Non-essential	-0.090386421
+MGI:98282	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:11241	Non-essential	-0.095365452
+MGI:1914596	Homozygous	Lethal	no_e95_data	Subviable	Subviable	Insufficient numbers to make a call	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:18142	Non-essential	0.12132406
+MGI:3026965	Homozygous	Lethal	no_e95_data	Subviable	Subviable	Insufficient numbers to make a call	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:23526	Non-essential	-0.058000468
+MGI:1351351	Homozygous	Lethal	no_e95_data	Subviable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:1514	Non-essential	-0.044966756
+MGI:2144157	Homozygous	Lethal	no_e95_data	Subviable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:12621	Non-essential	0.032123416
+MGI:107460	Homozygous	Lethal	no_e95_data	Viable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:2280	Non-essential	-0.250584853
+MGI:107979	Homozygous	Lethal	no_e95_data	Viable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:6321	Non-essential	0.006928791
+MGI:109529	Homozygous	Lethal	no_e95_data	Viable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:9964	Non-essential	-0.357704799
+MGI:1920942	Homozygous	Lethal	no_e95_data	Viable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:25801	Non-essential	-0.138552611
+MGI:2145317	Homozygous	Lethal	no_e95_data	Viable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:25818	Non-essential	0.029134875
+MGI:2652847	Homozygous	Lethal	no_e95_data	Viable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:19027	Non-essential	-0.02681427
+MGI:94869	Homozygous	Lethal	no_e95_data	Viable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:2701	Non-essential	0.108936234
+MGI:1194993	Homozygous	Lethal	no_e95_data	Viable	Viable	Insufficient numbers to make a call	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:3037	Non-essential	-0.002030309
+MGI:2682307	Homozygous	Lethal	no_e95_data	Viable	Viable	Insufficient numbers to make a call	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:25555	Non-essential	0.086302287
+MGI:88107	Homozygous	Lethal	no_e95_data	Viable	Viable	Insufficient numbers to make a call	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:801	Non-essential	-0.138281776
+MGI:102519	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:2475	Non-essential	-0.176892851
+MGI:109347	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:6724	Non-essential	0.031107918
+MGI:1195985	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:1554	Non-essential	0.023446938
+MGI:1197012	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:303	Non-essential	-0.204913813
+MGI:1276109	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:2032	Non-essential	0.013372885
+MGI:1309469	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:1513	Non-essential	-0.183355761
+MGI:1337104	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:3522	Non-essential	0.127514281
+MGI:1343085	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:11254	Non-essential	-0.021075779
+MGI:1353633	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:4010	Non-essential	-0.091409957
+MGI:1915091	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:20962	Non-essential	-0.102577084
+MGI:1916161	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:30257	Non-essential	-0.170000082
+MGI:1916987	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:21586	Non-essential	-0.089621346
+MGI:1917167	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:28412	Non-essential	-0.133010628
+MGI:1919257	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:24670	Non-essential	-0.028520267
+MGI:1921293	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:22965	Non-essential	-0.26912571
+MGI:1921462	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:23247	Non-essential	-0.067201512
+MGI:1923799	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	NA	NA	NA
+MGI:1927753	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:21474	Non-essential	-0.062589833
+MGI:1928948	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:30386	Non-essential	-0.037193647
+MGI:1930088	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:17412	Non-essential	0.084259148
+MGI:2141101	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:18423	Non-essential	0.194618986
+MGI:2147616	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:23077	Non-essential	-0.085673219
+MGI:2445208	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:21478	Non-essential	-0.063526392
+MGI:2682305	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:18118	Non-essential	0.134837001
+MGI:2685844	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:13997	Non-essential	-0.032896402
+MGI:3528383	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:9529	Non-essential	0.060477177
+MGI:3584043	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:26594	Non-essential	0.009245959
+MGI:88289	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:1552	Non-essential	-0.014191707
+MGI:88421	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:2085	Non-essential	-0.325424433
+MGI:96269	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:9847	Non-essential	-0.312942258
+MGI:96770	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:6551	Non-essential	0.043269902
+MGI:96788	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:6597	Non-essential	-0.014413633
+MGI:97383	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:8031	Non-essential	0.032252186
+MGI:97496	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:8634	Non-essential	0.002569349
+MGI:97815	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:9681	Non-essential	0.057050808
+MGI:98250	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:10591	Non-essential	0.00155858
+MGI:98727	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:11769	Non-essential	-0.02630904
+MGI:98960	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:12785	Non-essential	0.052460764
+MGI:98970	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:12801	Non-essential	-0.083891468
+MGI:99960	Homozygous	Lethal	no_e95_data	Viable	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:3508	Essential	-0.791651984
+MGI:1922941	Homozygous	Lethal	Viable	no_e125_data	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:26724	Non-essential	-0.358251459
+MGI:1913761	Homozygous	Lethal	Viable	no_e125_data	Viable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:24511	Non-essential	-0.382967259
+MGI:97788	Homozygous	Lethal	Viable	Viable	Conflicting: Viable | Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:9577	Non-essential	-0.177961942
+MGI:2145950	Homozygous	Lethal	Viable	Viable	Subviable	no_e185_data	After E14.5/E15.5	After E9.5	After E12.5	After E14.5/E15.5		Late-gestation	HGNC:30377	Non-essential	-0.081041145
+MGI:104723	Homozygous	Lethal	no_e95_data	Conflicting: Subviable | Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:3687	Non-essential	0.033572178
+MGI:1891434	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:15580	Essential	-0.490939144
+MGI:108426	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:16636	Non-essential	-0.14164579
+MGI:1270862	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:904	Non-essential	-0.025059793
+MGI:1338027	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:4216	Non-essential	-0.197190587
+MGI:1345283	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:10979	Non-essential	-0.257824554
+MGI:1916165	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:21642	Essential	-0.561672065
+MGI:1917347	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:19182	Non-essential	0.168610844
+MGI:1924295	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:1004	Non-essential	-0.01579437
+MGI:2140361	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:20800	Non-essential	-0.216637855
+MGI:2146388	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:29119	Non-essential	-0.128263668
+MGI:2159402	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:18287	Non-essential	0.047072
+MGI:2443582	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:23	Non-essential	-0.05134624
+MGI:3781032	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:6259	Non-essential	-0.013103322
+MGI:99607	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:29	Non-essential	-0.039415526
+MGI:1277991	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:2663	Non-essential	-0.068115979
+MGI:1345162	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:202	Non-essential	0.037156438
+MGI:1352451	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:7975	Non-essential	0.049323269
+MGI:1914004	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:3823	Non-essential	-0.096477576
+MGI:1917580	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:16863	Essential	-0.744138868
+MGI:1919020	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:563	Non-essential	-0.076784951
+MGI:1926421	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:15630	Non-essential	-0.408744626
+MGI:1929913	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:13222	Non-essential	0.056489677
+MGI:2385311	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:2896	Non-essential	-0.012642041
+MGI:88121	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:894	Non-essential	-0.054821207
+MGI:95775	Homozygous	Lethal	no_e95_data	no_e125_data	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:4389	Non-essential	-0.055478132
+MGI:107405	Homozygous	Lethal	no_e95_data	no_e125_data	Subviable	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	NA	NA	NA
+MGI:1922680	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:24531	Essential	-0.635901756
+MGI:1098270	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:6189	Non-essential	0.048781064
+MGI:1197515	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:14358	Non-essential	0.083299805
+MGI:1351614	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:4699	Non-essential	-0.031476933
+MGI:1915862	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:15937	Non-essential	-0.392134648
+MGI:1927237	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:17429	Non-essential	-0.062466181
+MGI:2442308	Homozygous	Lethal	no_e95_data	no_e125_data	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:25945	Non-essential	0.066297329
+MGI:1261831	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:4812	Non-essential	-0.207937567
+MGI:1861722	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:409	Non-essential	0.130816053
+MGI:1916279	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:25055	Non-essential	0.003516946
+MGI:97297	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:7727	Non-essential	0.067677765
+MGI:102672	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:10473	Non-essential	-0.104781226
+MGI:103582	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:3437	Non-essential	-0.054657907
+MGI:105058	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:811	Non-essential	-0.074583969
+MGI:1194504	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:6256	Non-essential	-0.04798985
+MGI:1298224	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:8996	Non-essential	0.030137744
+MGI:1332234	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:12933	Non-essential	0.073271165
+MGI:1341822	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:12741	Non-essential	-0.125709224
+MGI:1351617	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:33	Non-essential	-0.04082058
+MGI:1354742	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:557	Non-essential	-0.055325878
+MGI:1354961	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:11503	Non-essential	0.104864616
+MGI:1890520	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:13488	Non-essential	-0.323107251
+MGI:1918305	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:10663	Non-essential	-0.344247694
+MGI:1921793	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	NA	NA	NA
+MGI:1925542	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:25896	Non-essential	-0.10619143
+MGI:1926102	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:29025	Non-essential	-0.158037527
+MGI:1926225	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:23095	Non-essential	-0.247882254
+MGI:1932915	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:17620	Non-essential	-0.14679317
+MGI:2442638	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:25404	Non-essential	-0.150572649
+MGI:2447076	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:25484	Non-essential	0.009527509
+MGI:87871	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	NA	NA	NA
+MGI:95517	Homozygous	Lethal	no_e95_data	Viable	no_e145_data	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:3681	Non-essential	0.0602179
+MGI:96650	Homozygous	Lethal	no_e95_data	Viable	Viable	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:6207	Non-essential	-0.046929605
+MGI:97376	Homozygous	Lethal	no_e95_data	Viable	Viable	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:7989	Non-essential	-0.138063133
+MGI:97603	Homozygous	Lethal	no_e95_data	Viable	Viable	Subviable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:9008	Non-essential	-0.180136157
+MGI:1196429	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:29091	Non-essential	-0.141947649
+MGI:1344412	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:15710	Non-essential	-0.064516201
+MGI:1918711	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:9618	Non-essential	-0.011935176
+MGI:1919995	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:28483	Non-essential	-0.110037477
+MGI:1935151	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:6350	Non-essential	-0.360848201
+MGI:2147134	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:13590	Non-essential	-0.115019848
+MGI:2147810	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:31092	Non-essential	-0.025507898
+MGI:2156052	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:16703	Non-essential	0.009577334
+MGI:3582693	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:29456	Non-essential	-0.053530229
+MGI:891996	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:2323	Non-essential	-0.00976477
+MGI:99422	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:9863	Non-essential	0.041940775
+MGI:99602	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:319	Non-essential	0.007986182
+MGI:99659	Homozygous	Lethal	no_e95_data	Viable	Viable	Viable	After E18.5	After E9.5	After E12.5	After E14.5/E15.5	After E18.5	Late-gestation	HGNC:10483	Non-essential	-0.209512019
+MGI:1924753	Homozygous	Lethal	Subviable	no_e125_data	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:15672	Non-essential	-0.120708385
+MGI:103556	Homozygous	Lethal	Subviable	Subviable	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:10672	Non-essential	-0.135783432
+MGI:97363	Homozygous	Lethal	Viable	Insufficient numbers to make a call	Insufficient numbers to make a call	Insufficient numbers to make a call	After E9.5	After E9.5				-	HGNC:7881	Non-essential	0.003614751
+MGI:1333745	Homozygous	Lethal	Viable	Insufficient numbers to make a call	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:17145	Non-essential	-0.168597678
+MGI:1920939	Homozygous	Lethal	Viable	no_e125_data	no_e145_data	Insufficient numbers to make a call	After E9.5	After E9.5				-	HGNC:20984	Non-essential	-0.129429416
+MGI:1261910	Homozygous	Lethal	Viable	no_e125_data	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:23352	Non-essential	0.021998631
+MGI:1346877	Homozygous	Lethal	Viable	no_e125_data	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:6859	Non-essential	-0.080453746
+MGI:1921585	Homozygous	Lethal	Viable	no_e125_data	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:12830	Essential	-0.696517894
+MGI:1929655	Homozygous	Lethal	Viable	no_e125_data	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:14312	Non-essential	-0.278624491
+MGI:1930252	Homozygous	Lethal	Viable	no_e125_data	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:25812	Non-essential	-0.335949859
+MGI:2385186	Homozygous	Lethal	Viable	no_e125_data	no_e145_data	no_e185_data	After E9.5	After E9.5				-	HGNC:29675	Non-essential	-0.318597664
+MGI:103270	Homozygous	Lethal	Insufficient numbers to make a call	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:11753	Non-essential	-0.022166804
+MGI:104889	Homozygous	Lethal	Insufficient numbers to make a call	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:12507	Non-essential	-0.047035541
+MGI:1315204	Homozygous	Lethal	Insufficient numbers to make a call	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:10909	Non-essential	0.019446907
+MGI:1352459	Homozygous	Lethal	Insufficient numbers to make a call	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:7985	Non-essential	-0.116773512
+MGI:1914233	Homozygous	Lethal	Insufficient numbers to make a call	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:28291	Essential	-0.98143078
+MGI:1916449	Homozygous	Lethal	Insufficient numbers to make a call	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:23045	Non-essential	-0.009339191
+MGI:2142786	Homozygous	Lethal	Insufficient numbers to make a call	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:25749	Essential	-1.01444368
+MGI:88180	Homozygous	Lethal	Insufficient numbers to make a call	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:1071	Non-essential	0.043118678
+MGI:1915099	Homozygous	Lethal	no_e95_data	Lethal	Insufficient numbers to make a call	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:14626	Essential	-0.811339978
+MGI:101876	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:11714	Non-essential	-0.171414196
+MGI:108028	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:882	Essential	-0.718888974
+MGI:108075	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:11119	Non-essential	-0.094212764
+MGI:1096376	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:30389	Essential	-0.515686027
+MGI:1328356	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:9827	Essential	-0.935827609
+MGI:1861676	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:20567	Non-essential	-0.260329675
+MGI:1913302	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:10682	Essential	-0.577614495
+MGI:1913376	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:28691	Non-essential	-0.335235345
+MGI:1913422	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:32687	Essential	-1.253163559
+MGI:1914640	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:18485	Non-essential	-0.26030141
+MGI:1914931	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:14477	Essential	-0.655392346
+MGI:1915147	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:10075	Essential	-0.906059691
+MGI:1915295	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:23169	Essential	-0.591858034
+MGI:1915326	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:19123	Essential	-0.957726914
+MGI:1916296	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:28660	Non-essential	-0.183795746
+MGI:1916889	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:17035	Essential	-1.142902145
+MGI:1918615	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:23041	Non-essential	-0.189171407
+MGI:1920081	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:16716	Non-essential	-0.209686806
+MGI:1921620	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:30287	Essential	-0.747306354
+MGI:1921677	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:20907	Non-essential	-0.390794678
+MGI:1924408	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:20233	Non-essential	-0.20168586
+MGI:1927241	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:14098	Essential	-0.948714598
+MGI:1929742	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:17317	Essential	-0.466279515
+MGI:1929865	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:30092	Non-essential	-0.211126192
+MGI:2151013	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:17072	Non-essential	-0.055578428
+MGI:2384309	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:9195	Essential	-0.799293124
+MGI:2443226	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:25386	Non-essential	-0.337939953
+MGI:2446285	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:20852	Essential	-0.619069308
+MGI:3037820	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:6219	Non-essential	-0.359309152
+MGI:894678	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:11393	Essential	-0.919126004
+MGI:95698	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:4241	Non-essential	-0.338382776
+MGI:97513	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:8568	Non-essential	-0.157169634
+MGI:98664	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:11724	Non-essential	-0.004325295
+MGI:99463	Homozygous	Lethal	no_e95_data	Lethal	no_e145_data	no_e185_data	Before E12.5		Before E12.5	Before E14.5/E15.5	Before E18.5	-	HGNC:8964	Non-essential	-0.358342139
+MGI:95415	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	Lethal	Insufficient numbers to make a call	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:3446	Non-essential	0.010983807
+MGI:104976	Homozygous	Lethal	no_e95_data	no_e125_data	Lethal	no_e185_data	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:2747	Essential	-0.608328397
+MGI:1913789	Homozygous	Lethal	no_e95_data	no_e125_data	Lethal	no_e185_data	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:17675	Essential	-0.753274798
+MGI:1915171	Homozygous	Lethal	no_e95_data	no_e125_data	Lethal	no_e185_data	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:12480	Non-essential	0.047049814
+MGI:1915333	Homozygous	Lethal	no_e95_data	no_e125_data	Lethal	no_e185_data	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:20882	Essential	-0.999494534
+MGI:2144738	Homozygous	Lethal	no_e95_data	no_e125_data	Lethal	no_e185_data	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:20127	Essential	-0.525138574
+MGI:2442926	Homozygous	Lethal	no_e95_data	no_e125_data	Lethal	no_e185_data	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:29330	Essential	-0.780859273
+MGI:2444031	Homozygous	Lethal	no_e95_data	no_e125_data	Lethal	no_e185_data	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:23157	Non-essential	-0.256380405
+MGI:2447364	Homozygous	Lethal	no_e95_data	no_e125_data	Lethal	no_e185_data	Before E14.5/E15.5			Before E14.5/E15.5	Before E18.5	-	HGNC:24644	Essential	-0.808459518
+MGI:105491	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	Insufficient numbers to make a call	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:1769	Essential	-0.866331548
+MGI:1328337	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:8487	Essential	-0.66364532
+MGI:1925927	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10062	Essential	-0.520540325
+MGI:103202	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:291	Essential	-0.822421912
+MGI:108278	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:12491	Essential	-1.020581924
+MGI:109129	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:11540	Essential	-1.111725636
+MGI:109207	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3297	Essential	-0.647627968
+MGI:1096397	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17264	Essential	-1.124355719
+MGI:1096879	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3951	Essential	-0.605968204
+MGI:1099835	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10898	Non-essential	-0.193796817
+MGI:1315195	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	NA	NA	NA
+MGI:1328366	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:11103	Essential	-0.832753246
+MGI:1342005	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:7432	Non-essential	-0.189981494
+MGI:1344380	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:1919	Essential	-0.967905791
+MGI:1344416	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:744	Non-essential	-0.314961817
+MGI:1346082	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:6201	Non-essential	-0.121715098
+MGI:1858420	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:6960	Non-essential	-0.408111178
+MGI:1860263	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3043	Essential	-0.647349115
+MGI:1861452	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:23215	Non-essential	-0.272123194
+MGI:1888520	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:13575	Essential	-0.842104902
+MGI:1913390	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28006	Non-essential	-0.125279937
+MGI:1913711	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:26965	Essential	-0.650096463
+MGI:1913788	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28749	Essential	-0.535721646
+MGI:1913950	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:29865	Essential	-0.593866674
+MGI:1914039	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28287	Essential	-0.847779269
+MGI:1914195	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10680	Non-essential	-0.425041871
+MGI:1914454	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3266	Essential	-0.527824383
+MGI:1914864	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:18303	Essential	-0.564998494
+MGI:1915383	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:4208	Non-essential	-0.307986111
+MGI:1915826	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17955	Non-essential	-0.023695896
+MGI:1916260	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24540	Essential	-0.595689208
+MGI:1916442	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:2739	Essential	-0.639426905
+MGI:1916457	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10782	Essential	-0.972258914
+MGI:1917583	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24219	Non-essential	-0.390747672
+MGI:1917819	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:30696	Non-essential	0.026237682
+MGI:1920136	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:25518	Essential	-1.11720934
+MGI:1920328	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:9119	Essential	-1.06658786
+MGI:1922656	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:7714	Non-essential	-0.266698872
+MGI:1922702	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24103	Non-essential	0.028053973
+MGI:1923036	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28959	Essential	-1.039128361
+MGI:1923847	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28226	Essential	-0.905228218
+MGI:1925349	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:33499	Essential	-0.568321073
+MGI:1927170	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:18119	Essential	-0.81405478
+MGI:1929872	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24862	Non-essential	-0.279119634
+MGI:1931028	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	NA	NA	NA
+MGI:1934754	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:6215	Essential	-1.22012064
+MGI:2137225	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:14487	Essential	-0.87301417
+MGI:2137624	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:19702	Non-essential	-0.133626959
+MGI:2384891	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10007	Non-essential	-0.166498627
+MGI:2442620	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:18016	Essential	-1.045601881
+MGI:2676395	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:26162	Essential	-0.726980779
+MGI:98181	Homozygous	Lethal	Lethal	Insufficient numbers to make a call	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10452	Essential	-1.489229116
+MGI:1918366	Homozygous	Lethal	Lethal	Lethal	Insufficient numbers to make a call	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:15942	Essential	-0.662799414
+MGI:101785	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:7548	Essential	-0.541142324
+MGI:102964	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24085	Essential	-0.499490067
+MGI:103075	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:12761	Essential	-1.519609208
+MGI:103077	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:11438	Non-essential	0.064373913
+MGI:103199	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:6947	Essential	-0.933640358
+MGI:103286	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:865	Non-essential	-0.181406992
+MGI:104683	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3782	Essential	-0.539493059
+MGI:104767	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:4556	Essential	-0.482299831
+MGI:106354	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28122	Essential	-1.445478426
+MGI:107416	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:11467	Non-essential	-0.442243068
+MGI:107624	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:7530	Essential	-0.938178014
+MGI:107801	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:830	Essential	-0.675250596
+MGI:109618	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:854	Essential	-1.364407939
+MGI:1098673	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:19990	Essential	-1.031106042
+MGI:1100514	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:9162	Essential	-0.625385445
+MGI:1194508	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:2728	Essential	-0.768256963
+MGI:1201778	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:13724	Non-essential	-0.379885918
+MGI:1261847	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:12718	Essential	-0.5147475
+MGI:1309511	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:1745	Essential	-1.14795029
+MGI:1328368	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:1780	Essential	-1.005692209
+MGI:1336155	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:6708	Non-essential	0.041712806
+MGI:1351328	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17364	Essential	-0.587801704
+MGI:1859214	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:9115	Non-essential	-0.329048988
+MGI:1890613	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:8848	Essential	-0.7994613
+MGI:1913298	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28430	Non-essential	-0.294086786
+MGI:1913399	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:20361	Non-essential	-0.447015468
+MGI:1913585	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:856	Essential	-0.611473656
+MGI:1913743	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:14044	Non-essential	-0.388323155
+MGI:1913868	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:30240	Essential	-0.964227147
+MGI:1914000	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28346	Non-essential	-0.309382774
+MGI:1914071	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:1020	Essential	-0.47260469
+MGI:1914249	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24628	Essential	-0.606137626
+MGI:1914479	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17351	Non-essential	-0.42162158
+MGI:1914532	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24256	Non-essential	-0.3335089
+MGI:1914690	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:25532	Essential	-0.773888196
+MGI:1915283	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28074	Non-essential	-0.353496742
+MGI:1915609	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28737	Non-essential	-0.213184368
+MGI:1915671	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:23038	Non-essential	0.076208543
+MGI:1915813	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3007	Non-essential	-0.288161887
+MGI:1916359	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	NA	NA	NA
+MGI:1917110	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28147	Essential	-1.067774732
+MGI:1917678	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:30348	Essential	-1.181716044
+MGI:1917810	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:12730	Non-essential	-0.31406348
+MGI:1919240	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:20084	Essential	-1.025826961
+MGI:1919277	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17129	Non-essential	0.101406479
+MGI:1919680	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:15685	Non-essential	-0.149735594
+MGI:1920112	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:2263	Essential	-0.504547358
+MGI:1920185	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:18674	Essential	-1.124202216
+MGI:1921084	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:13527	Essential	-0.623410096
+MGI:1921850	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:16652	Non-essential	-0.296791749
+MGI:1922877	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:11134	Essential	-1.236687991
+MGI:1923428	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:33848	Non-essential	-0.39892003
+MGI:1927165	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17563	Essential	-0.719835214
+MGI:1932127	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:13949	Non-essential	-0.108767104
+MGI:1933169	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17059	Essential	-0.831970394
+MGI:2142527	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24659	Non-essential	-0.423210525
+MGI:2144727	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:2734	Non-essential	-0.442653724
+MGI:2147627	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:12840	Essential	-1.394174794
+MGI:2152819	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17978	Non-essential	-0.112390827
+MGI:2155302	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:21082	Essential	-0.542018033
+MGI:2384298	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:22973	Essential	-1.022761236
+MGI:2384801	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:4549	Essential	-0.874751062
+MGI:2384836	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24496	Essential	-0.992453016
+MGI:2385112	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:7708	Non-essential	-0.425226513
+MGI:2385165	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:15909	Non-essential	-0.262868062
+MGI:2385191	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:4648	Essential	-1.082046392
+MGI:2681836	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:30074	Essential	-1.412891609
+MGI:3607791	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:30220	Essential	-0.851190575
+MGI:87948	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:292	Non-essential	-0.379526117
+MGI:87968	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:343	Essential	-0.722292666
+MGI:88393	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:1915	Non-essential	-0.239570325
+MGI:88473	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:2265	Non-essential	-0.329669473
+MGI:88555	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	NA	NA	NA
+MGI:894323	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:9848	Essential	-0.529216617
+MGI:94890	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:2861	Essential	-0.525273194
+MGI:95300	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3260	Essential	-0.751553917
+MGI:95414	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3435	Essential	-0.491443019
+MGI:95588	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3976	Non-essential	-0.280069165
+MGI:95654	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:4163	Non-essential	-0.23340517
+MGI:95835	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:5238	Essential	-1.019673841
+MGI:95909	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:4927	Essential	-1.060825791
+MGI:97621	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:9077	Essential	-1.307070191
+MGI:97838	Homozygous	Lethal	Lethal	Lethal	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:3418	Essential	-0.910114389
+MGI:104643	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:8762	Essential	-1.113698544
+MGI:109345	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:16850	Essential	-0.641079535
+MGI:1194493	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:21095	Non-essential	-0.104632524
+MGI:1355319	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:9137	Essential	-0.512989248
+MGI:1855697	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:838	Essential	-0.650693594
+MGI:1859293	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10549	Non-essential	-0.259991783
+MGI:1913609	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:26970	Non-essential	-0.211245945
+MGI:1913699	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:29679	Essential	-1.12856521
+MGI:1914060	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:25503	Essential	-1.269948448
+MGI:1915217	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:20932	Essential	-1.238396822
+MGI:1919586	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:29685	Essential	-0.874010139
+MGI:1924971	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:14498	Essential	-0.632660477
+MGI:2136773	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:29322	Essential	-1.022668857
+MGI:2445102	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:16718	Essential	-1.031682284
+MGI:2682314	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17808	Non-essential	-0.208808346
+MGI:3583942	Homozygous	Lethal	Lethal	no_e125_data	Lethal	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:25675	Essential	-1.242114183
+MGI:102809	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10537	Essential	-1.542777664
+MGI:104560	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:8016	Essential	-1.148670104
+MGI:106331	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28760	Essential	-0.517596221
+MGI:106341	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:850	Non-essential	-0.361282986
+MGI:106374	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:22229	Non-essential	-0.01238832
+MGI:109584	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17346	Non-essential	-0.362170541
+MGI:1097163	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:9176	Essential	-0.699714688
+MGI:1098802	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24224	Non-essential	-0.332549423
+MGI:1195458	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:69	Essential	-0.868693486
+MGI:1289227	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:13195	Non-essential	-0.437395488
+MGI:1337100	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:12754	Essential	-0.724840811
+MGI:1350930	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:11304	Essential	-0.586214626
+MGI:1353498	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10989	Essential	-0.580207495
+MGI:1858202	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:9760	Non-essential	-0.277667453
+MGI:1913327	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24114	Non-essential	-0.443059421
+MGI:1913388	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:16405	Essential	-1.107942264
+MGI:1913431	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:14378	Essential	-0.950836018
+MGI:1913479	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:21370	Essential	-0.633135926
+MGI:1914486	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:23789	Essential	-0.830457043
+MGI:1914743	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28484	Essential	-1.016422691
+MGI:1915525	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:10289	Essential	-1.196146493
+MGI:1915526	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:15954	Essential	-0.562437601
+MGI:1915956	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:21965	Non-essential	-0.444546417
+MGI:1916233	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:21876	Essential	-0.499840163
+MGI:1916956	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:19742	Essential	-1.310769593
+MGI:1919999	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:7801	Essential	-1.048350032
+MGI:1921727	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:29110	Non-essential	0.074414377
+MGI:1923547	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:25160	Essential	-0.829055018
+MGI:1923800	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:28152	Non-essential	-0.146487748
+MGI:1923988	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:25459	Essential	-0.734994805
+MGI:1924823	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:18179	Essential	-0.718596166
+MGI:1928137	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:14508	Essential	-0.56461195
+MGI:1928140	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:14511	Essential	-0.479261437
+MGI:1929285	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17151	Essential	-1.139435996
+MGI:1929492	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:24047	Essential	-0.621588472
+MGI:1931520	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:15594	Essential	-1.449691612
+MGI:2141866	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:29550	Non-essential	-0.006671706
+MGI:2142632	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:32456	Essential	-1.151520076
+MGI:2177178	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:17098	Essential	-0.583722083
+MGI:2444136	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:25133	Essential	-0.961203072
+MGI:2685013	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:18622	Non-essential	-0.356529454
+MGI:3026886	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:26929	Non-essential	-0.145739936
+MGI:96112	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:4982	Non-essential	-0.241850938
+MGI:97402	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:8109	Non-essential	0.063560218
+MGI:99690	Homozygous	Lethal	Lethal	no_e125_data	no_e145_data	no_e185_data	Before E9.5	Before E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Early-gestation	HGNC:30073	Essential	-0.823483773
+MGI:1917270	Homozygous	Lethal	Lethal	Subviable	no_e145_data	no_e185_data	Conflicting					-	HGNC:13324	Non-essential	-0.380519612
+MGI:98736	Homozygous	Lethal	Lethal	Subviable	no_e145_data	no_e185_data	Conflicting					-	HGNC:11784	Non-essential	-0.080914839
+MGI:2444554	Homozygous	Lethal	no_e95_data	Subviable	Lethal	no_e185_data	E12.5-E14.5/E15.5	After E9.5	After E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:18752	Non-essential	-0.322211029
+MGI:88475	Homozygous	Lethal	no_e95_data	Viable	Lethal	Insufficient numbers to make a call	E12.5-E14.5/E15.5	After E9.5	After E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:2269	Essential	-0.543563554
+MGI:2442115	Homozygous	Lethal	no_e95_data	Viable	Lethal	no_e185_data	E12.5-E14.5/E15.5	After E9.5	After E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:25706	Non-essential	-0.312129772
+MGI:1338881	Homozygous	Lethal	Viable	Viable	Lethal	no_e185_data	E12.5-E14.5/E15.5	After E9.5	After E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:11344	Non-essential	0.040071557
+MGI:1926142	Homozygous	Lethal	Viable	Viable	Lethal	no_e185_data	E12.5-E14.5/E15.5	After E9.5	After E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:25248	Non-essential	-0.015634897
+MGI:2137022	Homozygous	Lethal	no_e95_data	Viable	Insufficient numbers to make a call	Lethal	E12.5-E18.5	After E9.5	After E12.5		Before E18.5	-	HGNC:24142	Non-essential	-0.237890372
+MGI:106651	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	Subviable	Lethal	E14.5/E15.5-E18.5	After E9.5	After E12.5	After E14.5/E15.5	Before E18.5	Late-gestation	HGNC:6727	Non-essential	0.059448115
+MGI:1928753	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	Subviable	Lethal	E14.5/E15.5-E18.5	After E9.5	After E12.5	After E14.5/E15.5	Before E18.5	Late-gestation	HGNC:8869	Essential	-0.54203038
+MGI:1354962	Homozygous	Lethal	no_e95_data	Insufficient numbers to make a call	Viable	Lethal	E14.5/E15.5-E18.5	After E9.5	After E12.5	After E14.5/E15.5	Before E18.5	Late-gestation	HGNC:2232	Essential	-1.215454489
+MGI:109544	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:356	Non-essential	0.114934747
+MGI:109637	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:3444	Non-essential	0.032324393
+MGI:1202392	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:4446	Non-essential	-0.138319618
+MGI:1203729	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:8971	Non-essential	-0.018388585
+MGI:1270863	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:9358	Non-essential	-0.099046776
+MGI:1338944	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:172	Non-essential	-0.067134049
+MGI:1342286	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:3750	Non-essential	-0.391411599
+MGI:1347054	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:4417	Non-essential	0.068050011
+MGI:1347094	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	NA	NA	NA
+MGI:1913653	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:20995	Non-essential	-0.272522662
+MGI:1914806	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:18858	Non-essential	-0.19213258
+MGI:1915068	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:26050	Non-essential	-0.056102736
+MGI:1922967	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:2556	Non-essential	0.189515605
+MGI:1930618	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:1573	Non-essential	-0.018639655
+MGI:1931249	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:20584	Non-essential	0.209880292
+MGI:2148922	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:14129	Non-essential	-0.129865589
+MGI:2448530	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:23595	Essential	-0.806794603
+MGI:88537	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:2444	Non-essential	-0.04212935
+MGI:95522	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:3688	Non-essential	-0.087804091
+MGI:95568	Homozygous	Lethal	Subviable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:3791	Non-essential	0.132643925
+MGI:102556	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:11603	Non-essential	-0.14527165
+MGI:104673	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:9645	Non-essential	0.148130418
+MGI:1100846	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:9234	Essential	-0.687034076
+MGI:1196325	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:23303	Non-essential	-0.097201966
+MGI:1333114	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:14135	Non-essential	-0.084463141
+MGI:1345643	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:16466	Non-essential	0.031078093
+MGI:1347008	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:9083	Non-essential	0.000425607
+MGI:1915896	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:26404	Non-essential	0.095431669
+MGI:1916366	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:30313	Essential	-0.912894139
+MGI:1922928	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:14645	Non-essential	-0.341943539
+MGI:1923661	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:29669	Non-essential	-0.033707363
+MGI:1924298	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:17966	Non-essential	0.138203197
+MGI:1924748	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:14671	Non-essential	-0.365501999
+MGI:1925152	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:13420	Non-essential	-0.277728194
+MGI:1927234	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:11449	Non-essential	-0.178939663
+MGI:2385110	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:29509	Non-essential	-0.021575432
+MGI:2677480	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:28369	Non-essential	-0.441260565
+MGI:2682064	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:30391	Non-essential	-0.081903249
+MGI:3576210	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:28988	Non-essential	-0.023091871
+MGI:95662	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:4171	Non-essential	0.134531351
+MGI:95718	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:4280	Non-essential	-0.121217642
+MGI:95768	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:4381	Non-essential	0.011630892
+MGI:95791	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:4432	Non-essential	-0.005119951
+MGI:96647	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:6205	Non-essential	-0.224348044
+MGI:99433	Homozygous	Lethal	Viable	Lethal	no_e145_data	no_e185_data	E9.5-E12.5	After E9.5	Before E12.5	Before E14.5/E15.5	Before E18.5	Mid-gestation	HGNC:655	Essential	-0.576078596
+MGI:1928378	Homozygous	Lethal	Subviable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:2867	Essential	-0.487014018
+MGI:107688	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:6320	Non-essential	0.010107167
+MGI:1330239	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:3005	Non-essential	-0.266661513
+MGI:1914769	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:26079	Non-essential	-0.016283909
+MGI:1915434	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:2769	Essential	-0.663998222
+MGI:1915848	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:15470	Essential	-0.676884681
+MGI:1924076	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:20278	Non-essential	-0.255011039
+MGI:2179288	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:18654	Essential	-0.641983044
+MGI:2384933	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:25522	Non-essential	-0.285954308
+MGI:2681271	Homozygous	Lethal	Viable	no_e125_data	Lethal	no_e185_data	E9.5-E14.5/E15.5	After E9.5		Before E14.5/E15.5	Before E18.5	-	HGNC:8966	Non-essential	-0.175538258
